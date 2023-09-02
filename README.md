@@ -52,7 +52,7 @@
     - [1.2.2.4. Lean UX Canvas](#lean-ux-canvas)
   - [1.3. Segmentos objetivo](#segmentos-objetivos)
 
-### [CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS](/Informe-de-Trabajo/capitulos/capitulo2.md#capitulo2-requirements-elicitation)
+### [CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS](/capitulos/capitulo2.md#capitulo2-requirements-elicitation)
 - [2.1. Competidores.](#competidores)
   - [2.1.1. Análisis competitivo](#analisis-competitivo)
   - [2.1.2. Estrategias y tácticas frente a competidores](#estrategias-tacticas-a-competidores)
@@ -67,13 +67,13 @@
   - [2.3.4. Empathy Mapping](#empathy-map)
   - [2.3.5. As-is Scenario Mapping](#as-is-scenario-map)
 
-### [CAPÍTULO III: REQUIREMENTS SPECIFICATION](/Informe-de-Trabajo/capitulos/capitulo3.md#capitulo3-requirements-specification)
+### [CAPÍTULO III: REQUIREMENTS SPECIFICATION](/capitulos/capitulo3.md#capitulo3-requirements-specification)
 - [3.1. To-Be Scenario Mapping](#to-be-scenario-map)
 - [3.2. User Stories](#user-stories)
 - [3.3. Impact Mapping](#impact-map)
 - [3.4. Product Backlog](#product-bakclog)
 
-### [CAPÍTULO IV: PRODUCT DESIGN](/Informe-de-Trabajo/capitulos/capitulo4.md#capitulo4-product-design)
+### [CAPÍTULO IV: PRODUCT DESIGN](/capitulos/capitulo4.md#capitulo4-product-design)
 - [4.1. Style Guidelines.]
   - [4.1.1. General Style Guidelines.]
   - [4.1.2. Web Style Guidelines.]
@@ -102,7 +102,7 @@
 - [4.8. Database Design.]
   - [4.8.1. Database Diagram.]
 
-### [CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT](/Informe-de-Trabajo/capitulos/capitulo5.md#capitulo5-product-implementation)
+### [CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT](/capitulos/capitulo5.md#capitulo5-product-implementation)
 - [5.1. Software Configuration Management.]
   - [5.1.1. Software Development Environment Configuration.]
   - [5.1.2. Source Code Management.]
