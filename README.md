@@ -39,7 +39,7 @@
 ## Project Report Collaboration Insights
 
 ## **Contenido**
-### [CAPÍTULO I: INTRODUCCIÓN](/Informe-de-Trabajo/capitulos/capitulo1.md#capitulo1-introduccion)
+### [CAPÍTULO I: INTRODUCCIÓN](/capitulos/capitulo1.md#capitulo1-introduccion)
 - [1.1 Startup Profile](#startup-profile)
   - [1.1.1. Descripción de la Startup](#descripcion-de-la-startup)
   - [1.1.2. Perfiles de integrantes del equipo](#perfiles-de-integrantes)
