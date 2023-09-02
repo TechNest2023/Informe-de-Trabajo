@@ -39,41 +39,41 @@
 ## Project Report Collaboration Insights
 
 ## **Contenido**
-### CAPÍTULO I: INTRODUCCIÓN
-- [1.1 Startup Profile]
-  - [1.1.1. Descripción de la Startup]
-  - [1.1.2. Perfiles de integrantes del equipo]
-- [1.2 Solution Profile]
-  - [1.2.1 Antecedentes y problemática]
-  - [1.2.2 Lean UX Process.]
-    - [1.2.2.1. Lean UX Problem Statements.]
-    - [1.2.2.2. Lean UX Assumptions.]
-    - [1.2.2.3. Lean UX Hypothesis Statements.]
-    - [1.2.2.4. Lean UX Canvas]
-  - [1.3. Segmentos objetivo.]
+### [CAPÍTULO I: INTRODUCCIÓN](/Informe-de-Trabajo/capitulos/capitulo1.md#capitulo1-introduccion)
+- [1.1 Startup Profile](#startup-profile)
+  - [1.1.1. Descripción de la Startup](#descripcion-de-la-startup)
+  - [1.1.2. Perfiles de integrantes del equipo](#perfiles-de-integrantes)
+- [1.2 Solution Profile](#solution-profile)
+  - [1.2.1 Antecedentes y problemática](#antecedentes-y-problematica)
+  - [1.2.2 Lean UX Process.](#lean-ux-process)
+    - [1.2.2.1. Lean UX Problem Statements](#lean-ux-problem-statements)
+    - [1.2.2.2. Lean UX Assumptions.](#lean-ux-assumptions)
+    - [1.2.2.3. Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)
+    - [1.2.2.4. Lean UX Canvas](#lean-ux-canvas)
+  - [1.3. Segmentos objetivo](#segmentos-objetivos)
 
-### CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS
-- [2.1. Competidores.]
-  - [2.1.1. Análisis competitivo.]
-  - [2.1.2. Estrategias y tácticas frente a competidores.]
-- [2.2. Entrevistas.]
-  - [2.2.1. Diseño de entrevistas.]
-  - [2.2.2. Registro de entrevistas.]
-  - [2.2.3. Análisis de entrevistas.]
-- [2.3. Needfinding.]
-  - [2.3.1. User Personas.]
-  - [2.3.2. User Task Matrix.]
-  - [2.3.3. User Journey Mapping.]
-  - [2.3.4. Empathy Mapping.]
-  - [2.3.5. As-is Scenario Mapping.]
+### [CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS](/Informe-de-Trabajo/capitulos/capitulo2.md#capitulo2-requirements-elicitation)
+- [2.1. Competidores.](#competidores)
+  - [2.1.1. Análisis competitivo](#analisis-competitivo)
+  - [2.1.2. Estrategias y tácticas frente a competidores](#estrategias-tacticas-a-competidores)
+- [2.2. Entrevistas.](#entrevistas)
+  - [2.2.1. Diseño de entrevistas](#diseño-de-entrevistas)
+  - [2.2.2. Registro de entrevistas](#registro-de-entrevistas)
+  - [2.2.3. Análisis de entrevistas](#analisis-de-entrevistas)
+- [2.3. Needfinding.](#needfinding)
+  - [2.3.1. User Personas.](#user-personas)
+  - [2.3.2. User Task Matrix](#user-task-matrix)
+  - [2.3.3. User Journey Mapping](#user-journey-mapping)
+  - [2.3.4. Empathy Mapping](#empathy-map)
+  - [2.3.5. As-is Scenario Mapping](#as-is-scenario-map)
 
-### CAPÍTULO III: REQUIREMENTS SPECIFICATION
-- [3.1. To-Be Scenario Mapping.]
-- [3.2. User Stories.]
-- [3.3. Impact Mapping.]
-- [3.4. Product Backlog.]
+### [CAPÍTULO III: REQUIREMENTS SPECIFICATION](/Informe-de-Trabajo/capitulos/capitulo3.md#capitulo3-requirements-specification)
+- [3.1. To-Be Scenario Mapping](#to-be-scenario-map)
+- [3.2. User Stories](#user-stories)
+- [3.3. Impact Mapping](#impact-map)
+- [3.4. Product Backlog](#product-bakclog)
 
-### CAPÍTULO IV: PRODUCT DESIGN
+### [CAPÍTULO IV: PRODUCT DESIGN](/Informe-de-Trabajo/capitulos/capitulo4.md#capitulo4-product-design)
 - [4.1. Style Guidelines.]
   - [4.1.1. General Style Guidelines.]
   - [4.1.2. Web Style Guidelines.]
@@ -102,7 +102,7 @@
 - [4.8. Database Design.]
   - [4.8.1. Database Diagram.]
 
-### CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
+### [CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT](/Informe-de-Trabajo/capitulos/capitulo5.md#capitulo5-product-implementation)
 - [5.1. Software Configuration Management.]
   - [5.1.1. Software Development Environment Configuration.]
   - [5.1.2. Source Code Management.]
