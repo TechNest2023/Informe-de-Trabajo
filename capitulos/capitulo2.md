@@ -32,6 +32,7 @@
 |Amenazas  |Competidores con alta experiencia en el mercado.  |Opiniones o reseñas negativas de los clientes. |Opiniones o reseñas negativas de los clientes. |Opiniones o reseñas negativas de los clientes.  |
 
 ***Nota:*** Este cuadro muestra el perfil, perfil de marketing, perfil del producto y el análisis SWOT de los competidores indirectos frente a nuestro producto.
+
 <br>
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
@@ -45,7 +46,9 @@ Tabla de definiciones:
 |0.50  |Participación media  |
 |0.25  |Casi sin participación  |
 |0.00  |Sin participación  |
+
 <br><br>
+
 **Tabla 3:**  Matriz de análisis de competencias
 |Detalles||EduFocus  |Terapify |Realizate |Mentoring |
 |--|--|--|--|--|--|
@@ -62,6 +65,7 @@ Tabla de definiciones:
 ||Eficiencia  |1 |1 |1 |1  | 
 ||Total|11 |10 |9.5 |10  | 
 ***Nota:*** La tabla muestra las calificaciones de los competidores directos de acuerdo con los criterios de grupo de funciones, tecnología y clientes.
+
 <br>
 
 **Tabla 4:**  Mejoras a realizar para generar mayor impacto con la competencia.
@@ -70,8 +74,6 @@ Tabla de definiciones:
 |Terapify  |Ofrecer mejores planes a los estudiante para obtener la  asesoría, mentoría o enseñanza de los expertos y manejar un ámbiente agradable.  |
 |Realizate| Proponer flexibilidad en los precios y acceso más libre por un pago mensual, trimestral o anual.  |
 |Mentoring|Manter precios más flexibles, además, ofrecer más cantidad de expertos en diferentes máterias que puedan ayudar al estudiante a desarrollar mejor sus actividades académicas. |
-
-
 
 ### 2.2. Entrevistas
 
