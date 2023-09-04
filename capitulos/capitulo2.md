@@ -3,7 +3,7 @@
 ### 2.1. Competidores
 
 #### 2.1.1. Análisis competitivo
-**Tabla 1:**  Análisis de competidores directos
+**Tabla 2:**  Análisis de competidores directos
 
 |Competitive Analysis Landscape|
 |--|
@@ -31,8 +31,47 @@
 |Oportunidades  |Problemas de organización, productividad, bienestar emocional, etc., que afectan a los estudiantes de educación superior.  |Personas con problemas de salud mental o bienestar emocional.  |Personas con falta de organización, hábitos y productividad.  |Personas con problemas de retención de la información o complicaciones en el estudio.  |
 |Amenazas  |Competidores con alta experiencia en el mercado.  |Opiniones o reseñas negativas de los clientes. |Opiniones o reseñas negativas de los clientes. |Opiniones o reseñas negativas de los clientes.  |
 
+***Nota:*** Este cuadro muestra el perfil, perfil de marketing, perfil del producto y el análisis SWOT de los competidores indirectos frente a nuestro producto.
+<br>
 
 #### 2.1.2. Estrategias y tácticas frente a competidores
+
+
+Tabla de definiciones: 
+|Peso|Definición |
+|--|--|
+|1  |Con participación  |
+|0.75  |Casi con participación  |
+|0.50  |Participación media  |
+|0.25  |Casi sin participación  |
+|0.00  |Sin participación  |
+<br><br>
+**Tabla 3:**  Matriz de análisis de competencias
+|Detalles||EduFocus  |Terapify |Realizate |Mentoring |
+|--|--|--|--|--|--|
+|**Grupo de funciones**|Gestión de Innovación  |1 |1 |1 |1  | 
+||Gestión de calidad  |1 |1 |1 |1  | 
+||Flexibilidad  |1 |1 |1|1  |
+||Marketing  |1 |0.50 |0.50 |0.75  |
+|**Tecnológico**|Seguridad de información  |1 |1 |1 | 1
+||Diseño UX y UI  |1 |1 |1 |1  
+||Multiplataforma  |1 |1 |0.50 |0.50 
+|**Clientes**|Precio  |1 |0.75 |0.50 |0.75
+||Satisfacción  |1 |0.75 |1 |1  | 
+||Usabilidad  |1 |1 |1 |1  | 
+||Eficiencia  |1 |1 |1 |1  | 
+||Total|11 |10 |9.5 |10  | 
+***Nota:*** La tabla muestra las calificaciones de los competidores directos de acuerdo con los criterios de grupo de funciones, tecnología y clientes.
+<br>
+
+**Tabla 4:**  Mejoras a realizar para generar mayor impacto con la competencia.
+|Competidores|Mejoras  |
+|--|--|
+|Terapify  |Ofrecer mejores planes a los estudiante para obtener la  asesoría, mentoría o enseñanza de los expertos y manejar un ámbiente agradable.  |
+|Realizate| Proponer flexibilidad en los precios y acceso más libre por un pago mensual, trimestral o anual.  |
+|Mentoring|Manter precios más flexibles, además, ofrecer más cantidad de expertos en diferentes máterias que puedan ayudar al estudiante a desarrollar mejor sus actividades académicas. |
+
+
 
 ### 2.2. Entrevistas
 
