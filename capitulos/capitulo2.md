@@ -64,6 +64,7 @@ Tabla de definiciones:
 ||Usabilidad  |1 |1 |1 |1  | 
 ||Eficiencia  |1 |1 |1 |1  | 
 ||Total|11 |10 |9.5 |10  | 
+
 ***Nota:*** La tabla muestra las calificaciones de los competidores directos de acuerdo con los criterios de grupo de funciones, tecnología y clientes.
 
 <br>
