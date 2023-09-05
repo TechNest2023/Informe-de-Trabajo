@@ -324,6 +324,30 @@ Vivo en el distrito de Cercado de Lima
 
 #### 2.2.3. Análisis de entrevistas
 
+**Gráfico 7:** Rendimiento académico de los estudiantes
+  [![grafico1.png](https://i.postimg.cc/WbJRy9g0/grafico1.png)](https://postimg.cc/SJqt2fZK)
+
+ ***Fuente:*** Elaboración propia
+
+En el gráfico 7, se observa que los estudiantes entrevistados tiene un rendimiento académico bueno a excelente, pero no se por olvidado que aún siguen teniendo algunos problemas o siguen buscando la mejora continua.
+
+**Gráfico 8:** Opiniones de los estudiantes acerca de seguir mejorando de manera constante.
+[![grafico3.png](https://i.postimg.cc/t4Q0GhNw/grafico3.png)](https://postimg.cc/ykPpF35y)
+
+  
+ ***Fuente:*** Elaboración propia
+
+En el gráfico 8, se ve que la mayoría de los estudiantes entrevistados quieren mucho o demasiado mejorar sus hábitos, rutinas o estado emocional para seguir mejorando su desempeño.
+
+**Gráfico 9:**  Técnicas de estudio más usadas por los estudiantes
+
+[![grafico2.png](https://i.postimg.cc/pVSbqNh2/grafico2.png)](https://postimg.cc/K4tH8HDV)
+
+ ***Fuente:*** Elaboración propia
+
+En el  gráfico 9, se ve que los apuntes y el repaso activo son los métodos o estrategias de estudio que usan los estudiantes.
+
+
 ### 2.3. Needfinding
 
 #### 2.3.1. User Personas
