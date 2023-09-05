@@ -155,10 +155,11 @@ Gráfico 4: Entrevista 1 a estudiante
 ***Nota:*** Se presentó al estudiante la serie de preguntas preparadas previamente por el equipo.
 
 URL: https://www.youtube.com/watch?v=Lwe9CumHzXw
-Timing: 0:08
-Duración: 18 minutos
 
- **Preguntas demográficas:** 
+Timing: 0:08
+Duración: 18 
+
+ **Preguntas demográficas:**
 -  ¿Cuál es tu nombre?	 
 		Mi nombre es Alexandra
 	 
@@ -213,24 +214,113 @@ Busqué asesoramiento de una psicóloga para lidiar con desafíos laborales y bu
    Sí, he buscado testimonios en línea para obtener orientación en momentos difíciles.
 	<br><br>
 
+
+
 Gráfico 5: Entrevista 2 a estudiante
+[![estudiante-interview.png](https://i.postimg.cc/rpFqJkny/estudiante-interview.png)](https://postimg.cc/XrmMjT6t)
 ***Nota:*** Se presentó al estudiante la serie de preguntas preparadas previamente por el equipo.
-URL: 
-Timing: 
-Duración: 
 
-Gráfico 6: Entrevista 1 a especialista
+URL: https://www.youtube.com/watch?v=DYDxBRjZNVI
+
+Timing: 0:00
+
+Duración: 3 
+
+ 
+ **Preguntas demográficas:**
+- ¿Cuál es tu nombre?
+Mi nombre es  Nancy Inga
+
+- ¿Qué edad tienes?
+Tengo 18 años
+
+- ¿De qué distrito eres?
+Vivo en el distrito de Ventanilla
+
+  
+
+**Preguntas principales:**
+
+- ¿Cómo crees que ha sido tu rendimiento académico hasta ahora?
+	Hasta ahora me va bastante bien.
+
+- ¿Cómo te organizas para estudiar diferentes materias?
+	Normalmente, trato de repasar todos los temas que veo en las diferentes clases.
+
+- ¿Utilizas alguna técnica o hábito de estudio para retener mejor la información?
+	A veces, uso Sticky Notes para hacer flashcards y repasar los temas de mis cursos.
+
+- ¿Cómo manejas los momentos de estrés durante las fechas de exámenes o entrega de proyectos?
+	Trato de escuchar música o ver algo que me relaja mucho.
+
+- ¿Has recibido apoyo de personas cercanas a ti que te ayuden en tus estudios?
+	A veces recibo ayuda de amigos para temas que son más difíciles de mi carrera.
+	
+- ¿Tienes amigos con los que haces grupo de estudio en alguna materia?
+	Con los que viven más cerca a mi domicilio, suelo hacer grupos de estudio.
+
+- ¿Sientes que necesitas mejorar para alcanzar un rendimiento académico más sólido?
+	En lo personal siento que en general necesito mejorar varias cosas para lograr un desempeño académico sobresaliente.
+	
+- ¿Te encuentras satisfecho con el equilibrio entre tu vida académica y personal?
+	Si, auque quisiera que se pueda mejorar mucho más.
+	
+- ¿Qué aspectos de tu bienestar emocional o psicológico podrían afectar a tu desempeño académico?
+	El estrés de las tareas pueden afectar mi capacidad productiva de hacer mis actividades académicas.
+	
+- ¿Has tomado alguna medida o has encontrado un espacio para poder solucionar?
+	Aún no he tomado ninguna acción al respecto.
+
+- ¿Has usado herramientas digitales o aplicaciones para encontrar la ayuda que necesitas?
+	Hasta este momento aún no he usado ninguna herramienta o aplicación para este tipo de problemas.
+
+<br><br>
+
+Gráfico 6: Entrevista  a especialista
+[![especialista-interview.png](https://i.postimg.cc/MpYWVTYr/especialista-interview.png)](https://postimg.cc/zyVZ1q6n)
+
 ***Nota:*** Se presentó al especialista la serie de preguntas preparadas previamente por el equipo.
-URL: 
-Timing: 
-Duración: 
+
+URL: https://www.youtube.com/watch?v=SleT0Tdj2ZM
 
 
-Gráfico 7: Entrevista 2 a especialista
-***Nota:*** Se presentó al especialista la serie de preguntas preparadas previamente por el equipo.
-URL: 
-Timing: 
-Duración: 
+Timing: 0:13
+
+Duración: 5
+
+**Preguntas demográficas:**
+- ¿Cuál es tu nombre?
+Mi nombre es  Nadir Esquivel
+
+- ¿Qué edad tienes?
+Tengo 25 años
+
+- ¿De qué distrito eres?
+Vivo en el distrito de Cercado de Lima
+
+  
+**Preguntas principales:**
+- En tu experiencia trabajando con estudiantes universitarios, ¿cuáles son los desafíos más comunes que observas en términos de rendimiento académico y bienestar en general?
+
+	Muchas veces, cuando los estudiantes tienen dudas, prefieren no hacer nada al respecto. Simplemente se quedan frustrados y evitan intentar entender algún concepto que les es desconocido.
+
+- ¿Cómo crees que tus habilidades y conocimientos podrían ser beneficiosos para ayudar a los estudiantes a superar estos desafíos y tener éxito en sus estudios?
+
+	Creo que mis habilidades y conocimientos podrían ayudar a los estudiantes a encontrar recursos y proporcionar explicaciones adicionales para comprender conceptos que pueden ser difíciles.
+
+- ¿Cuál es tu forma de trabajo con los estudiantes o que es lo que realizas en tus sesiones generalmente?
+
+	En mis clases de reforzamiento, trato de repasar lo que ya se ha explicado en clase y asegurarme de que los estudiantes hayan entendido. Realizo un sondeo para entender en qué nivel se encuentran académicamente y me adapto en consecuencia.
+
+- ¿Has trabajado anteriormente en entornos virtuales o en línea? Si es así, ¿qué herramientas has encontrado más efectivos para mantener una comunicación significativa con los estudiantes?
+
+	Sí, he trabajado en entornos virtuales y he utilizado herramientas como Collaborate para realizar reuniones virtuales y ayudar en tiempo real en el progreso de los estudiantes. 
+
+- ¿Qué indicadores considerarías para evaluar el progreso de los estudiantes que reciben tu ayuda?
+
+	Utilizo sondeos continuos después de cada sesión para evaluar el progreso de los estudiantes. Evalúo los conceptos más importantes y veo si algunos estudiantes los conocen o no, lo que me permite ajustar mi enfoque.
+<br><br>
+
 
 #### 2.2.3. Análisis de entrevistas
 
