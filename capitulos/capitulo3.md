@@ -67,7 +67,7 @@
 |12 |US-15 |Crear nueva conversación |Como estudiante quiero conversar fuera de las sesiones sincrónicas con mi especialista, para consultarle algunas dudas. |3 |
 |13 |US-16 |Visualizar conversación |Como estudiante quiero revisar mis conversaciones con mi especialista, para revisar lo que se ha conversado. |3 |
 |14 |US-17 |Eliminar conversación |Como estudiante quiero eliminar mis conversaciones con mi especialista, porque ya no veo la necesidad de tenerlo. |3 |
-|15 |US-18 |Buscar conversación por filtro |Buscar conversación por filtro |3 |
+|15 |US-18 |Buscar conversación por filtro |Como estudiante quiero buscar chats de conversación, para encontrar rápidamente la información que necesito.|3 |
 |16 |US-01 |Registro de nuevos especialistas |Como especialista quiero registrarme en la plataforma de EduFocus, para poder brindar mis servicios a los alumnos. |2 |
 |17 |US-02 |Modificar datos de los especialistas |Como especialista quiero modificar mis datos de usuario, para tener mi perfil más personalizado. |2 |
 |18 |US-04 |Borrar especialista |Como estudiante quiero realizar un una queja o reclamo, para hacer saber que el especialista no cumple las expectativas necesarias. |2 |
@@ -80,3 +80,12 @@
 |25 |US-20 |Modificar sesión |Como estudiante quiero modificar una sesión agendada, para cambiar la fecha y hora de acuerdo con mi disponibilidad y la del especialista. |2 |
 |26 |US-21 |Eliminar sesión |Como estudiante quiero eliminar una sesión agendada, porque decidí elegir a otro especialista de mi preferencia. |2|
 |27 |US-22 |Buscar sesiones por filtro |Como estudiante quiero buscar mis sesiones agendadas, para tener un panorama general de mis asesorías. |2 |
+<br><br>
+
+Tablero Trello para seguimiento del Sprint 1:
+
+[![trello.png](https://i.postimg.cc/xjPNcz2T/trello.png)](https://postimg.cc/4nmx0nyr)
+
+***Nota:*** Se usó la herramienta de Trello para el seguimiento del Product Backlog
+
+URL: https://trello.com/invite/b/jvy2pIMW/ATTI3b9f29c9e2d80e68eb7fe4271312289dA1712056/technest-edufocus-app 
