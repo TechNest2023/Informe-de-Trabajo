@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2f24e3f705324692",
+        "id": "b561cb64884044cd",
         "type": "tabs",
         "children": [
           {
-            "id": "9d9aa049549fc6ae",
+            "id": "386f1e224a78045b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "capitulos/capitulo4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "capitulos/capitulo4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "capitulos/capitulo4.md"
+              }
             }
           }
         ]
@@ -130,9 +134,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
-      "canvas:Create new canvas": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
@@ -140,9 +144,16 @@
   },
   "active": "fe6515152e625429",
   "lastOpenFiles": [
-    "capitulos/capitulo1.md",
-    "capitulos/capitulo2.md",
+    "landing/Desktop.jpg",
+    "landing/movile.jpg",
+    "Sin título.md",
+    "landing/movile.png",
+    "landing/Desktop.png",
+    "capitulos/capitulo4.md",
+    "landing",
+    "capitulos/capitulo5.md",
     "capitulos/capitulo3.md",
-    "capitulos/capitulo5.md"
+    "capitulos/capitulo2.md",
+    "capitulos/capitulo1.md"
   ]
 }
