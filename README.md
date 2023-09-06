@@ -1,6 +1,11 @@
 <div align="center">
 
 ## Universidad Peruana de Ciencias Aplicadas 
+
+<div align="center">
+		<img src="https://i.postimg.cc/6598BW1v/upc-logo.png" alt="upc-logo" width="250" height="150">
+</div>
+
 ## Ingenieria de software 
 ## Ciclo V
 
@@ -30,10 +35,10 @@
 
 | Versión | Fecha       | Autor            | Descripción de modificación       |
 | ------- | ----------- | ---------------- | --------------------------------- |
-| 1    | [Fecha]     | [Nombre Autor]  | [Descripción de la modificación] |
-| 2    | [Fecha]     | [Nombre Autor]  | [Descripción de la modificación] |
-| 3    | [Fecha]     | [Nombre Autor]  | [Descripción de la modificación] |
-| 4    | [Fecha]     | [Nombre Autor]  | [Descripción de la modificación] |
+| 1    | 01/09/2023     | Moreno Rosales, Claudio Jesús| Se realizó la Startup Profile, Perfiles de Integrantes, Solution Profile, Lean Ux Process y Segmentos objetivo.  |
+| 1.1    | 02/09/2023     | Moreno Rosales, Claudio Jesús  |Se realizó el estudio de Competidores, Análisis competitivo, diseño y análisis de entrevistas. |
+| 1.2    | 05/09/2023     | Moreno Rosales, Claudio Jesús  | Se realizó las User Stories y el Product Backlog |
+| 2  | [Fecha]     | [Nombre Autor]  | [Descripción de la modificación] |
 
 
 ## Project Report Collaboration Insights
@@ -123,9 +128,14 @@
 
 
 ## Student Outcome
+
+El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 3**
+
+**Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias. En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
+
 | Criterio Específico | Acciones Realizadas | Conclusiones                                      |
 | ------------------- | ------------------- | ------------------------------------------------- |
-|  | [Acciones] | [Conclusiones sobre el criterio]               |
-
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|Moreno Rosales, Claudio Jesús<br><br> **TB1:** En el transcurso del proyecto se ha tenido que realizar una comunicación efectiva con los segmentos objetivo e interesados del proyecto, para obtener la mayor cantidad de requisitos y necesidades posibles, esto ayuda a construir un mejor diseño de proyecto ágil.| **TB1:**
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. |Moreno Rosales, Claudio Jesús <br><br>**TB1:** Después de haber recolectado la información necesaria sobre nuestro público objetivo, interesados y haber realizado las entrevistas e investigaciones, se tradujo toda la información en arquetipos Persona y User Stories. |**TB1:**
 
 
