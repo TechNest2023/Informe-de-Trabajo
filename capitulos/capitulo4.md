@@ -32,8 +32,20 @@ Como equipo, hemos acordado adoptar un formato jerárquico convencional, que se 
   <strong>Landing page</strong>
 </div>
 
+* **Inicio**
+   En esta sección será la pantalla de nuestro landing page, ya que permitirá a los usuarios registrarse e iniciar sesión en nuestra web application
 
+* **Habilidades de estudio a desarrollar**
+   En esta sección se indican algunas habilidades que el usuario logrará desarrollar gracias al uso de nuestro sistema
+* **Estrategias para bienestar emocional**
+   En esta sección se colocarán algunas estrategias que los estudiantes aprenderán para su bienestar emocional
 
+* **Seguimiento académico**
+   En esta sección se detalla sobre esa funcionalidad que tiene la web application
+* **Call-to-action**
+   Los usamos para poder lograr que nuestro usuario se interese en visitar nuesta web application
+* **Footer**
+   Está sección contendrá la información de contacto y referencias otras páginas 
 #### 4.2.2. Labeling Systems.
 
 Los "Sistemas de Etiquetado" son un conjunto de métodos y tácticas empleados para asignar nombres, etiquetas o títulos explicativos a elementos y secciones en una interfaz digital, como un sitio web, una aplicación móvil o una plataforma en línea.
@@ -339,21 +351,37 @@ asesorías.
 #### 4.4.2. Web Applications Mock-ups.
 
 <div align="center" style="{}" >
+   En esta ventana los usuarios se logearán para poder ingresar a nuestra web application
     <img src="./design-images/web-app/mockups/estudiante/inicio_sesion.jpg" width=700/>
-    <img src="./design-images/web-app/mockups/estudiante/registro.jpg" width=700/>
-    <img src="./design-images/web-app/mockups/estudiante/inicio_estudiante.jpg" width=700/>
-    <img src="./design-images/web-app/mockups/estudiante/Agendar_sesion.jpg" width=700/>
-    <img src="./design-images/web-app/mockups/estudiante/lista_sesiones_agendadas.jpg" width=700/>
-    <img src="./design-images/web-app/mockups/estudiante/chat_estudiante.jpg" width=700/>
-    <img src="./design-images/web-app/mockups/estudiante/encio_mensajes_estudiante.jpg" width=700/>
-   <img src="./design-images/web-app/mockups/estudiante/actividades_estudiante.jpg" width=700/>
-    <img src="./design-images/web-app/mockups/estudiante/perfil-especialista-desdeAlumno.jpg" width=700/>
-    <img src="./design-images/web-app/mockups/estudiante/progreso.jpg" width=700/>
 
+   Esta ventana es la del formulario de registro, nuestros usuarios podrán registrarse como especialistas o estudiantes
+    <img src="./design-images/web-app/mockups/estudiante/registro.jpg" width=700/>
+    Esta es la ventana de inicio para los que se registraron como estudiantes, se muestra la diversidad de especialistas que tiene la plataforma
+    <img src="./design-images/web-app/mockups/estudiante/inicio_estudiante.jpg" width=700/>
+   Esta es la ventana para crear una sesión con alguno de los especialistas según la disponibilidad de los mismos
+    <img src="./design-images/web-app/mockups/estudiante/Agendar_sesion.jpg" width=700/>
+    Esta es la ventana en la que se muestran todas las sesiones pendientes con los diversos especialistas
+    <img src="./design-images/web-app/mockups/estudiante/lista_sesiones_agendadas.jpg" width=700/>
+    Esta es la ventana de chat general, en dónde el estudiante podrá comunicarse con los especialistas con los que tiene sesiones pendientes
+    <img src="./design-images/web-app/mockups/estudiante/chat_estudiante.jpg" width=700/>
+    Esta es la ventana de chat personal que tiene el estudiante con el especialista
+    <img src="./design-images/web-app/mockups/estudiante/encio_mensajes_estudiante.jpg" width=700/>
+    Esta es la ventana en la que el estudiante subirá las actividades asignadas por los diferentes especialistas con los que tiene una sesión programada
+   <img src="./design-images/web-app/mockups/estudiante/actividades_estudiante.jpg" width=700/>
+   En esta ventana se muestra el perfil del especialista y las actividades encargadas para mí
+    <img src="./design-images/web-app/mockups/estudiante/perfil-especialista-desdeAlumno.jpg" width=700/>
+    En esta ventana  se muestra las calificaciones otorgadas por los especialistas respecto a las actividades asignadas.
+    <img src="./design-images/web-app/mockups/estudiante/progreso.jpg" width=700/>
+    En esta ventana se muestra el chat personal abierto desde la perspectiva del especialista
   <img src="./design-images/web-app/mockups/especialista/chat-mensajes.jpg" width=700/>
+  En esta ventana se muestran todos los chats con los diferentes alumnos que tienen programada una sesión con el especialista desde la perspectiva del mismo
   <img src="./design-images/web-app/mockups/especialista/chat.jpg" width=700>
+  En esta ventana se muestra como los especialistas pueden definir su horario disponible para los estudiantes
   <img src="./design-images/web-app/mockups/especialista/estableces%20horarios.jpg" width=700>
+
+  En esta sección se muestra el perfil del estudiante desde la perspectiva del especialista, el cual puede dejarle actividades personalizadas
   <img src="./design-images/web-app/mockups/especialista/peril-estudiante.jpg" width=700>
+  Y por último, en esta ventana se muestra todas las sesiones programadas por los alumnos desde la perspectiva del especialista
   <img src="./design-images/web-app/mockups/especialista/sesiones_programadas.jpg" width=700>
 
 </div>
