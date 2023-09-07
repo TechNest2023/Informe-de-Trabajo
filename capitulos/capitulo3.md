@@ -2,6 +2,15 @@
 
 ### 3.1. To-Be Scenario Mapping.
 
+**Usuario Estudiante: **
+
+[![Scenario-TOBE1.jpg](https://i.postimg.cc/YS966F2c/Scenario-TOBE1.jpg)](https://postimg.cc/dhbZvLTn)
+
+  **Usuario especialista: ** 
+  
+  [![Scenario-To-Be2.jpg](https://i.postimg.cc/x1gGN52y/Scenario-To-Be2.jpg)](https://postimg.cc/JsDH9btG)
+
+
 ### 3.2. User Stories.
 
 
@@ -47,7 +56,7 @@
 |US-26 |Precios o planes de suscripción |Como visitante del segmento estudiante o especialista quiero visualizar los planes de suscripción, para poder ver si se ajusta a mi economía. |**Escenario**: Usuario visualiza los tipos de planes que tiene EduFocus<br><br> **Dado que** el usuario se encuentra en la pantalla de inicio <br>**Cuando** se desplace hacia la sección “Planes”<br> **Entonces** visualizará los planes disponibles que tiene EduFocus |EP07  | 
 |US-27 |Página reponsive |Como visitante del segmento estudiante o especialista, quiero que la página web se adapte a diferentes dispositivos para poder visualizar a la información desde mi celular o computadora. |**Escenario 1:** El visitante visualiza la Landing Page de EduFocus desde una computadora.<br><br> **Dado que** el usuario se ingresa a la página web de EduFocus<br> **Cuando** navegue por la página <br>**Entonces** visualizará todos los contenidos adaptados a su tamaño de pantalla.<br><br><br>**Escenario 2:** El visitante visualiza la Landing Page de EduFocus desde un celular.<br><br> **Dado que** el usuario se ingresa a la página web de EduFocus<br> **Cuando** navegue por la página<br> **Entonces** visualizará todos los contenidos adaptados a su tamaño de pantalla. |EP07  | 
 
-### 3.3. Impact Mapping.
+### 3.3.
 
 ### 3.4. Product Backlog.
 
