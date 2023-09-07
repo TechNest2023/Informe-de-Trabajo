@@ -8,13 +8,14 @@ En esta sección, delineamos los principios de estilo que guiarán la creación 
 
 En esta sección, se presentará la gama completa de colores que hemos establecido, así como los íconos, el logotipo y la fuente de texto elegidos. Estos elementos son fundamentales en la construcción de los estilos visuales que definirán la estética de nuestra plataforma web. Cada tono y diseño ha sido meticulosamente escogido para comunicar una identidad uniforme y distintiva en toda la aplicación, garantizando una experiencia visual atractiva para quienes la utilicen.
 
-**Agregar imagen**
+<img src="./design-images/styles-guidelines/general.jpg">
 
 #### 4.1.2. Web Style Guidelines.
 
-En esta sección, se presentará la gama completa de colores que hemos establecido, así como los íconos, el logotipo y la fuente de texto elegidos. Estos elementos son fundamentales en la construcción de los estilos visuales que definirán la estética de nuestra plataforma web. Cada tono y diseño ha sido meticulosamente escogido para comunicar una identidad uniforme y distintiva en toda la aplicación, garantizando una experiencia visual atractiva para quienes la utilicen.
+En esta sección, se presentará la gama completa de colores que hemos establecido, así como los íconos, el logotipo y la fuente de texto elegidos. Estos elementos son fundamentales en la construcción de los estilos visuales que definirán la estética de nuestra plataforma web. Cada tono y diseño ha sido meticulosamente escogido para comunicar una identidad uniforme y distintiva en toda la aplicación, garantizando una experiencia visual atractiva para quienes la utilicen. Se eligió la fuente Poppins de Google debido a que tiene un estilo moderno, también elegimos lo botones con borde redondeado y sin contorno para que hagan juego con la fuente. En cuanto a los íconos, los elegimos básandonos en la iconografía básica de muchas web applications.
 
-**Agregar imagen**
+<img src="./design-images/styles-guidelines/web.jpg">
+
 
 ### 4.2. Information Architecture.
 
@@ -167,7 +168,7 @@ Los "Navigation Systems" (Sistemas de Navegación) se refieren a las estrategias
 
  <div align="center" style="{}" >
   <strong>Landing page para Mobile Web Browser</strong>
-  <img src="./design-images/landing-page/wireframes/landing-wireframe-movilejpg.jpg"/>
+  <img src="./design-images/landing-page/wireframes/landing-wireframe-movilejpg.jpg" width="400"/>
 </div>
 
 #### 4.3.2. Landing Page Mock-up.
@@ -207,7 +208,176 @@ Los "Navigation Systems" (Sistemas de Navegación) se refieren a las estrategias
 </div>
 
 #### 4.4.2. Web Applications Wireflow Diagrams.
+En esta sección se mostrarán los wireflow de nuestra web application, para ello elaboraremos los steps y los Task Flows para casa User Goal.
 
+1. User Goal 1:
+   Registro de nuevos especialistas
+   
+    Como especialista quiero 
+  registrarme en la  
+  plataforma de EduFocus,
+  para poder brindar mis 
+  servicios a los alumnos.
+
+   * Task Flow
+         <img src="./design-images/taskflows/tf1.jpg">
+   * Wireflow
+    
+2. User Goal 2: Modificar datos 
+de los 
+especialistas
+
+   Como especialista quiero 
+  modificar mis datos de 
+  usuario, para tener mi 
+  perfil más personalizado.
+
+   * Task Flow
+      <img src="./design-images/taskflows/tf2.jpg">
+   * Wireflow
+3. User Goal 3: Buscar 
+especialistas por 
+filtro
+
+   Como estudiante quiero 
+buscar a los especialistas 
+por área de expertís, para
+poder agendar una sesión.
+
+   * Task Flow
+   <img src="./design-images/taskflows/tf3.jpg">
+   * Wireflow
+4. User Goal 4: Borrar 
+especialista
+
+    Como estudiante quiero 
+  realizar un una queja o 
+  reclamo, para hacer saber 
+  que el especialista no 
+  cumple las expectativas 
+  necesarias
+   * Task Flow
+      <img src="./design-images/taskflows/tf4.jpg">
+   * Wireflow
+  
+5. User Goal 5: Registro de 
+nuevo 
+estudiante
+  
+    Como estudiante quiero 
+registrarme en la 
+plataforma de EduFocus,
+para acceder al amplio 
+catálogo de especialistas.
+
+   * Task Flow
+     <img src="./design-images/taskflows/tf5.jpg">
+   * Wireflow
+6. User Goal 6: Buscar 
+estudiantes por 
+filtro
+
+    Como especialista quiero 
+buscar a los estudiantes 
+que han reservado cita 
+conmigo, para tener mejor 
+organizado mis horarios y 
+sesiones
+
+   * Task Flow
+       <img src="./design-images/taskflows/tf6.jpg">
+
+   * Wireflow
+7. User Goal 7:Registro de 
+nuevo 
+seguimiento
+
+
+    Como estudiante quiero 
+tener un seguimiento de 
+mis actividades 
+encargadas por el 
+especialista, para tener 
+una mejor comprensión y 
+adaptación de lo tratado 
+en las sesiones.
+
+   * Task Flow
+      <img src="./design-images/taskflows/tf7.jpg">
+   * Wireflow
+8. User Goal 8: Visualizar
+progreso de 
+seguimiento
+
+    Como estudiante quiero 
+visualizar mi progreso de 
+las actividades de 
+seguimiento, para tener 
+un mejor entendimiento 
+de mis avances
+   * Task Flow
+      <img src="./design-images/taskflows/tf8.jpg">
+   * Wireflow
+  
+9.  User Goal 9: Eliminar cuenta
+
+    Como estudiante o 
+especialista quiero 
+eliminar mi cuenta para 
+dejar de usar los servicios 
+de EduFocus
+
+    * Task Flow
+   <img src="./design-images/taskflows/tf9.jpg">
+    * Wireflow
+  
+
+10.   User Goal 10: Eliminar sesión 
+   
+       Como estudiante quiero 
+eliminar una sesión
+agendada, porque decidí 
+elegir a otro especialista 
+de mi preferencia.
+
+   * Task Flow
+      <img src="./design-images/taskflows/tf10.jpg">
+    * Wireflow
+11.   User Goal 11: Crear nueva 
+sesión
+
+    Como estudiante quiero 
+crear una nueva sesión,
+para empezar con las 
+asesorías entre pares
+   * Task Flow
+      <img src="./design-images/taskflows/tf11.jpg">
+    * Wireflow
+
+1.    User Goal 12: Modificar sesión
+
+       Como estudiante quiero 
+modificar una sesión
+agendada, para cambiar la
+fecha y hora de acuerdo 
+con mi disponibilidad y la 
+del especialista.
+    * Task Flow
+      <img src="./design-images/taskflows/tf12.jpg">
+    * Wireflow
+
+
+13.   User Goal 13: Buscar sesiones 
+por filtro
+
+    Como estudiante quiero 
+buscar mis sesiones 
+agendadas, para tener un 
+panorama general de mis 
+asesorías.
+    * Task Flow
+      <img src="./design-images/taskflows/tf13.jpg">
+    * Wireflow
 #### 4.4.2. Web Applications Mock-ups.
 
 <div align="center" style="{}" >
@@ -231,7 +401,6 @@ Los "Navigation Systems" (Sistemas de Navegación) se refieren a las estrategias
 </div>
 
 #### 4.4.3. Web Applications User Flow Diagrams.
-
 
 ### 4.5. Web Applications Prototyping.
 
