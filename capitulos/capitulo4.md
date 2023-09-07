@@ -32,22 +32,7 @@ Como equipo, hemos acordado adoptar un formato jerárquico convencional, que se 
   <strong>Landing page</strong>
 </div>
 
-- **Nombre y descripción de la startup:** En esta sección se colacará el nombre, logo y descripción de nuestra startup
-- **Acerca de nuestra solución:**
-  En esta sección se describirá brevemente nuestra solución
-- **Beneficios:** Aquí se colocarán los beneficios más llamativos de hacer uso de nuestra web application, ya sea como propietario o arrendatario.
-- **Requisitos:** Aquí se colocarán los requisitos que los usuarios deben cumplir para poder rentar o dar en alquiler algún vehículo.
-- **Link hacia la web application:**
-  Nuestra landing page tiene como objetivo que el usuario visite nuestra web application y para eso usaremos
-  un botón call to action con el enlace a la web application.
-- **Contacto:**
-  Se presenta en la sección footer de la lading page y contendrá una dirección y algunas redes sociales.
 
- <div align="center" style="{}" >
-  <strong>Web application</strong>
-</div>
-
-**contenido**
 
 #### 4.2.2. Labeling Systems.
 
@@ -59,9 +44,7 @@ Los "Sistemas de Etiquetado" son un conjunto de métodos y tácticas empleados p
 
 Es crucial que las etiquetas utilizadas en la landing page coincidan con las que hemos detallado en la estructura previamente mencionada. Esta decisión se fundamenta en la navegación sencilla que nuestra página de inicio proporciona gracias a su diseño sin complicaciones. Asimismo, no tenemos la intención de incorporar múltiples alternativas que pudieran necesitar, por ejemplo, un motor de búsqueda.
 
- <div align="center" style="{}" >
-  <strong>Web application</strong>
-</div>
+
 
 #### 4.2.3. SEO Tags and Meta Tags
 
@@ -117,14 +100,6 @@ Seguimiento académico,
 Plataforma educativa">
 ```
 
-<div align="center" style="{}" >
-  <strong>Web application</strong>
-</div>
-
-**SEO Tags:**
-
-**Meta Tags:**
-
 #### 4.2.4. Searching Systems.
 
 Estos sistemas se han desarrollado con el propósito de agilizar la búsqueda de información, productos, servicios o cualquier tipo de contenido que responda a las necesidades y consultas de los usuarios de forma rápida
@@ -135,9 +110,8 @@ Estos sistemas se han desarrollado con el propósito de agilizar la búsqueda de
 
 No aplicamos sistemas de búsqueda ya que no le consideramos conveniente, ya que la landing page no cuenta con servicios complejos ni tampoco una gran cantidad de información como para implementar algún sistema de búsqueda.
 
- <div align="center" style="{}" >
-  <strong>Web application</strong>
-</div>
+
+
 
 #### 4.2.5. Navigation Systems.
 
@@ -156,9 +130,6 @@ Los "Navigation Systems" (Sistemas de Navegación) se refieren a las estrategias
 3. **Scroll Suave:**
    Implementa un scroll suave para que, al desplazarnos por la landing page el contenido aparezca lentamente con una animación
 
-<div align="center" style="{}" >
-  <strong>Web application</strong>
-</div>
 
 ### 4.3. Landing Page UI Design.
 
