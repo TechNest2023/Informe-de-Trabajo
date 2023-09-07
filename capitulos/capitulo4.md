@@ -387,7 +387,12 @@ asesorías.
 </div>
 
 #### 4.4.3. Web Applications User Flow Diagrams.
-
+<div align="center" style="{}" >
+   <img src="./design-images/userflow/primero.jpg">
+   <img src="./design-images/userflow/segundo.jpg">
+   <img src="./design-images/userflow/tercero.jpg">
+   <img src="./design-images/userflow/cuarto.jpg">
+</div>
 ### 4.5. Web Applications Prototyping.
 <div align="center" style="{}" >
 
@@ -404,17 +409,18 @@ asesorías.
 ### 4.6. Domain-Driven Software Architecture.
 
 #### 4.6.1. Software Architecture Context Diagram.
-
+Diagrama de contexto: [![Context-Diagram.png](https://i.postimg.cc/kGZ7S3pc/Context-Diagram.png)](https://postimg.cc/4H6CCMZ7)
 #### 4.6.2. Software Architecture Container Diagrams.
-
+Diagrama  de contenedores: [![Container-Diagram.png](https://i.postimg.cc/vHJQHy98/Container-Diagram.png)](https://postimg.cc/GHj0qZq6)
 #### 4.6.3. Software Architecture Components Diagrams.
-
+Diagrama de componentes:  [![Components-Diagram.png](https://i.postimg.cc/nVwFgBhD/Components-Diagram.png)](https://postimg.cc/pyzMn98W) 
 ### 4.7. Software Object-Oriented Design.
 
 #### 4.7.1. Class Diagrams.
-
+Diagrama de clases: [![class-Diagram.png](https://i.postimg.cc/mDLZfS9Q/class-Diagram.png)](https://postimg.cc/XZP69dQJ)
 #### 4.7.2. Class Dictionary.
 
 ### 4.8. Database Design.
 
 #### 4.8.1. Database Diagram.
+Diagrama de base de datos: [![database-design.png](https://i.postimg.cc/LsB4bWJ9/database-design.png)](https://postimg.cc/HJnCJB0R)  
