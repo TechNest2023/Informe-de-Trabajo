@@ -8,14 +8,17 @@ En esta sección, delineamos los principios de estilo que guiarán la creación 
 
 En esta sección, se presentará la gama completa de colores que hemos establecido, así como los íconos, el logotipo y la fuente de texto elegidos. Estos elementos son fundamentales en la construcción de los estilos visuales que definirán la estética de nuestra plataforma web. Cada tono y diseño ha sido meticulosamente escogido para comunicar una identidad uniforme y distintiva en toda la aplicación, garantizando una experiencia visual atractiva para quienes la utilicen.
 
+<div align="center" style="{}" >
 <img src="./design-images/styles-guidelines/general.jpg">
+</div>
 
 #### 4.1.2. Web Style Guidelines.
 
 En esta sección, se presentará la gama completa de colores que hemos establecido, así como los íconos, el logotipo y la fuente de texto elegidos. Estos elementos son fundamentales en la construcción de los estilos visuales que definirán la estética de nuestra plataforma web. Cada tono y diseño ha sido meticulosamente escogido para comunicar una identidad uniforme y distintiva en toda la aplicación, garantizando una experiencia visual atractiva para quienes la utilicen. Se eligió la fuente Poppins de Google debido a que tiene un estilo moderno, también elegimos lo botones con borde redondeado y sin contorno para que hagan juego con la fuente. En cuanto a los íconos, los elegimos básandonos en la iconografía básica de muchas web applications.
 
+<div align="center" style="{}" >
 <img src="./design-images/styles-guidelines/web.jpg">
-
+</div>
 
 ### 4.2. Information Architecture.
 
@@ -162,25 +165,25 @@ Los "Navigation Systems" (Sistemas de Navegación) se refieren a las estrategias
 #### 4.3.1. Landing Page Wireframe.
 
  <div align="center" style="{}" >
-  <strong>Landing page para Desktop Web Browser</strong>
+  <h3>Landing page para Desktop Web Browser</h3>
   <img src="./design-images/landing-page/wireframes/landing-wireframe-desktop.jpg" alt="Imagen centrada"/>
 </div>
 
  <div align="center" style="{}" >
-  <strong>Landing page para Mobile Web Browser</strong>
+  <h3>Landing page para Mobile Web Browser</h3>
   <img src="./design-images/landing-page/wireframes/landing-wireframe-movilejpg.jpg" width="400"/>
 </div>
 
 #### 4.3.2. Landing Page Mock-up.
 
   <div align="center" style="{}" >
-  <strong>Landing page para Desktop Web Browser</strong>
+  <h3>Landing page para Desktop Web Browser</h3>
    <img src="./design-images/landing-page/mockups/landing-mockup-desktop.jpg" alt="Imagen centrada"/>
 </div>
 
 
  <div align="center" style="{}" >
-  <strong>Landing page para Mobile Web Browser</strong>
+  <h3>Landing page para Mobile Web Browser</h3>
    <img src="./design-images/landing-page/mockups/landing-mockup-movil.jpg"/>
 </div>
 
@@ -210,32 +213,29 @@ Los "Navigation Systems" (Sistemas de Navegación) se refieren a las estrategias
 #### 4.4.2. Web Applications Wireflow Diagrams.
 En esta sección se mostrarán los wireflow de nuestra web application, para ello elaboraremos los steps y los Task Flows para casa User Goal.
 
-1. User Goal 1:
+1. **User Goal 1:**
    Registro de nuevos especialistas
    
-    Como especialista quiero 
-  registrarme en la  
-  plataforma de EduFocus,
-  para poder brindar mis 
-  servicios a los alumnos.
+    Como especialista quiero registrarme en la plataforma de EduFocus,para poder brindar mis servicios a los alumnos.
 
-   * Task Flow
+   * **Task Flow**
          <img src="./design-images/taskflows/tf1.jpg">
-   * Wireflow
+   * **Wireflow**
+         <img src="./design-images/wireflows/tf1.jpg">
+
     
-2. User Goal 2: Modificar datos 
-de los 
-especialistas
+2. **User Goal 2:** Modificar datos de los especialistas
 
    Como especialista quiero 
   modificar mis datos de 
   usuario, para tener mi 
   perfil más personalizado.
 
-   * Task Flow
+   * **Task Flow**
       <img src="./design-images/taskflows/tf2.jpg">
-   * Wireflow
-3. User Goal 3: Buscar 
+   * **Wireflow**
+           <img src="./design-images/wireflows/tf2.jpg">
+1. **User Goal 3:** Buscar 
 especialistas por 
 filtro
 
@@ -244,10 +244,12 @@ buscar a los especialistas
 por área de expertís, para
 poder agendar una sesión.
 
-   * Task Flow
+   * **Task Flow**
    <img src="./design-images/taskflows/tf3.jpg">
-   * Wireflow
-4. User Goal 4: Borrar 
+   * **Wireflow**
+      <img src="./design-images/wireflows/tf3.jpg">
+
+1. **User Goal 4:** Borrar 
 especialista
 
     Como estudiante quiero 
@@ -256,70 +258,49 @@ especialista
   que el especialista no 
   cumple las expectativas 
   necesarias
-   * Task Flow
+   * **Task Flow**
       <img src="./design-images/taskflows/tf4.jpg">
-   * Wireflow
+   * **Wireflow**
+           <img src="./design-images/wireflows/tf4.jpg">
+
+1. **User Goal 5:** Registro de nuevo estudiante
   
-5. User Goal 5: Registro de 
-nuevo 
-estudiante
-  
-    Como estudiante quiero 
-registrarme en la 
-plataforma de EduFocus,
-para acceder al amplio 
-catálogo de especialistas.
+    Como estudiante quiero registrarme en la plataforma de EduFocus,para acceder al amplio catálogo de especialistas.
 
-   * Task Flow
-     <img src="./design-images/taskflows/tf5.jpg">
-   * Wireflow
-6. User Goal 6: Buscar 
-estudiantes por 
-filtro
+   * **Task Flow**
+     <img src="./design-images/taskflows/tf1.jpg">
+   * **Wireflow**         
+   <img src="./design-images/wireflows/tf1.jpg">
 
-    Como especialista quiero 
-buscar a los estudiantes 
-que han reservado cita 
-conmigo, para tener mejor 
-organizado mis horarios y 
-sesiones
+2. User Goal 6: Buscar estudiantes por filtro
 
-   * Task Flow
+    Como especialista quiero buscar a los estudiantes que han reservado cita conmigo, para tener mejor organizado mis horarios y sesiones
+
+   * **Task Flow**
        <img src="./design-images/taskflows/tf6.jpg">
 
-   * Wireflow
-7. User Goal 7:Registro de 
-nuevo 
-seguimiento
+   * **Wireflow**
+            <img src="./design-images/wireflows/tf6.jpg">
+
+3. User Goal 7:Registro de nuevo seguimiento
 
 
-    Como estudiante quiero 
-tener un seguimiento de 
-mis actividades 
-encargadas por el 
-especialista, para tener 
-una mejor comprensión y 
-adaptación de lo tratado 
-en las sesiones.
+    Como estudiante quiero tener un seguimiento de mis actividades encargadas por el especialista, para tener una mejor comprensión y adaptación de lo tratado en las sesiones.
 
-   * Task Flow
+   * **Task Flow**
       <img src="./design-images/taskflows/tf7.jpg">
-   * Wireflow
-8. User Goal 8: Visualizar
-progreso de 
-seguimiento
+   * **Wireflow**
+            <img src="./design-images/wireflows/tf7.jpg">
 
-    Como estudiante quiero 
-visualizar mi progreso de 
-las actividades de 
-seguimiento, para tener 
-un mejor entendimiento 
-de mis avances
-   * Task Flow
+8. **User Goal 8:** Visualizar progreso de seguimiento
+
+    Como estudiante quiero  visualizar mi progreso de las actividades de seguimiento, para tener un mejor entendimiento de mis avances
+   * **Task Flow**
       <img src="./design-images/taskflows/tf8.jpg">
-   * Wireflow
-  
-9.  User Goal 9: Eliminar cuenta
+   * **Wireflow**
+           <img src="./design-images/wireflows/tf8.jpg">
+
+9.  **User Goal 9:** Eliminar cuenta
 
     Como estudiante o 
 especialista quiero 
@@ -327,12 +308,13 @@ eliminar mi cuenta para
 dejar de usar los servicios 
 de EduFocus
 
-    * Task Flow
+    * **Task Flow**
    <img src="./design-images/taskflows/tf9.jpg">
-    * Wireflow
-  
+    * **Wireflow**
+           <img src="./design-images/wireflows/tf9.jpg">
 
-10.   User Goal 10: Eliminar sesión 
+
+10.   **User Goal 10:** Eliminar sesión 
    
        Como estudiante quiero 
 eliminar una sesión
@@ -340,21 +322,24 @@ agendada, porque decidí
 elegir a otro especialista 
 de mi preferencia.
 
-   * Task Flow
-      <img src="./design-images/taskflows/tf10.jpg">
-    * Wireflow
-11.   User Goal 11: Crear nueva 
+   * **Task Flow**
+      <img src="./design-images/taskflows/10.jpg">
+    * **Wireflow**
+             <img src="./design-images/wireflows/tf10.jpg">
+
+11.   **User Goal 11:** Crear nueva 
 sesión
 
-    Como estudiante quiero 
-crear una nueva sesión,
+      Como estudiante quiero 
+   crear una nueva sesión,
 para empezar con las 
 asesorías entre pares
-   * Task Flow
-      <img src="./design-images/taskflows/tf11.jpg">
-    * Wireflow
+   * **Task Flow**
+      <img src="./design-images/taskflows/tf5.jpg">
+    * **Wireflow**
+      <img src="./design-images/wireflows/tf5.jpg">
 
-1.    User Goal 12: Modificar sesión
+12.    **User Goal 12:** Modificar sesión
 
        Como estudiante quiero 
 modificar una sesión
@@ -362,22 +347,24 @@ agendada, para cambiar la
 fecha y hora de acuerdo 
 con mi disponibilidad y la 
 del especialista.
-    * Task Flow
+    * **Task Flow**
       <img src="./design-images/taskflows/tf12.jpg">
-    * Wireflow
+    * **Wireflow**
+      <img src="./design-images/wireflows/tf12.jpg">
 
 
-13.   User Goal 13: Buscar sesiones 
-por filtro
+13.   **User Goal 13:** Buscar sesiones por filtro
 
-    Como estudiante quiero 
-buscar mis sesiones 
+      Como estudiante quiero 
+   buscar mis sesiones 
 agendadas, para tener un 
 panorama general de mis 
 asesorías.
-    * Task Flow
+    * **Task Flow**
       <img src="./design-images/taskflows/tf13.jpg">
-    * Wireflow
+    * **Wireflow**
+             <img src="./design-images/wireflows/tf13.jpg">
+
 #### 4.4.2. Web Applications Mock-ups.
 
 <div align="center" style="{}" >
@@ -403,8 +390,18 @@ asesorías.
 #### 4.4.3. Web Applications User Flow Diagrams.
 
 ### 4.5. Web Applications Prototyping.
+<div align="center" style="{}" >
 
+ **Web Application para estudiantes**
+ <img src="design-images/web-app/mockups/estudiante/inicio_sesion.jpg">
+ 
+ ## [Enlace al prototipo para estudiantes](https://www.figma.com/proto/1wuLrsXCa0nid5h7kKGR0v/Dise%C3%B1os-de-Open-Source?page-id=171%3A1077&type=design&node-id=171-4040&viewport=1940%2C1959%2C0.34&t=vntF6vDSgXzPK0eR-1&scaling=scale-down&starting-point-node-id=171%3A4040&mode=design)
+  
+ **Web Application para especialistas**
+ <img src="design-images/web-app/mockups/estudiante/inicio_sesion.jpg">
 
+  ## [Enlace al prototipo para especialistas](https://www.figma.com/proto/1wuLrsXCa0nid5h7kKGR0v/Dise%C3%B1os-de-Open-Source?page-id=171%3A3160&type=design&node-id=202-6686&viewport=874%2C347%2C0.16&t=mHXHZWFUPy9bfVar-1&scaling=scale-down&starting-point-node-id=202%3A6686&mode=design)
+</div>
 ### 4.6. Domain-Driven Software Architecture.
 
 #### 4.6.1. Software Architecture Context Diagram.
