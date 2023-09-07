@@ -354,10 +354,51 @@ En el  gráfico 9, se ve que los apuntes y el repaso activo son los métodos o e
 
 #### 2.3.1. User Personas
 
+**Usuario estudiante:** Teniendo en cuenta lo evidenciado de las entrevistas hacia el segmento de Estudiante Universitario. Este apartado enfoca las características de un estudiante universitario que busca tener una mejor comunicación con sus profesores y equipo académico, además de sus necesidades en el ámbito en el que se desempeña.
+
+[![userpersona1.png](https://i.postimg.cc/rFNx7jKX/userpersona1.png)](https://postimg.cc/KR41MnPJ)
+
+**Usuario especialista:** Teniendo en cuenta lo evidenciado de las entrevistas hacia el segmento de Asesor Académico. Este apartado enfoca las características de un asesor académico que busca tener una mejor comunicación con sus alumnos para poder apoyarlos y guiarlos de mejor manera y equipo académico, además de sus aspiraciones en su ambiente laboral.
+
+[![userpersona2.png](https://i.postimg.cc/Jz7Z8Xky/userpersona2.png)](https://postimg.cc/sv8v9vKy)
+
+
 #### 2.3.2. User Task Matrix
+
+ [![usertaskmatrix.png](https://i.postimg.cc/J4LjTv75/usertaskmatrix.png)](https://postimg.cc/PNSLJ6wC)
 
 #### 2.3.3. User Journey Mapping
 
+**Usuario Estudiante**
+
+[![user-Journey-Map.png](https://i.postimg.cc/0jg71HYx/user-Journey-Map.png)](https://postimg.cc/mzwPQjp6)
+
+**Usuario especialista: ** 
+
+[![userjourney-Map2.png](https://i.postimg.cc/NF1ms7DX/userjourney-Map2.png)](https://postimg.cc/D4w85Gtf)
+
+
+
 #### 2.3.4. Empathy Mapping
 
+**Usuario Estudiante: **
+
+[![empathymap1.png](https://i.postimg.cc/6QmdYQT8/empathymap1.png)](https://postimg.cc/hJVzGcLn)
+
+  **Usuario especialista: ** 
+
+[![empathymap2.png](https://i.postimg.cc/V60XTcbD/empathymap2.png)](https://postimg.cc/347y4V1v)
+
+
+
 #### 2.3.5. As-is Scenario Mapping
+
+**Usuario Estudiante: **
+
+
+[![escenario-As-IS1.jpg](https://i.postimg.cc/PfZmQTHq/escenario-As-IS1.jpg)](https://postimg.cc/4nf7JCmC)
+
+
+  **Usuario especialista: ** 
+  
+[![Scenario-As-Is2.jpg](https://i.postimg.cc/VkzBNT3k/Scenario-As-Is2.jpg)](https://postimg.cc/6y1GjHWk)
