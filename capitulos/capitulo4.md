@@ -227,9 +227,9 @@ buscar a los especialistas
 por área de expertís, para
 poder agendar una sesión.
 
-   * **Task Flow**
+     * **Task Flow**
    <img src="./design-images/taskflows/tf3.jpg">
-   * **Wireflow**
+    * **Wireflow**
       <img src="./design-images/wireflows/tf3.jpg">
 
 1. **User Goal 4:** Borrar 
