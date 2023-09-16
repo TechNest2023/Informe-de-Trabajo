@@ -46,7 +46,7 @@
 |1.2| 01/09/2023 |Herrera del Pino, Josehp Piero | Capítulo IV: Product Design|
 |1.3 |05/09/2023 |Herrera del Pino, Josehp Piero |Completado de las secciones Web Applications User Flow Diagrams y Web Applications Prototyping.|
 |1.4 |06/09/2023 |Gray Hidalgo, Alejandro Eduardo |- Capítulo V: Product Implementation, Validation & Deployment. <br>- Implementación del Landing Page. |
-<br><br><br><br>
+<br><br>
 
 
 ## Project Report Collaboration Insights
@@ -144,9 +144,7 @@ Para nuestro Sprint 1 el equipo se dividió las temáticas y características qu
 			- [5.2.1.7. Software Deployment Evidence for Sprint Review.](#software-deployment-evidence)
 			- [5.2.1.8. Team Collaboration Insights during Sprint.](#team-collaboration-insights)
 	
-<br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Student Outcome
 
@@ -158,9 +156,3 @@ El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - S
 | ------------------- | ------------------- | ------------------------------------------------- |
 |Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|Moreno Rosales, Claudio Jesús<br><br> **TB1:** En el transcurso del proyecto se ha tenido que realizar una comunicación efectiva con los segmentos objetivo e interesados del proyecto, para obtener la mayor cantidad de requisitos y necesidades posibles, esto ayuda a construir un mejor diseño de proyecto ágil.| **TB1:** Para el primer sprint se ha realizado actividades que requieren de las habilidades comunicativas para la captura de los requisitos del proyecto y la realización del UX Research.
 |Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. |Moreno Rosales, Claudio Jesús <br><br>**TB1:** Después de haber recolectado la información necesaria sobre nuestro público objetivo, interesados y haber realizado las entrevistas e investigaciones, se tradujo toda la información en arquetipos Persona y User Stories. |**TB1:** El proyecto se ha documentado de manera ágil por medio de entregables, a través de Github usando Gitflow, esto a permitido que se presente la información y resultados de manera organizada.
-<br><br>
-
-<br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br>
