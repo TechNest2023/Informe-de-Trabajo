@@ -6,6 +6,11 @@
 		<img src="https://i.postimg.cc/6598BW1v/upc-logo.png" alt="upc-logo" width="250" height="150">
 </div>
 
+
+<div align="center">
+		<img src="https://i.postimg.cc/6598BW1v/upc-logo.png" alt="upc-logo" width="250" height="150">
+</div>
+
 ## Ingenieria de software 
 ## Ciclo V
 
@@ -44,7 +49,7 @@
 ## Project Report Collaboration Insights
 
 ## **Contenido**
-### [CAPÍTULO I: INTRODUCCIÓN](/Informe-de-Trabajo/capitulos/capitulo1.md#capitulo1-introduccion)
+### [CAPÍTULO I: INTRODUCCIÓN](/capitulos/capitulo1.md#capitulo1-introduccion)
 - [1.1 Startup Profile](#startup-profile)
   - [1.1.1. Descripción de la Startup](#descripcion-de-la-startup)
   - [1.1.2. Perfiles de integrantes del equipo](#perfiles-de-integrantes)
@@ -57,7 +62,7 @@
     - [1.2.2.4. Lean UX Canvas](#lean-ux-canvas)
   - [1.3. Segmentos objetivo](#segmentos-objetivos)
 
-### [CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS](/Informe-de-Trabajo/capitulos/capitulo2.md#capitulo2-requirements-elicitation)
+### [CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS](/capitulos/capitulo2.md#capitulo2-requirements-elicitation)
 - [2.1. Competidores.](#competidores)
   - [2.1.1. Análisis competitivo](#analisis-competitivo)
   - [2.1.2. Estrategias y tácticas frente a competidores](#estrategias-tacticas-a-competidores)
@@ -72,13 +77,13 @@
   - [2.3.4. Empathy Mapping](#empathy-map)
   - [2.3.5. As-is Scenario Mapping](#as-is-scenario-map)
 
-### [CAPÍTULO III: REQUIREMENTS SPECIFICATION](/Informe-de-Trabajo/capitulos/capitulo3.md#capitulo3-requirements-specification)
+### [CAPÍTULO III: REQUIREMENTS SPECIFICATION](/capitulos/capitulo3.md#capitulo3-requirements-specification)
 - [3.1. To-Be Scenario Mapping](#to-be-scenario-map)
 - [3.2. User Stories](#user-stories)
 - [3.3. Impact Mapping](#impact-map)
 - [3.4. Product Backlog](#product-bakclog)
 
-### [CAPÍTULO IV: PRODUCT DESIGN](/Informe-de-Trabajo/capitulos/capitulo4.md#capitulo4-product-design)
+### [CAPÍTULO IV: PRODUCT DESIGN](/capitulos/capitulo4.md#capitulo4-product-design)
 - [4.1. Style Guidelines.]
   - [4.1.1. General Style Guidelines.]
   - [4.1.2. Web Style Guidelines.]
@@ -107,7 +112,7 @@
 - [4.8. Database Design.]
   - [4.8.1. Database Diagram.]
 
-### [CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT](/Informe-de-Trabajo/capitulos/capitulo5.md#capitulo5-product-implementation)
+### [CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT](/capitulos/capitulo5.md#capitulo5-product-implementation)
 - [5.1. Software Configuration Management.]
   - [5.1.1. Software Development Environment Configuration.]
   - [5.1.2. Source Code Management.]
@@ -128,14 +133,9 @@
 
 
 ## Student Outcome
-
-El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 3**
-
-**Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias. En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
-
 | Criterio Específico | Acciones Realizadas | Conclusiones                                      |
 | ------------------- | ------------------- | ------------------------------------------------- |
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|Moreno Rosales, Claudio Jesús<br><br> **TB1:** En el transcurso del proyecto se ha tenido que realizar una comunicación efectiva con los segmentos objetivo e interesados del proyecto, para obtener la mayor cantidad de requisitos y necesidades posibles, esto ayuda a construir un mejor diseño de proyecto ágil.| **TB1:**
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. |Moreno Rosales, Claudio Jesús <br><br>**TB1:** Después de haber recolectado la información necesaria sobre nuestro público objetivo, interesados y haber realizado las entrevistas e investigaciones, se tradujo toda la información en arquetipos Persona y User Stories. |**TB1:**
+|  | [Acciones] | [Conclusiones sobre el criterio]               |
+
 
 
