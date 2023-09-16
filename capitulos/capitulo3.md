@@ -1,18 +1,18 @@
-## CAPÍTULO III: REQUIREMENTS  SPECIFICATION 
+## CAPÍTULO III: REQUIREMENTS SPECIFICATION
 
 ### 3.1. To-Be Scenario Mapping.
 
-**Usuario Estudiante: **
+**Usuario Estudiante:**
 
-[![Scenario-TOBE1.jpg](https://i.postimg.cc/YS966F2c/Scenario-TOBE1.jpg)](https://postimg.cc/dhbZvLTn)
+[![To-Be-Estudiante.jpg](https://i.postimg.cc/MHN1V8hw/To-Be-Estudiante.jpg)](https://postimg.cc/QKgBZv8Y)
 
-  **Usuario especialista: ** 
+  **Usuario especialista:** 
   
-  [![Scenario-To-Be2.jpg](https://i.postimg.cc/x1gGN52y/Scenario-To-Be2.jpg)](https://postimg.cc/JsDH9btG)
+[![To-Be-Especialista.jpg](https://i.postimg.cc/HxSwWMzV/To-Be-Especialista.jpg)](https://postimg.cc/G8y8qHZC)
 
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### 3.2. User Stories.
-
 
 |EPIC ID| Descripción de la épica |
 |--|--|
@@ -24,7 +24,7 @@
 |EP06 |Gestión de sesiones sincrónicas|
 |EP07 |Diseño de Landing Page  |
 
-<br><br>
+<br><br><br><br>
 
 |**Epic / Story ID**|**Título**| **Título**|**Criterios de Aceptación** |**Relacionado con (Epic ID)**|
 |--|--|--|--|--|
@@ -55,8 +55,22 @@
 |US-25 |Beneficios de EduFocus |Como visitante del segmento estudiante o especialista quiero acceder a una descripción de los beneficios de la aplicación, para tener un panorama de los aportes que puede dejar EduFocus en mí. |**Escenario**: El visitante lee sobre los beneficios de EduFocus<br><br> **Dado que** el usuario se encuentra en la pantalla de inicio<br> **Cuando** se desplace hacia la sección de “beneficios” <br>**Entonces** visualiza los beneficios de EduFocus. |EP07  | 
 |US-26 |Precios o planes de suscripción |Como visitante del segmento estudiante o especialista quiero visualizar los planes de suscripción, para poder ver si se ajusta a mi economía. |**Escenario**: Usuario visualiza los tipos de planes que tiene EduFocus<br><br> **Dado que** el usuario se encuentra en la pantalla de inicio <br>**Cuando** se desplace hacia la sección “Planes”<br> **Entonces** visualizará los planes disponibles que tiene EduFocus |EP07  | 
 |US-27 |Página reponsive |Como visitante del segmento estudiante o especialista, quiero que la página web se adapte a diferentes dispositivos para poder visualizar a la información desde mi celular o computadora. |**Escenario 1:** El visitante visualiza la Landing Page de EduFocus desde una computadora.<br><br> **Dado que** el usuario se ingresa a la página web de EduFocus<br> **Cuando** navegue por la página <br>**Entonces** visualizará todos los contenidos adaptados a su tamaño de pantalla.<br><br><br>**Escenario 2:** El visitante visualiza la Landing Page de EduFocus desde un celular.<br><br> **Dado que** el usuario se ingresa a la página web de EduFocus<br> **Cuando** navegue por la página<br> **Entonces** visualizará todos los contenidos adaptados a su tamaño de pantalla. |EP07  | 
+   
+   <br><br><br><br><br>
+   
+### 3.3. Impact Mapping.
 
-### 3.3.
+**Primer Mapa de impacto:**
+
+[![Impact-Map-1.png](https://i.postimg.cc/Hk590VYh/Impact-Map-1.png)](https://postimg.cc/G4LDd3sF)
+
+<br>
+
+**Segundo Mapa de Impacto:**
+
+[![Impact-Map-2.png](https://i.postimg.cc/QxvqWp37/Impact-Map-2.png)](https://postimg.cc/8jBv2fsk)
+  
+<br>
 
 ### 3.4. Product Backlog.
 
@@ -76,7 +90,7 @@
 |12 |US-15 |Crear nueva conversación |Como estudiante quiero conversar fuera de las sesiones sincrónicas con mi especialista, para consultarle algunas dudas. |3 |
 |13 |US-16 |Visualizar conversación |Como estudiante quiero revisar mis conversaciones con mi especialista, para revisar lo que se ha conversado. |3 |
 |14 |US-17 |Eliminar conversación |Como estudiante quiero eliminar mis conversaciones con mi especialista, porque ya no veo la necesidad de tenerlo. |3 |
-|15 |US-18 |Buscar conversación por filtro |Como estudiante quiero buscar chats de conversación, para encontrar rápidamente la información que necesito.|3 |
+|15 |US-18 |Buscar conversación por filtro |Buscar conversación por filtro |3 |
 |16 |US-01 |Registro de nuevos especialistas |Como especialista quiero registrarme en la plataforma de EduFocus, para poder brindar mis servicios a los alumnos. |2 |
 |17 |US-02 |Modificar datos de los especialistas |Como especialista quiero modificar mis datos de usuario, para tener mi perfil más personalizado. |2 |
 |18 |US-04 |Borrar especialista |Como estudiante quiero realizar un una queja o reclamo, para hacer saber que el especialista no cumple las expectativas necesarias. |2 |
@@ -89,12 +103,12 @@
 |25 |US-20 |Modificar sesión |Como estudiante quiero modificar una sesión agendada, para cambiar la fecha y hora de acuerdo con mi disponibilidad y la del especialista. |2 |
 |26 |US-21 |Eliminar sesión |Como estudiante quiero eliminar una sesión agendada, porque decidí elegir a otro especialista de mi preferencia. |2|
 |27 |US-22 |Buscar sesiones por filtro |Como estudiante quiero buscar mis sesiones agendadas, para tener un panorama general de mis asesorías. |2 |
-<br><br>
 
+<br>
 Tablero Trello para seguimiento del Sprint 1:
 
 [![trello.png](https://i.postimg.cc/xjPNcz2T/trello.png)](https://postimg.cc/4nmx0nyr)
 
 ***Nota:*** Se usó la herramienta de Trello para el seguimiento del Product Backlog
 
-URL: https://trello.com/invite/b/jvy2pIMW/ATTI3b9f29c9e2d80e68eb7fe4271312289dA1712056/technest-edufocus-app 
+URL: https://trello.com/invite/b/jvy2pIMW/ATTI3b9f29c9e2d80e68eb7fe4271312289dA1712056/technest-edufocus-app
