@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS
 ### 2.1. Competidores
 #### 2.1.1. Análisis competitivo
@@ -452,3 +453,6 @@ Matriz de tareas del especialista:
 [![To-Be-Especialista.jpg](https://i.postimg.cc/HxSwWMzV/To-Be-Especialista.jpg)](https://postimg.cc/G8y8qHZC)
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
+=======
+
+>>>>>>> 56c8b82afc5edd15fb463f3793a126505a526a33
