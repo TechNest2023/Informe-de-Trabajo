@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
@@ -199,11 +198,3 @@ Los especialistas en educación y psicología desempeñan un papel fundamental e
 [![stakeholders.png](https://i.postimg.cc/sD7HMdWt/stakeholders.png)](https://postimg.cc/MvZmLLdD)
 ***Fuente:*** Elaboración propia
 
-
-‌
-
-
-
-
-=======
->>>>>>> develop
