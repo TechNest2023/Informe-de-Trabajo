@@ -1,6 +1,6 @@
-## CAPÍTULO I: INTRODUCCIÓN
-### 1.1 Startup Profile
-#### 1.1.1. Descripción de la Startup
+# Capítulo I: Introducción
+## 1.1. Startup Profile
+### 1.1.1. Descripción de la Startup
 
 Nuestra startup, TechNest, surge de la colaboración entre estudiantes de ingeniería de software  de la Universidad Peruana de Ciencias Aplicadas. TechNest representa nuestra aspiración de generar un cambio  en el ámbito educativo y en las experiencias estudiantiles a través de la innovación tecnológica.
 
@@ -13,29 +13,33 @@ Entendemos que la educación superior es un período fundamental en la vida de c
 
 **Misión:** Proporcionar soluciones de software de alta calidad a diferentes centros de estudios superiores, organizaciones y empresas.
 
-#### 1.1.2. Perfiles de integrantes del equipo
-  <a href = "https://postimg.cc/Z9tb2GhM"><img src="https://i.postimg.cc/VN5JrwZm/1.png" alt="Integrante 1 - Claudio Moreno" width="250" height="450" /></a>
+<br><br><br><br>
 
-### 1.2 Solution Profile
-#### 1.2.1 Antecedentes y problemática
+### 1.1.2. Perfiles de integrantes del equipo
+
+<a  href = "https://postimg.cc/Z9tb2GhM"><img  src="https://i.postimg.cc/VN5JrwZm/1.png"  alt="Integrante 1 - Claudio Moreno"  width="250"  height="450" /></a>
+
+<a  href = "https://postimg.cc/bZ1pDTJX"><img  src="https://i.postimg.cc/HkhxNv1L/Diego.png"  alt="Integrante 2 - Diego Portales"  width="250"  height="450" /></a>
+
+<a  href = "https://postimg.cc/bZ1pDTJX"><img  src="https://i.postimg.cc/MGfTJ0zm/Jhosep.png"  alt="Integrante 3 - Jhosep Herrera"  width="250"  height="450" /></a>
+
+
+## 1.2. Solution Profile
+### 1.2.1 Antecedentes y problemática
 
 #### **Antecedentes:**
 Sinchigalo, Guzmán, y Bonilla (2022) explican que hay muchos factores externos como el apoyo social o las relaciones interpersonales que afectan al buen desempeño académico, además, destaca la importancia de brindar diversas estrategias y herramientas que ayuden al estudiante. "Emmons y McCullough (2003, citado en Sinchigalo, Guzmán, & Bonilla, 2022) enfatizan que el bienestar emocional algo muy importante para la salud mental y tiene que ver con el hecho de manejar el estrés, enfrentar desafíos y disfrutar de la vida. A continuación, se muestra el estudio realizado por Sinchigalo, Guzmán, y Bonilla (2022) a un grupo de 50 estudiantes universitarios a través de la plataforma de Google Forms.
 
+Gráfico 1: Porcentaje del bienestar emocional de los estudiantes
+[![porcentaje-bienestar-emocional.png](https://i.postimg.cc/RZ3jnxZm/porcentaje-bienestar-emocional.png)](https://postimg.cc/0zstL3SX)
+***Fuente:*** Representación gráfica del bienestar emocional y su relación con el rendimiento académico (Sinchigalo, Guzmán & Bonilla, 2022).
 
-**Gráfico 1:** Porcentaje del bienestar emocional de los estudiantes
- 
-  <a href = "https://postimg.cc/0zstL3SX"><img src="https://i.postimg.cc/RZ3jnxZm/porcentaje-bienestar-emocional.png" alt="Porcentaje de Bienestar Emocional" width="400" height="250" /></a>
-
-  ***Fuente:*** Representación gráfica del bienestar emocional y su relación con el rendimiento académico (Sinchigalo, Guzmán & Bonilla, 2022).
 
 En el gráfico 1 se muestra que hay que prestar mucha atención al bienestar emocional y el desempeño de los estudiantes, ya que estos aspectos garantizan la educación de calidad y el éxito a nivel personal como a nivel académico.
 
 **Gráfico 2:** Porcentaje del desempeño académico de los estudiantes
-
-  <a href = "https://postimg.cc/2Vvc9m1B"><img src="https://i.postimg.cc/VLZx6k14/porcentaje-desempe-o-acad-mico.png" alt="Porcentaje del desempeño académico" width="380" height="210" /></a>
-
-  ***Fuente:*** Representación gráfica del bienestar emocional y su relación con el rendimiento académico (Sinchigalo, Guzmán & Bonilla, 2022).
+[![porcentaje-desempe-o-acad-mico.png](https://i.postimg.cc/VLZx6k14/porcentaje-desempe-o-acad-mico.png)](https://postimg.cc/2Vvc9m1B)
+***Fuente:*** Representación gráfica del bienestar emocional y su relación con el rendimiento académico (Sinchigalo, Guzmán & Bonilla, 2022).
 
 En el gráfico 2 se ve reflejado que en un mayor porcentaje se encuentra el desempeño académico medio-alto y medio-bajo lo que quiere decir que por un lado hay un buen manejo de las herramientas de estudio, pero del otro lado pueden estar pasando por situaciones difíciles como carecer de habilidades de estudio, enfrentar desafíos personales, entre otros.
 
@@ -89,18 +93,15 @@ En complemento, González (2019) realizó un estudio a una población de 90 estu
 
 Andrade et al. (2018) realizaron una investigación a 246 alumnos del programa de licenciatura de enfermería de una universidad privada. A continuación se muestra los resultados obtenidos del estudio en relación a la asociación de actitud del estudiante y los hábitos de estudio en el desempeño académico.
 
-
 **Tabla 1:** Evaluación de la asociación entre actitudes y hábitos de estudio con desempeño académico de los estudiantes.
-
 [![actitud-y-habitos-de-estudio.png](https://i.postimg.cc/651x7CF4/actitud-y-habitos-de-estudio.png)](https://postimg.cc/JGJ2vHrR)
-
 ***Fuente:***  Actitud, hábitos de estudio y rendimiento académico: Abordaje desde la teoría de la acción razonada (Andrade et al., 2018).
-
 
 La investigación de Andrade et al. (2018)  concluye que las actitudes tiene un fuerte impacto en el rendimiento académico, ya que los jóvenes que presentaron actitudes positivas alcanzaron un buen desempeño, por lo que, es importante brindar apoyo en los aspectos más débiles de los estudiantes para que puedan tener un mejor éxito académico.
 
-#### 1.2.2 Lean UX Process
-##### 1.2.2.1. Lean UX Problem Statements
+
+## 1.2.2 Lean UX Process
+###  1.2.2.1. Lean UX Problem Statements
 
 Nuestro entorno refleja que los estudiantes de educación superior enfrentan desafíos en cuanto a la falta de técnicas efectivas de estudio, así como dificultades en su salud emocional y mental. Este panorama incide directamente en su desempeño académico y en su bienestar general durante su trayectoria educativa.
 
@@ -108,7 +109,8 @@ Hemos identificado que un factor crítico que impacta a los estudiantes de educa
 
 ¿Cómo podemos proporcionar a los estudiantes de educación superior las herramientas necesarias para desarrollar hábitos de estudio efectivos, fomentar su bienestar emocional y mental, y  mejorar su desempeño académico a lo largo de su recorrido educativo?
 
-##### 1.2.2.2. Lean UX Assumptions
+
+### 1.2.2.2. Lean UX Assumptions
 
 **User**
 
@@ -145,8 +147,7 @@ Hemos identificado que un factor crítico que impacta a los estudiantes de educa
 6.  La colaboración entre estudiantes y especialistas en línea será eficaz para abordar los problemas identificados.
 7.  Los especialistas en educación y psicología están dispuestos a brindar su experiencia en línea.
 
-
-##### 1.2.2.3. Lean UX Hypothesis Statements
+### 1.2.2.3. Lean UX Hypothesis Statements
 
 **Hypothesis 1:** 
 
@@ -181,20 +182,25 @@ Hemos identificado que un factor crítico que impacta a los estudiantes de educa
  **Cuando** observemos un aumento del 20% en la satisfacción general de los estudiantes.
 
 
-##### 1.2.2.4. Lean UX Canvas
+### 1.2.2.4. Lean UX Canvas
 [![lean-ux-canvas.png](https://i.postimg.cc/gcQhZCDH/lean-ux-canvas.png)](https://postimg.cc/PNbNGF0C)
 
 
-#### 1.3. Segmentos objetivo.
+## 1.3. Segmentos objetivo
+
 Los especialistas en educación y psicología desempeñan un papel fundamental en el abordaje de los desafíos académicos, emocionales y de salud mental que enfrentan los estudiantes de educación superior. Basados en investigaciones como las de Sinchigalo, Guzmán y Bonilla (2022), comprenden que diversos factores externos y emocionales impactan en el rendimiento académico. Reconocen la importancia de brindar estrategias y herramientas efectivas para ayudar a los estudiantes a superar obstáculos y alcanzar su máximo potencial. Estos especialistas buscan soluciones que les permitan brindar orientación y apoyo personalizado para mejorar el bienestar emocional y el rendimiento académico de los estudiantes.
 
 **Estudiantes de Educación Superior:** Los estudiantes de educación superior constituyen el grupo directamente afectado por los desafíos abordados. Basados en investigaciones como las de González (2019), se evidencia que muchos estudiantes enfrentan dificultades con técnicas de estudio, hábitos saludables y bienestar emocional, lo que impacta negativamente en su rendimiento académico. Estos estudiantes buscan soluciones que les ayuden a gestionar su tiempo, mejorar sus hábitos de estudio, manejar el estrés y la ansiedad, y mantener un equilibrio emocional. Desean acceder a herramientas y apoyo que les permitan sobrellevar los retos de su vida académica y alcanzar el éxito.
 
 **Especialistas en educación y psicología:** Los especialistas y expertos, conscientes de la importancia del bienestar emocional y las habilidades de estudio en el rendimiento académico, buscan herramientas digitales que les permitan ofrecer orientación personalizada a los estudiantes. Están interesados en soluciones que les permitan brindar estrategias efectivas y mejorar la experiencia académica y emocional de los estudiantes. Además, buscan colaborar con otros profesionales para enriquecer su manera en que apoyan a los estudiantes.
 
-
 **Gráfico 3:**  Stakeholders
-
 [![stakeholders.png](https://i.postimg.cc/sD7HMdWt/stakeholders.png)](https://postimg.cc/MvZmLLdD)
-
 ***Fuente:*** Elaboración propia
+
+
+‌
+
+
+
+
