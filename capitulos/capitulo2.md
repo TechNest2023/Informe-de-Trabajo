@@ -386,45 +386,21 @@ En el  gráfico 9, se ve que los apuntes y el repaso activo son los métodos o e
 
 #### 2.3.2. User Task Matrix
 
-Matriz de tareas del estudiante de educación superior:
-
-<a  href = "https://postimg.cc/QKZBPj3W"><img  src="https://i.postimg.cc/2yV4159T/User-Task-Matrix-Estudiante.png"  alt="User Task Matrix"  width="600"  height="380" /></a>
-
-Matriz de tareas del especialista:
-
-<a  href = "https://postimg.cc/JygHNbYx"><img  src="https://i.postimg.cc/sXfPRmpk/User-Task-Matrix-Especialista.png"  alt="User Task Matrix"  width="600"  height="380" /></a>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 #### 2.3.3. User Journey Mapping
-
-**Usuario Estudiante:**
-
-<a  href = "https://postimg.cc/PPkZVQXF"><img  src="https://i.postimg.cc/158HtvLP/Customer-journey-map-Estudiante.png"  alt="User Journey Map del Estudiante"/></a>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-**Usuario especialista:** 
-
-<a  href = "https://postimg.cc/hhmT05Bd"><img  src="https://i.postimg.cc/fW2CDGqB/Customer-journey-map-Especialista.png"  alt="User Journey Map del Especialista"/></a>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 #### 2.3.4. Empathy Mapping
 
-**Usuario Estudiante:**
-
-<a  href = "https://postimg.cc/jDM75VzG"><img  src="https://i.postimg.cc/d0Ym5wDt/Empathy-map-Estudiante.png"  alt="Empathy Map del Estudiante"/></a>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-  **Usuario especialista:** 
-
-<a  href = "https://postimg.cc/jWCJn8cC"><img  src="https://i.postimg.cc/3wFj6VDj/Empathy-map-Especialista.png"  alt="Empathy Map del Especialista"/></a>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 #### 2.3.5. As-is Scenario Mapping
+
+**Usuario Estudiante: **
+
+
+[![escenario-As-IS1.jpg](https://i.postimg.cc/PfZmQTHq/escenario-As-IS1.jpg)](https://postimg.cc/4nf7JCmC)
+
+
+  **Usuario especialista: ** 
+  
+[![Scenario-As-Is2.jpg](https://i.postimg.cc/VkzBNT3k/Scenario-As-Is2.jpg)](https://postimg.cc/6y1GjHWk)
 
 **Usuario Estudiante:**
 
