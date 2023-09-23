@@ -62,19 +62,29 @@ Como equipo, hemos acordado adoptar un formato jerárquico convencional, que se 
 </div>
 
 * **Inicio**
+
    En esta sección será la pantalla de nuestro landing page, ya que permitirá a los usuarios registrarse e iniciar sesión en nuestra web application
 
 * **Habilidades de estudio a desarrollar**
+
    En esta sección se indican algunas habilidades que el usuario logrará desarrollar gracias al uso de nuestro sistema
+
 * **Estrategias para bienestar emocional**
+
    En esta sección se colocarán algunas estrategias que los estudiantes aprenderán para su bienestar emocional
 
 * **Seguimiento académico**
+
    En esta sección se detalla sobre esa funcionalidad que tiene la web application
+
 * **Call-to-action**
+
    Los usamos para poder lograr que nuestro usuario se interese en visitar nuesta web application
+
 * **Footer**
+
    Está sección contendrá la información de contacto y referencias otras páginas 
+
 #### 4.2.2. Labeling Systems.
 
 Los "Sistemas de Etiquetado" son un conjunto de métodos y tácticas empleados para asignar nombres, etiquetas o títulos explicativos a elementos y secciones en una interfaz digital, como un sitio web, una aplicación móvil o una plataforma en línea.
@@ -161,12 +171,15 @@ Los "Navigation Systems" (Sistemas de Navegación) se refieren a las estrategias
 </div>
 
 1. **Navegación a través de Botones:**
+
    En la sección hero, un botón "Iniciar prueba" te llevará directamente a la web application. Esto garantiza una navegación rápida hacia la acción principal que deseamos que los usuarios tomen. Adicional a esto tenemos el botón de "Acceder" y "Registrarse", los cuales también nos llevarán al inicio de sesión de la web application.
 
 2. **Footer - Navegación Rápida:**
+
    En la parte inferior de la página, el footer incluye una sección de navegación rápida. Aquí encontrarás botones que te llevarán a las secciones clave, como \*\*"Nosotros", "Otros servicios".
 
 3. **Scroll Suave:**
+
    Implementa un scroll suave para que, al desplazarnos por la landing page el contenido aparezca lentamente con una animación
 
 <br>
@@ -176,21 +189,25 @@ Los "Navigation Systems" (Sistemas de Navegación) se refieren a las estrategias
 #### 4.3.1. Landing Page Wireframe.
 
 **Vista desde escritorio:**
+
 <div align="center"><a  href = "https://postimg.cc/WqTXsJ9S"><img  src="https://i.postimg.cc/qqCYXs2f/landing-wireframe-desktop.jpg"  alt="Landing Page Wireframe Desktop"  width="250"  height="590" /></a></div>
 
 <br><br>
 
 **Vista desde móvil:**
+
 <div align="center"><a  href = "https://postimg.cc/WqTXsJ9S"><img  src="https://i.postimg.cc/ydx2W4d8/landing-wireframe-movilejpg.jpg"  alt="Landing Page Wireframe Mobile"/></a></div>
 
 <br><br><br><br>
 
 #### 4.3.2. Landing Page Mock-up.
+
 **Vista desde escritorio:**
 
 <div align="center"><a  href = "https://postimg.cc/3dSdJP8m"><img  src="https://i.postimg.cc/dVvdnYgH/landing-mockup-desktop.jpg"  alt="Landing Page Mock-Up Desktop"/></a></div>
 
 <br><br>
+
 **Vista desde móvil:**
 
 <div align="center"><a  href = "https://postimg.cc/Wt7dxdx9"><img  src="https://i.postimg.cc/T2znLm0X/landing-mockup-movil.jpg"  alt="Landing Page Mock-Up Mobile"/></a></div>
@@ -203,51 +220,61 @@ Los "Navigation Systems" (Sistemas de Navegación) se refieren a las estrategias
 **Estudiantes:**
 
 **Inicio**
+
 <div align="center"><a  href = "https://postimg.cc/w1n53tqX"><img  src="https://i.postimg.cc/FKHTWcwB/inicio.jpg"  alt="Wireframe Inicio" width="700"  height="350"/></a></div>
 
 <br>
 
 **Actividades**
+
 <div align="center"><a  href = "https://postimg.cc/zVXFQZ2g"><img  src="https://i.postimg.cc/jdy3LRzZ/actividades.jpg"  alt="Wireframe Actividades del estudiante" width="700"  height="350"/></a></div>
 
 <br>
 
 **Registro**
+
 <div align="center"><a  href = "https://postimg.cc/DJP1CBq6"><img  src="https://i.postimg.cc/Jn9KzF0f/registro.jpg"  alt="Wireframe Registro" width="700"  height="350"/></a></div>
 
 <br>
 
 **Agendar Sesion**
+
 <div align="center"><a  href = "https://postimg.cc/XpHkSHtD"><img  src="https://i.postimg.cc/cLZ93PhZ/agendar-sesion.jpg"  alt="Wireframe Agendar Sesion del estudiante" width="700"  height="350"/></a></div>
 
 <br>
 
 **Chat de mensajería**
+
 <div align="center"><a  href = "https://postimg.cc/Z0mcryrj"><img  src="https://i.postimg.cc/gcXTbVr9/chat-mensajes.jpg"  alt="Wireframe Chat de mensajería del estudiante" width="700"  height="350"/></a></div>
 
 <br>
 
 **Chats**
+
 <div align="center"><a  href = "https://postimg.cc/dZJjvzqg"><img  src="https://i.postimg.cc/prFGQH3V/chats.jpg"  alt="Wireframe Chats del estudiante" width="700"  height="350"/></a></div>
 
 <br>
 
 **Visitar Perfil**
+
 <div align="center"><a  href = "https://postimg.cc/MM7mCW8y"><img  src="https://i.postimg.cc/xC7pbCxF/esitar-perfil.jpg"  alt="Wireframe Visitar perfil del estudiante" width="700"  height="350"/></a></div>
 
 <br>
 
 **Inicio de Sesion**
+
 <div align="center"><a  href = "https://postimg.cc/vDvvXHhy"><img  src="https://i.postimg.cc/2jsXk1B1/inicio-sesion.jpg"  alt="Wireframe Inicio de Sesion " width="700"  height="350"/></a></div>
 
 <br>
 
 **Listado de sesiones**
+
 <div align="center"><a  href = "https://postimg.cc/QFFkXg3N"><img  src="https://i.postimg.cc/fRKHf5qd/listado-sesiones.jpg"  alt="Wireframe Listado de Sesiones del estudiante" width="700"  height="350"/></a></div>
 
 <br>
 
 **Perfil Especialista**
+
 <div align="center"><a  href = "https://postimg.cc/1g6GF9XL"><img  src="https://i.postimg.cc/TPNCZ16Y/perfil-asesor.jpg"  alt="Wireframe Perfil de Especialista" width="700"  height="350"/></a></div>
 
 <br>
