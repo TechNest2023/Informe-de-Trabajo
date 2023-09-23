@@ -1,3 +1,22 @@
+## Tabla de contenidos
+
+- [**Capítulo II: Requirements Elicitation & Analysis**](#capítulo-ii-requirements-elicitation--analysis)
+	- [2.1. Competidores](#21-competidores)
+		- [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+		- [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+	- [2.2. Entrevistas](#22-entrevistas)
+		- [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+		- [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+		- [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+	- [2.3. Needfinding](#23-needfinding)
+		- [2.3.1. User Personas](#231-user-personas)
+		- [2.3.2. User Task Matrix](#232-user-task-matrix)
+		- [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+		- [2.3.4. Empathy Mapping](#234-empathy-mapping)
+		- [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+
+<br>
+
 ## CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS
 ### 2.1. Competidores
 #### 2.1.1. Análisis competitivo
@@ -343,31 +362,48 @@ estudiantes que reciben tu ayuda?
 
 
 #### 2.2.3. Análisis de entrevistas
-**Gráfico 7:** Rendimiento académico de los estudiantes
+**Gráfico 7:** Desafíos estudiantiles
 
-<a  href = "https://postimg.cc/SJqt2fZK"><img  src="https://i.postimg.cc/WbJRy9g0/grafico1.png"  alt="Rendimiento académico"  width="400"  height="250" /></a>
-
- ***Fuente:*** Elaboración propia
-
-En el gráfico 7, se observa que los estudiantes entrevistados tiene un rendimiento académico bueno a excelente, pero no se por olvidado que aún siguen teniendo algunos problemas o siguen buscando la mejora continua.
-
-**Gráfico 8:** Opiniones de los estudiantes acerca de seguir mejorando de manera constante.
-
-<a  href = "https://postimg.cc/ykPpF35y"><img  src="https://i.postimg.cc/t4Q0GhNw/grafico3.png"  alt="Opiniones de los estudiantes"  width="400"  height="250" /></a>
+<a  href = "https://postimg.cc/7fXZHFkQ"><img  src="https://i.postimg.cc/bwfDTPF8/analisis1.png"  alt="Rendimiento académico"  width="400"  height="250" /></a>
 
  ***Fuente:*** Elaboración propia
 
-En el gráfico 8, se ve que la mayoría de los estudiantes entrevistados quieren mucho o demasiado mejorar sus hábitos, rutinas o estado emocional para seguir mejorando su desempeño.
 
-**Gráfico 9:**  Técnicas de estudio más usadas por los estudiantes
+En el gráfico 7, se observa que los estudiantes entrevistados presentan problemas como la falta de organización, evasión de abordar dudas y estrés durante exámenes.
 
+**Gráfico 8:** Métodos de estudio preferidos
 
-<a  href = "https://postimg.cc/K4tH8HDV"><img  src="https://i.postimg.cc/pVSbqNh2/grafico2.png"  alt="Técnicas de estudio más usadas"  width="400"  height="250" /></a>
+<a  href = "https://postimg.cc/RWFVNgCC"><img  src="https://i.postimg.cc/525HKrZz/analisis2.png"  alt="Opiniones de los estudiantes"  width="400"  height="250" /></a>
 
  ***Fuente:*** Elaboración propia
 
-En el  gráfico 9, se ve que los apuntes y el repaso activo son los métodos o estrategias de estudio que usan los estudiantes.
+En el gráfico 8, se ve que la mayoría de los estudiantes prefiere las técnicas de tomar apuntes y resumir los temas de estudio.
+
+**Gráfico 9:**  Equilibrio entre el trabajo y estudio
+
+<a  href = "https://postimg.cc/BjVZD2tT"><img  src="https://i.postimg.cc/9fWD6phn/analisis3.png"  alt="Técnicas de estudio más usadas"  width="400"  height="250" /></a>
+
+ ***Fuente:*** Elaboración propia
+
+En el  gráfico 9, se ve que los estudiantes tienen que lidiar con el trabajo y estudio simultáneo y los horarios ajustados.
   
+  
+  **Gráfico 10:**  Apoyo de amigos y grupos de estudio
+
+<a  href = "https://postimg.cc/t1nqz7VL"><img  src="https://i.postimg.cc/g0NxmZck/analisis4.png"  alt="Técnicas de estudio más usadas"  width="400"  height="250" /></a>
+
+ ***Fuente:*** Elaboración propia
+ 
+ En el  gráfico 10, se ve que los estudiantes tienen una alta preferencia a estudiar de manera individual que grupal.
+
+ **Gráfico 11:**  Impacto del entorno en el rendimiento académico
+
+<a  href = "https://postimg.cc/Fdt9Cmy1"><img  src="https://i.postimg.cc/vBTcBZD7/analisis5.png"  alt="Técnicas de estudio más usadas"  width="400"  height="250" /></a>
+
+ ***Fuente:*** Elaboración propia
+ 
+ En el  gráfico 11, se ve que el ámbito laboral es un factor clave que puede afectar al rendimiento académico.
+
 
 ### 2.3. Needfinding
 #### 2.3.1. User Personas
@@ -376,13 +412,12 @@ En el  gráfico 9, se ve que los apuntes y el repaso activo son los métodos o e
 
 [![userpersona1.png](https://i.postimg.cc/SNY6qJMx/Melanie-Cruz-User-Persona.png)](https://postimg.cc/N5Y9kGD3)
 
-<br><br><br><br><br><br><br>
+<br>
 
 **Usuario especialista:** El User Persona del especialista destaca a profesionales dedicados en educación y psicología que se preocupan profundamente por el éxito académico y el bienestar emocional de los estudiantes universitarios. Están comprometidos en identificar y abordar los desafíos que enfrentan los estudiantes, pero a menudo encuentran obstáculos para llegar a ellos de manera efectiva en entornos en línea. 
 
 [![userpersona2.png](https://i.postimg.cc/2jKQP43t/Roberto-Merino-User-Persona.png)](https://postimg.cc/rz5R4R1G)
 
-<br><br><br><br><br><br><br><br><br><br><br>
 
 #### 2.3.2. User Task Matrix
 
@@ -394,7 +429,6 @@ Matriz de tareas del especialista:
 
 <a  href = "https://postimg.cc/JygHNbYx"><img  src="https://i.postimg.cc/sXfPRmpk/User-Task-Matrix-Especialista.png"  alt="User Task Matrix"  width="600"  height="380" /></a>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 #### 2.3.3. User Journey Mapping
 
@@ -402,13 +436,11 @@ Matriz de tareas del especialista:
 
 <a  href = "https://postimg.cc/PPkZVQXF"><img  src="https://i.postimg.cc/158HtvLP/Customer-journey-map-Estudiante.png"  alt="User Journey Map del Estudiante"/></a>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 **Usuario especialista:** 
 
 <a  href = "https://postimg.cc/hhmT05Bd"><img  src="https://i.postimg.cc/fW2CDGqB/Customer-journey-map-Especialista.png"  alt="User Journey Map del Especialista"/></a>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 #### 2.3.4. Empathy Mapping
 
@@ -416,13 +448,11 @@ Matriz de tareas del especialista:
 
 <a  href = "https://postimg.cc/jDM75VzG"><img  src="https://i.postimg.cc/d0Ym5wDt/Empathy-map-Estudiante.png"  alt="Empathy Map del Estudiante"/></a>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
   **Usuario especialista:** 
 
 <a  href = "https://postimg.cc/jWCJn8cC"><img  src="https://i.postimg.cc/3wFj6VDj/Empathy-map-Especialista.png"  alt="Empathy Map del Especialista"/></a>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 #### 2.3.5. As-is Scenario Mapping
 
@@ -430,25 +460,11 @@ Matriz de tareas del especialista:
 
 <a  href = "https://postimg.cc/jwpNbzz2"><img  src="https://i.postimg.cc/prTBKCrf/As-Is-Estudiante.jpg"  alt="Mapa As-Is del Estudiante"  width="670"  height="260" /></a>
 
-<br><br><br><br><br><br><br>
+
 
   **Usuario especialista:** 
   
 <a  href = "https://postimg.cc/YLQFqh33"><img  src="https://i.postimg.cc/L5b3DPgr/As-Is-Especialista.jpg"  alt="Mapa As-Is del Especialista"  width="670"  height="260" /></a>
 
 
-<br><br><br><br>
 
-## CAPÍTULO III: REQUIREMENTS SPECIFICATION
-
-### 3.1. To-Be Scenario Mapping.
-
-**Usuario Estudiante:**
-
-[![To-Be-Estudiante.jpg](https://i.postimg.cc/MHN1V8hw/To-Be-Estudiante.jpg)](https://postimg.cc/QKgBZv8Y)
-
-  **Usuario especialista:** 
-  
-[![To-Be-Especialista.jpg](https://i.postimg.cc/HxSwWMzV/To-Be-Especialista.jpg)](https://postimg.cc/G8y8qHZC)
-
-<br><br><br><br><br><br><br><br><br><br><br><br>
