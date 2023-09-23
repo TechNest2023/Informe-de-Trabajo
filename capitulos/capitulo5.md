@@ -1,453 +1,663 @@
 ## Tabla de contenido
 
-- [**Capítulo V: Product Implementation, Validation & Deployment**](#capítulo-v-product-implementation-validation--deployment)
-	- [5.1. Software Configuration Management.](#51-software-configuration-management)
-		- [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
-		- [5.1.2. Source Code Management.](#512-source-code-management)
-		- [5.1.3. Source Code Style Guide & Conventions.](#513-source-code-style-guide--conventions)
-		- [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
-	- [5.2. Landing Page, Services & Applications Implementation.](#52-landing-page-services--applications-implementation)
-		- [5.2.1. Sprint 1](#521-sprint-1)
-			- [5.2.1.1 Sprint Planning 1](#5211-sprint-planning-1)
-			- [5.2.1.2. Sprint Backlog 1.](#5212-sprint-backlog-1)
-			- [5.2.1.3. Development Evidence for Sprint Review.](#5213-development-evidence-for-sprint-review)
-			- [5.2.1.4. Testing Suite Evidence for Sprint Review.](#5214-testing-suite-evidence-for-sprint-review)
-			- [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
-			- [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
-			- [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
-			- [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
-	- [Conclusiones](#conclusiones)
-		- [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
-	- [Bibliografía](#bibliografía)
-	- [Anexos](#anexos)
+- [**Capítulo IV: Product Design**](#capitulo-iv-product-design)
+	- [4.1. Style Guidelines.](#41-style-guidelines)
+		- [4.1.1. General Style Guidelines.](#411-general-style-guidelines) 
+		- [4.1.2. Web Style Guidelines.](#412-web-style-guidelines) 
+	- [4.2. Information Architecture.](#42-information-architecture)
+		- [4.2.1. Organization Systems.](#421-organization-systems) 
+		- [4.2.2. Labeling Systems.](#422-labeling-systems) 
+		- [4.2.3. SEO Tags and Meta Tags.](#423-seo-tags-and-meta-tags)  
+		- [4.2.4. Searching Systems.](#424-searching-systems)  
+		- [4.2.5. Navigation Systems.](#425-navigation-systems)   
+	- [4.3. Landing Page UI Design.](#43-landing-page-ui-design)   
+		- [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)  
+		- [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)   
+	- [4.4. Web Applications UX/UI Design.](#44-web-applications-uxui-design)   
+		- [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)  
+		- [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)  
+		- [4.4.3. Web Applications Mock-ups.](#443-web-applications-mock-ups)  
+		- [4.4.4. Web Applications User Flow Diagrams.](#444-web-applications-user-flow-diagrams)  
+	- [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)   
+	- [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)   
+		- [4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)   
+		- [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)    
+		- [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)    
+	- [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)   
+		- [4.7.1. Class Diagrams.](#471-class-diagrams)   
+		- [4.7.2. Class Dictionary.](#472-class-dictionary)  
+	- [4.8. Database Design.](#48-database-design)  
+		- [4.8.1. Database Diagram.](#481-database-diagram)  
 
 <br>
 
-## CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
+## CAPITULO IV: PRODUCT DESIGN
 
-### 5.1. Software Configuration Management.
+### 4.1. Style Guidelines.
 
-#### 5.1.1. Software Development Environment Configuration.
+En esta sección, delineamos los principios de estilo que guiarán la creación de nuestro producto desde cero. Estas directrices establecerán un estándar para la elección de fuentes, tamaños y la paleta de colores necesarios en el proceso inicial de prototipado del diseño de **EduFocus**. Estas indicaciones serán una valiosa referencia para los integrantes del equipo, ofreciéndoles una comprensión clara sobre cómo implementar los diferentes elementos de diseño en todas las áreas y secciones de la plataforma. Esto conducirá a un considerable ahorro de tiempo y a una mayor uniformidad en el aspecto visual de **EduFocus**.
 
-**1. Project Management**
+#### 4.1.1. General Style Guidelines.
 
-- Repositorio en Github: https://github.com/orgs/TechNest2023/repositories 	
+En esta sección, se presentará la gama completa de colores que hemos establecido, así como los íconos, el logotipo y la fuente de texto elegidos. Estos elementos son fundamentales en la construcción de los estilos visuales que definirán la estética de nuestra plataforma web. Cada tono y diseño ha sido meticulosamente escogido para comunicar una identidad uniforme y distintiva en toda la aplicación, garantizando una experiencia visual atractiva para quienes la utilicen.
 
-**2. Requirements Management**
+[![general.jpg](https://i.postimg.cc/fRQSMMLD/general.jpg)](https://postimg.cc/0bZyfRDB)
 
-- Trello: 
+#### 4.1.2. Web Style Guidelines.
 
-	Es una herramienta de gestión de proyectos basada en tableros visuales. Permite organizar tareas en tarjetas y listas, asignar responsabilidades, establecer fechas límite y colaborar en tiempo real. Con funciones como arrastrar y soltar, comentarios y etiquetas, Trello facilita la organización y seguimiento del progreso de los proyectos. Además, se integra con otras herramientas y ofrece una vista clara del estado de las tareas.
+En esta sección, se presentará la gama completa de colores que hemos establecido, así como los íconos, el logotipo y la fuente de texto elegidos. Estos elementos son fundamentales en la construcción de los estilos visuales que definirán la estética de nuestra plataforma web. Cada tono y diseño ha sido meticulosamente escogido para comunicar una identidad uniforme y distintiva en toda la aplicación, garantizando una experiencia visual atractiva para quienes la utilicen. Se eligió la fuente Poppins de Google debido a que tiene un estilo moderno, también elegimos lo botones con borde redondeado y sin contorno para que hagan juego con la fuente. En cuanto a los íconos, los elegimos básandonos en la iconografía básica de muchas web applications.
 
-	Trello: https://trello.com/es/tour 
+[![web.jpg](https://i.postimg.cc/Pfc8FWnL/web.jpg)](https://postimg.cc/jCH5DJ5K)
 
-**3. Product UX/UI Design**
+### 4.2. Information Architecture.
 
-- UXPressia
+La finalidad principal de diseñar la arquitectura de la información es establecer una organización coherente y accesible para los usuarios, facilitando así que puedan descubrir, comprender y moverse con eficacia por el contenido.
 
-	Es una herramienta en línea que permite a los usuarios desarrollar diversas actividades ofreciendo distintos diseños con métodos para investigaciones de clientes. Por ello, se utilizó UXpressia para el desarrollo de User Person, Emphaty Map y Journey Map porque nos facilita los diseños y la obtención de tu trabajo en diferentes tipos de archivos como formato PDF o PNG de alta resolución e imprimirlos sin esfuerzo.
-	
-   UXPressia: Uxpressia.com
+#### 4.2.1. Organization Systems.
 
+Como equipo, hemos acordado adoptar un formato jerárquico convencional, que se asemeja al enfoque de organización comúnmente utilizado en la mayoría de las páginas. Podríamos describir este enfoque de formato de la siguiente manera:
 
-- Figma
+<div align="center" style="{}" >
+  <strong>Landing page</strong>
+</div>
 
-	Es una herramienta de diseño de interfaces como colores, imágenes, formas, entre otros que nos permite diseñar y crear nuestra aplicación ofreciendo diversos modelos de celulares Iphone, Android con respecto a distintas generaciones. Además, se utilizará para la elaboración de nuestro prototipo brindándonos la opción de elaborar nuestro proyecto con la simulación para el usuario.
+* **Inicio**
 
-Figma: https://www.figma.com/files/recent?fuid=1229486195528071108
+   En esta sección será la pantalla de nuestro landing page, ya que permitirá a los usuarios registrarse e iniciar sesión en nuestra web application
 
-**4. Software Development**
+* **Habilidades de estudio a desarrollar**
 
-- HTML
+   En esta sección se indican algunas habilidades que el usuario logrará desarrollar gracias al uso de nuestro sistema
 
-	El lenguaje para el desarrollo de plataformas web HTML define la estructura de su contenido. HTML consta de un conjunto de elementos que utiliza para incluir diferentes piezas de contenido para que se vean o se comporten de cierta manera. Las diversas etiquetas incrustadas pueden convertir una palabra o imagen en un hipervínculo a otro sitio web, poner palabras en cursiva, aumentar, reducir fuentes, entre otros. Además, HTML (Hypertext Markup Language) – Lenguajes de Marcas de Hipertextos no es lenguaje de programación.
+* **Estrategias para bienestar emocional**
 
-	HTML: https://developer.mozilla.org/es/docs/Web/HTML
+   En esta sección se colocarán algunas estrategias que los estudiantes aprenderán para su bienestar emocional
 
-- CSS
+* **Seguimiento académico**
 
-	Este lenguaje se utiliza para ordenar las pautas de diseño de páginas web y presentar el contenido de la página de una manera atractiva. Así, HTML se utiliza para estructurar el contenido del sitio web, mientras que CSS se utiliza para estructurar la presentación. Cascading Stylesheets (CSS) – Hojas de filo en cascada
-	
-	CSS:  https://developer.mozilla.org/es/docs/Web/CSS  
-           
-- JavaScript
+   En esta sección se detalla sobre esa funcionalidad que tiene la web application
 
-	JavaScript es un lenguaje de programación fundamental en el desarrollo web. Proporciona interactividad y dinamismo a las páginas, permitiendo la creación de experiencias de usuario más atractivas y funcionales. Sus beneficios incluyen la capacidad de validar formularios en tiempo real, cargar contenido de manera asíncrona sin recargar la página completa (Ajax), y crear aplicaciones web interactivas y altamente responsivas. 
+* **Call-to-action**
 
-	JS: https://developer.mozilla.org/es/docs/Web/JavaScript 
+   Los usamos para poder lograr que nuestro usuario se interese en visitar nuesta web application
 
-- Github: GitHub es un servicio web y en la nube que ayuda a los desarrolladores a almacenar y administrar su código para llevar el control de cambios de versiones Git. El uso del Github es para almacenar cada uno de los integrantes sus tareas asignadas y así tener mejor control y organización del trabajo
+* **Footer**
 
-	Github:  https://github.com/
+   Está sección contendrá la información de contacto y referencias otras páginas 
 
-**5. Software Testing**
+#### 4.2.2. Labeling Systems.
 
-- Lenguaje Gherkin
+Los "Sistemas de Etiquetado" son un conjunto de métodos y tácticas empleados para asignar nombres, etiquetas o títulos explicativos a elementos y secciones en una interfaz digital, como un sitio web, una aplicación móvil o una plataforma en línea.
 
-	Es un lenguaje interpretado como un código. En este lenguaje, podemos agregar historias de usuario a nuestro programa con sus respectivas partes: función, escenario, dado, cuándo, and (opcionalmente), entonces. Esto se puede hacer en cualquier idioma, pero el idioma más común es el inglés. Este lenguaje se utiliza para implementar nuestras historias de usuario.
+ <div align="center" style="{}" >
+  <strong>Landing page</strong>
+</div>
 
-	Calatrava, S. G. (2021, octubre 13). Qué es Gherkin: cómo usarlo y cuáles son sus elementos. Profile Software Services. https://profile.es/blog/que-es-gherkin/
+Es crucial que las etiquetas utilizadas en la landing page coincidan con las que hemos detallado en la estructura previamente mencionada. Esta decisión se fundamenta en la navegación sencilla que nuestra página de inicio proporciona gracias a su diseño sin complicaciones. Asimismo, no tenemos la intención de incorporar múltiples alternativas que pudieran necesitar, por ejemplo, un motor de búsqueda.
 
-**6. Software Documentation**
 
-- **Swagger**
 
-	Swagger es una herramienta de código abierto que simplifica la documentación y prueba de APIs. Proporciona una forma estructurada y fácil de describir APIs, lo que facilita su comprensión y uso por parte de desarrolladores y equipos de trabajo. Swagger también permite la generación automática de documentación interactiva, facilitando la exploración y prueba de endpoints de API. 
+#### 4.2.3. SEO Tags and Meta Tags
 
-	Swagger https://swagger.io/docs/
+Las "etiquetas SEO" y las "etiquetas meta" son componentes del código HTML que se emplean en una página web para ofrecer datos suplementarios acerca del contenido de la página a los motores de búsqueda y a los visitantes.
 
+ <div align="center" style="{}" >
+  <strong>Landing page</strong>
+</div>
 
+**SEO Tags:**
 
-
-#### 5.1.2. Source Code Management.
-
-A continuación, presentaremos la gestión del código fuente que planeamos realizar para este proyecto. Está gestión nos permitirá realizar el seguimiento y control de los múltiples cambios y modificaciones que se realice cualquier integrante del equipo, a lo largo de la vida útil del proyecto. Además, cabe destacar que para este proyecto se creará un repositorio en GitHub, donde se realizará el control de versiones.
-
-Repositorio para el Landing Page: https://github.com/TechNest2023/Landing-Page.git
-
-Repositorio para las pruebas de Aceptación: https://github.com/TechNest2023/Acceptance-Test.git
-
-**Implementación de GitFlow**:
-
-En primer lugar, para este proyecto se implementará GitFlow como Workflow de control de versiones.  Este es un modelo alternativo de creación de ramas en Git en el cual se utilizan ramas principales y ramas de apoyo. Es por ello que para nuestro GitFlow usaremos las siguientes ramas:
-
-- **Ramas Principales:**
-
-	- Rama Master: 
-
-		Esta rama se encarga de contener el código fuente que está listo para producción, el cual vendría a ser una nueva versión de nuestro proyecto.
-
-	- Rama Develop:
-
-		Esta rama se encarga de contener el código fuente de los últimos cambios de desarrollo realizados antes de lanzar la próxima versión de nuestro proyecto
-
-[![gitflow.jpg](https://i.postimg.cc/d1KkHzhr/gitflow.jpg)](https://postimg.cc/zL0G32SG)
-
-***Nota:*** Organización de ramas con Git Flow
-
-<br>
-
-**Ramas de apoyo:**
-
-Estas ramas siempre tienen un tiempo de vida limitado, debido a que una vez se termine con esta, pasará a fusionarse en cualquiera de las ramas principales, dependiendo del tipo de rama que se use, y posteriormente será eliminada. Teniendo en cuenta esto, las ramas de apoyo que utilizaremos para este proyecto son los siguientes:
-
-- Rama Feature:
-
-	Este tipo de rama surgen de la rama principal Develop y se utiliza para desarrollar nuevas funciones del proyecto. Una vez culminado la función detallada en esta rama, se deberá fusionar con la rama principal Develop para luego ser eliminada.
-
-- Rama Release:
-
-	Este tipo de rama surge de la rama principal Develop y se utiliza para preparar una nueva versión de producción. Una vez instanciada esta rama, ya no se podrán agregar nuevas funciones, puesto a que en esta rama solo se realizarán tareas orientadas a la publicación, como solución de errores, generación de documentación, etc. Además, una vez culminado con esta rama, deberá fusionarse tanto en la rama Máster, como en la rama Develop.
-
-- Rama Hotfix
-
-	Esta rama surge de la rama principal Máster y se utilizan para corregir rápidamente los problemas y errores que se presentaron en el código fuente publicado en la rama Master. Una vez se haya terminado de trabajar con la rama Hotfix, se deberá fusionar con las ramas Máster y Develop. 
-
-<div align="center"><a  href = "https://postimg.cc/jWbDDkWp"><img  src="https://i.postimg.cc/5tHLkhf2/gitflow2.png"  alt="Gitflow"  width="500"  height="800" /></a></div>
-
-<div align="center"> Nota: Git Workflow Diagram </div>
-
-<br>
-
-Para nombrar las ramas de Feature, Release y Hotfix en nuestro proyecto, seguiremos las convenciones del Semantic Versioning Specification (SemVer). Este sistema de numeración de versiones consta de tres partes: MAJOR.MINOR.PATCH (X.Y.Z), donde cada una representa la versión principal, la versión secundaria y la versión del parche, respectivamente. Comenzaremos con una versión 0.yz en GitFlow hasta que definamos la API pública con la que trabajaremos, momento en el que cambiaremos a la versión 1.0.0. A partir de aquí, seguiremos estas reglas para incrementar las versiones:
-
-- Versión del Parche (Z): Se incrementará si se realizan correcciones de errores compatibles con versiones anteriores.
-- Versión secundaria (Y): Se incrementará si se introduce una nueva funcionalidad compatible con versiones anteriores en la API pública o si se realizan cambios en el código privado, como la obsolescencia de funciones.
-- Versión Principal (X): Se incrementará si se introducen cambios incompatibles con las versiones anteriores en la API pública.
-
-Siguiendo esta estructura de versiones, nombraremos las ramas de la siguiente manera:
-
-- Rama Feature: feature-vX.Y.Z (donde X.Y.Z representa la versión semántica).
-Ejemplo: feature-v1.0.3
-
-- Rama Release: release-vX.Y.Z (donde X.Y.Z representa la versión semántica).
-Ejemplo: release-v1.2.1
-
-- Rama Hotfix: hotfix-vX.Y.Z (donde X.Y.Z representa la versión semántica).
-Ejemplo: hotfix-v1.1.5
-
-En cuanto a los Conventional Commits, estos son una forma de especificar de manera más explícita los cambios realizados en los commits. Seguiremos la siguiente estructura para escribirlos:
+- Title Tag:
 
 ```
-<type> [opcional scope]: <description>
-[optional body]
-[optional footer(s)]
+<title>EduFocus</title>
 ```
 
-Donde:
+- Meta Description Tag:
 
-- `<type>` representa el tipo de commit, como Feat (nueva funcionalidad), Fix (corrección de errores), Test (adición de pruebas), Docs (modificaciones en la documentación) y Perf (mejoras de rendimiento).
-- `[opcional scope]` es opcional y se utiliza para proporcionar contexto adicional al commit.
-- `<description>` es una breve descripción de los cambios realizados, escrita en minúsculas y en imperativo.
-- `[optional body]` es un campo opcional donde se puede agregar información adicional en párrafos separados por saltos de línea.
-- `[optional footer(s)]` es un campo opcional para informar sobre cambios importantes.
+```
+<meta name="description" content=""EduFocus te ofrece recomendaciones de estudio personalizadas, estrategias para mejorar tu bienestar emocional y seguimiento de tu progreso académico y emocional. Con acceso a expertos en educación y psicología, nuestra plataforma facilita la interacción entre estudiantes y especialistas, proporcionando un entorno enriquecedor para tu desarrollo académico y emocional">
+```
 
-Este enfoque de Conventional Commits nos ayudará a mantener un historial de commits explícito y comprensible en nuestro proyecto.
+**Meta Tags:**
+
+- Charset Meta Tag:
+
+```
+<meta charset="UTF-8">
+```
+
+- Viewport Meta Tag:
+
+```
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+
+- Author Meta Tag:
+
+```
+<meta name="author" content="TechNest">
+```
+
+- Keywords Meta Tag (opcional):
+
+```
+<meta name="keywords" content="Educación personalizada,
+Técnicas de estudios,
+Salud emocional,
+Bienestar mental,
+Recomendaciones de estudio,
+Seguimiento académico,
+Plataforma educativa">
+```
+
+#### 4.2.4. Searching Systems.
+
+Estos sistemas se han desarrollado con el propósito de agilizar la búsqueda de información, productos, servicios o cualquier tipo de contenido que responda a las necesidades y consultas de los usuarios de forma rápida
+
+ <div align="center" style="{}" >
+  <strong>Landing page</strong>
+</div>
+
+No aplicamos sistemas de búsqueda ya que no le consideramos conveniente, ya que la landing page no cuenta con servicios complejos ni tampoco una gran cantidad de información como para implementar algún sistema de búsqueda.
 
 
+#### 4.2.5. Navigation Systems.
 
+Los "Navigation Systems" (Sistemas de Navegación) se refieren a las estrategias y elementos utilizados en un diseño web o interfaz para guiar a los usuarios a través de la estructura y el contenido de un sitio web, aplicación u otra plataforma digital. Estos sistemas están diseñados para hacer que la navegación sea más intuitiva, eficiente y agradable para los usuarios, permitiéndoles encontrar la información que buscan y moverse entre diferentes secciones con facilidad.
 
-#### 5.1.3. Source Code Style Guide & Conventions.
+ <div align="center" style="{}" >
+  <strong>Landing page</strong>
+</div>
 
-Utilizaremos la guía de estilos y convenciones de codificación en el lenguaje de Java, JavaScript, HTML, CSS y frameworks como Angular.
+1. **Navegación a través de Botones:**
 
-Adicionalmente, el equipo de desarrollo utilizará las siguientes herramientas de desarrollo:
+   En la sección hero, un botón "Iniciar prueba" te llevará directamente a la web application. Esto garantiza una navegación rápida hacia la acción principal que deseamos que los usuarios tomen. Adicional a esto tenemos el botón de "Acceder" y "Registrarse", los cuales también nos llevarán al inicio de sesión de la web application.
+
+2. **Footer - Navegación Rápida:**
+
+   En la parte inferior de la página, el footer incluye una sección de navegación rápida. Aquí encontrarás botones que te llevarán a las secciones clave, como \*\*"Nosotros", "Otros servicios".
+
+3. **Scroll Suave:**
+
+   Implementa un scroll suave para que, al desplazarnos por la landing page el contenido aparezca lentamente con una animación
 
 <br>
 
-**IDE:**
-- IntelliJ Idea Ultimate: https://www.jetbrains.com/idea/
-- WebStorm ([https://www.jetbrains.com/eses/webstorm/download/#section=windows](https://www.jetbrains.com/eses/webstorm/download/#section=windows) )
-- GitHub ([https://docs.github.com/es](https://docs.github.com/es) )
+### 4.3. Landing Page UI Design.
 
-- Java: https://www.java.com/en/
-- JavaScript ([https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) )
-- CSS ([https://developer.mozilla.org/es/docs/Web/CSS](https://developer.mozilla.org/es/docs/Web/CSS) )
-- HTML ([https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/HTML) )
-- NodeJS. ([https://nodejs.org/es/download/](https://nodejs.org/es/download/) )
+#### 4.3.1. Landing Page Wireframe.
 
-<br>
+**Vista desde escritorio:**
 
-**Frameworks:**
-- Angular: https://angular.io
-
-**Diseño UI/UX:**
--  Figma ([https://www.figma.com/best-practices/guide-to-developerhandoff/components-styles-and-documentation/](https://www.figma.com/best-practices/guide-to-developerhandoff/components-styles-and-documentation/) )
-
-**Herramienta ágil**
-- Trello: https://trello.com
-
-#### 5.1.4. Software Deployment Configuration.
-
-Para el despliegue de los componentes de nuestro proyecto, hemos seleccionado herramientas específicas que nos permiten gestionar eficazmente el control de versiones y llevar a cabo el despliegue de manera fluida.
-
-**Control de Versiones: Git y GitHub**
-
-Utilizaremos Git como nuestro sistema de control de versiones principal. Git es una herramienta esencial que nos permitirá rastrear y gestionar todos los cambios realizados en nuestro proyecto, lo que incluye las modificaciones en el código fuente, la documentación y más. Cada cambio será registrado en un historial, lo que facilita la colaboración y el seguimiento de la evolución del proyecto.
-
-GitHub será nuestra plataforma de alojamiento de código, donde almacenaremos y compartiremos nuestro repositorio de código con el equipo. Esto proporciona una colaboración en tiempo real, la capacidad de revisar y aprobar cambios, y una integración perfecta con otras herramientas.
-
-<div align="center"><a  href = "https://postimg.cc/w35dXXxd"><img  src="https://i.postimg.cc/FF8sQp21/Github.jpg"  alt="Github"  width="600"  height="300" /></a></div>
-
-
-**Despliegue de la Landing Page: Netlify**
-
-Para el despliegue de nuestra Landing Page, hemos elegido Netlify, que se destaca en ofrecer soluciones avanzadas de automatización y alojamiento web, especialmente diseñadas para empresas. Esta plataforma permite a los usuarios configurar sus sitios web de manera instantánea y sencilla. Aquellas empresas que cuentan con una cuenta en Netlify pueden comenzar a alojar sus sitios web en esta plataforma de manera eficaz. Además, Netlify ofrece la posibilidad a los usuarios de alojar sus sitios web de forma intuitiva, ya sea mediante la simple acción de arrastrar y soltar componentes desde sus propias computadoras hacia su aplicación web, o incluso importando sus repositorios directamente desde Git.
-
-<div align="center"><a  href = "https://postimg.cc/bSPfXJTM"><img  src="https://i.postimg.cc/BbLSKP1q/netlify.jpg"  alt="Netlify"  width="600"  height="300" /></a></div>
-
-
-**Despliegue de la Web App: Firebase**
-
-Para la implementación de nuestra Web App, hemos optado por Firebase, quees una plataforma ampliamente utilizada para el despliegue de aplicaciones web y móviles. Ofrece una solución integral que simplifica el proceso de implementación de aplicaciones en línea. Con Firebase, los desarrolladores pueden aprovechar servicios de alojamiento web confiables y escalables. Permite cargar y alojar fácilmente aplicaciones web, proporcionando una infraestructura de alojamiento segura y de alto rendimiento. 
-
-<div align="center"><a  href = "https://postimg.cc/m1SfTspr"><img  src="https://i.postimg.cc/T1zRq2rn/firebase.png"  alt="Firebase"  width="600"  height="300" /></a></div>
-
-**GitFlow: Método de Desarrollo**
-
-Para gestionar nuestro flujo de trabajo de desarrollo, seguiremos la metodología GitFlow. Este enfoque establece reglas claras para agregar nuevas características, solucionar problemas y preparar el código fuente para su lanzamiento. Nos ayuda a mantener una estructura organizada del repositorio y garantiza que todos los cambios se gestionen de manera coherente antes de implementarlos.
-
-<div align="center"><a  href = "https://postimg.cc/vgfwS9Wf"><img  src="https://i.postimg.cc/cH51CBC9/gitflow3.png"  alt="Gitflow"  width="600"  height="300" /></a></div>
+<div align="center"><a  href = "https://postimg.cc/WqTXsJ9S"><img  src="https://i.postimg.cc/qqCYXs2f/landing-wireframe-desktop.jpg"  alt="Landing Page Wireframe Desktop"  width="250"  height="590" /></a></div>
 
 <br><br>
 
-### 5.2. Landing Page, Services & Applications Implementation.
-#### 5.2.1. Sprint 1
-##### 5.2.1.1. Sprint Planning 1.
+**Vista desde móvil:**
 
-| **Sprint #** | Sprint 1 |
-| --- | --- |
-| **Sprint Planning Background** |
-| Date | 2023-08-26 |
-| Time | 3:00 PM |
-| Location | Google Meet |
-| Prepared By | Claudio Jesús Moreno Rosales|
-| Attendees (to planning meeting) | Gray Hidalgo, Alejandro Eduardo/Herrera del Pino, Josehp Piero/Portales Ortiz, Diego Alejandro |
-| Sprint 1 Review Summary | **Equipo de desarrollo:** El equipo realizó las tareas asignadas exitosamente para la realización del UX Research, UX Design y todo lo referentes a la implementación de la Landing Page. **Landing Page:** Se realizaron los diseños wireframe, mockup y prototype para posterior a ello, establecer el código de la página web estática en HTML, CSS y JavaScript. | |
-| Sprint 1 Retrospective Summary | **Oportunidades de mejora:** Se vio que hay que mejorar un poco en la comunicación del equipo para ir de manera más ágil cuando van haciendo cambios en el repositorio de github o van subiendo avances de tareas. |
-| **Sprint Goal & User Stories** ||
-| Sprint 1 Goal | **Objetivos:**** Investigación:** Realizar el UX Research Métrica: Realización y demostración de los hallazgos. <br><br>**Diseño:** Realizar diseños wireframe, mockup y prototype de la Landing Page. Métrica: Creación exitosa de mockups interactivos. <br><br>**Programación:** Codificar Landing Page en los lenguajes de HTML, CSS y JavaScript. Métrica: Corrección exitosa del 100% del código a nivel de legibilidad.<br><br>**Despliegue:** Desplegar la solución estática Métrica: Verificación de que la Landing Page se ha desplegado correctamente en el entorno de producción. |
-| Sprint 1 Velocity | 30 |
-| Sum of Story Points | 25 |
+<div align="center"><a  href = "https://postimg.cc/WqTXsJ9S"><img  src="https://i.postimg.cc/ydx2W4d8/landing-wireframe-movilejpg.jpg"  alt="Landing Page Wireframe Mobile"/></a></div>
+
+<br><br><br><br>
+
+#### 4.3.2. Landing Page Mock-up.
+
+**Vista desde escritorio:**
+
+<div align="center"><a  href = "https://postimg.cc/3dSdJP8m"><img  src="https://i.postimg.cc/dVvdnYgH/landing-mockup-desktop.jpg"  alt="Landing Page Mock-Up Desktop"/></a></div>
 
 <br><br>
 
-##### 5.2.1.2. Sprint Backlog 1.
+**Vista desde móvil:**
 
-| **Sprint #** | Sprint 1 |
-| --- | --- |
-| User Story | Work-Item/ Task |
-
-| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (hours)** | **Assigned To** | **Status**|
-|--|--|--|--|--|--|--|--|
-| US-23 | Idioma de la web | LD01 |Cambiar de idioma español a inglés | Como visitante del segmento estudiante o especialista quiero poder cambiar el idioma de la web, para ajustar la web a mis preferencias de idioma. | 3 h|Gray Hidalgo, Alejandro Eduardo | In-Process|
-| US-24 | Visualización de la llamada a la acción | LD02 |Visualizar la opción de contacto con los desarrolladores |Como visitante del segmento estudiante o especialista quiero visualizar un botón de contacto, para poder conectarme con el equipo de EduFocus. | 3 h|Gray Hidalgo, Alejandro Eduardo | Done|
-| US-25 | Beneficios de EduFocus | LD03 |Verificar los beneficios de EduFocus |Como visitante del segmento estudiante o especialista quiero acceder a una descripción de los beneficios de la aplicación, para tener un panorama de los aportes que puede dejar EduFocus en mí. | 3 h|Gray Hidalgo, Alejandro Eduardo | Done|
-| US-26 | Precios o planes de suscripción | LD04 |Visualizar los planes de suscripción y precios de cada uno  |Como visitante del segmento estudiante o especialista quiero visualizar los planes de suscripción, para poder ver si se ajusta a mi economía. | 3 h|Gray Hidalgo, Alejandro Eduardo | In-Process|
-| US-27 | Página reponsive | LD05 |Verificar adaptabilidad de la web en diferentes tamaños de pantalla  |Como visitante del segmento estudiante o especialista, quiero que la página web se adapte a diferentes dispositivos para poder visualizar a la información desde mi celular o computadora. | 3 h|Gray Hidalgo, Alejandro Eduardo | In-Process|
+<div align="center"><a  href = "https://postimg.cc/Wt7dxdx9"><img  src="https://i.postimg.cc/T2znLm0X/landing-mockup-movil.jpg"  alt="Landing Page Mock-Up Mobile"/></a></div>
 
 <br><br>
 
-##### 5.2.1.3. Development Evidence for Sprint Review.
+### 4.4. Web Applications UX/UI Design.
+#### 4.4.1. Web Applications Wireframes.
 
-A lo largo del primer sprint, nuestro equipo ha logrado avances significativos en la implementación de los componentes clave de nuestra solución. Durante este período, nos hemos concentrado en llevar a cabo investigaciones de experiencia de usuario (UX Research), elaborar el diseño y los prototipos de la Landing Page, además de abordar la programación de la solución en su forma estática.
+**Estudiantes:**
 
-Vista general del código:
+**Inicio**
 
-[![coding.png](https://i.postimg.cc/4xZkBTjy/coding.png)](https://postimg.cc/Wh9H1xNc)
-
-
+<div align="center"><a  href = "https://postimg.cc/w1n53tqX"><img  src="https://i.postimg.cc/FKHTWcwB/inicio.jpg"  alt="Wireframe Inicio" width="700"  height="350"/></a></div>
 
 <br>
 
-| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
-|----------------|------------|---------------|--------------------|-------------------------|-------------------------|
-|Landing-Page |Main |56b7ab53ee59ef948a979fa354d32e18a144c1a5 |Feat |Landing Page Update | Sep 7
-|Landing-Page |Main |1b342a79d5cc4be3128efc420f4a48cd5537934a |Feat |Update to deploy | Sep 18
+**Actividades**
+
+<div align="center"><a  href = "https://postimg.cc/zVXFQZ2g"><img  src="https://i.postimg.cc/jdy3LRzZ/actividades.jpg"  alt="Wireframe Actividades del estudiante" width="700"  height="350"/></a></div>
+
+<br>
+
+**Registro**
+
+<div align="center"><a  href = "https://postimg.cc/DJP1CBq6"><img  src="https://i.postimg.cc/Jn9KzF0f/registro.jpg"  alt="Wireframe Registro" width="700"  height="350"/></a></div>
+
+<br>
+
+**Agendar Sesion**
+
+<div align="center"><a  href = "https://postimg.cc/XpHkSHtD"><img  src="https://i.postimg.cc/cLZ93PhZ/agendar-sesion.jpg"  alt="Wireframe Agendar Sesion del estudiante" width="700"  height="350"/></a></div>
+
+<br>
+
+**Chat de mensajería**
+
+<div align="center"><a  href = "https://postimg.cc/Z0mcryrj"><img  src="https://i.postimg.cc/gcXTbVr9/chat-mensajes.jpg"  alt="Wireframe Chat de mensajería del estudiante" width="700"  height="350"/></a></div>
+
+<br>
+
+**Chats**
+
+<div align="center"><a  href = "https://postimg.cc/dZJjvzqg"><img  src="https://i.postimg.cc/prFGQH3V/chats.jpg"  alt="Wireframe Chats del estudiante" width="700"  height="350"/></a></div>
+
+<br>
+
+**Visitar Perfil**
+
+<div align="center"><a  href = "https://postimg.cc/MM7mCW8y"><img  src="https://i.postimg.cc/xC7pbCxF/esitar-perfil.jpg"  alt="Wireframe Visitar perfil del estudiante" width="700"  height="350"/></a></div>
+
+<br>
+
+**Inicio de Sesion**
+
+<div align="center"><a  href = "https://postimg.cc/vDvvXHhy"><img  src="https://i.postimg.cc/2jsXk1B1/inicio-sesion.jpg"  alt="Wireframe Inicio de Sesion " width="700"  height="350"/></a></div>
+
+<br>
+
+**Listado de sesiones**
+
+<div align="center"><a  href = "https://postimg.cc/QFFkXg3N"><img  src="https://i.postimg.cc/fRKHf5qd/listado-sesiones.jpg"  alt="Wireframe Listado de Sesiones del estudiante" width="700"  height="350"/></a></div>
+
+<br>
+
+**Perfil Especialista**
+
+<div align="center"><a  href = "https://postimg.cc/1g6GF9XL"><img  src="https://i.postimg.cc/TPNCZ16Y/perfil-asesor.jpg"  alt="Wireframe Perfil de Especialista" width="700"  height="350"/></a></div>
+
+<br>
+
+**Progreso**
+<div align="center"><a  href = "https://postimg.cc/34TgCPDW"><img  src="https://i.postimg.cc/50Hn1J45/progreso.jpg"  alt="Wireframe Progreso del estudiante" width="700"  height="350"/></a></div>
+
+  <br>
+
+**Especialistas:** 
+**Chat de mensajería**
+<div align="center"><a  href = "https://postimg.cc/zyLdvYrg"><img  src="https://i.postimg.cc/0ynht9Xc/chat-mensajes.jpg"  alt="Wireframe Chat de mensajería del especialista" width="700"  height="350"/></a></div>
+
+  <br>
+  
+**Chat**
+<div align="center"><a  href = "https://postimg.cc/CzrPwLW0"><img  src="https://i.postimg.cc/wjgSc121/chat.jpg"  alt="Wireframe Chat del especialista" width="700"  height="350"/></a></div>
+
+ <br>
+  
+**Horarios**
+<div align="center"><a  href = "https://postimg.cc/2bYT0qBQ"><img  src="https://i.postimg.cc/fLtFTmzr/establecer-horarios.jpg"  alt="Wireframe Horarios del especialista" width="700"  height="350"/></a></div>
+
+ <br>
+ 
+**Visitar Perfil de Estudiante**
+<div align="center"><a  href = "https://postimg.cc/TLc0FRrZ"><img  src="https://i.postimg.cc/C132Z5dL/perfil-estudiante.jpg"  alt="Wireframe Visitar perfil del estudiante" width="700"  height="350"/></a></div>
+
+ <br>
+ 
+**Sesiones Agendadas**
+<div align="center"><a  href = "https://postimg.cc/rdxQGGzy"><img  src="https://i.postimg.cc/5tkTVnVz/sesiones-Agendadas.jpg"  alt="Wireframe Sesiones Agendadas del Especialista" width="700"  height="350"/></a></div>
+ 
+<br><br>
+ 
+#### 4.4.2. Web Applications Wireflow Diagrams.
+En esta sección se mostrarán los wireflow de nuestra web application, para ello elaboraremos los steps y los Task Flows para casa User Goal.
+
+1. **User Goal 1:**
+   Registro de nuevos especialistas
+   
+Como especialista quiero registrarme en la plataforma de EduFocus, para poder brindar mis servicios a los alumnos.
+
+**Task Flow**
+ 
+  [![tf1.jpg](https://i.postimg.cc/nhHQbtpX/tf1.jpg)](https://postimg.cc/qz57yStr)
+   
+**Wireflow**
+  
+[![tf1.jpg](https://i.postimg.cc/zBdxWk7j/tf1.jpg)](https://postimg.cc/MMQ0JVhM)
+
+    
+2. **User Goal 2:** Modificar datos de los especialistas
+
+Como especialista quiero modificar mis datos de usuario, para tener mi perfil más personalizado.
+
+**Task Flow**
+
+[![tf2.jpg](https://i.postimg.cc/5yBjTsr5/tf2.jpg)](https://postimg.cc/n9LHQGpM)
+
+**Wireflow**
+
+[![tf2.jpg](https://i.postimg.cc/kMpjgfBM/tf2.jpg)](https://postimg.cc/yW0hfhm2)
+
+3. **User Goal 3:** Buscar especialistas por filtro
+
+Como estudiante quiero buscar a los especialistas por área de expertís, para poder agendar una sesión.
+
+**Task Flow**
+
+[![tf3.jpg](https://i.postimg.cc/SxDYmtxD/tf3.jpg)](https://postimg.cc/cvtLmhYn)
+
+**Wireflow**
+
+[![tf3.jpg](https://i.postimg.cc/L5nNVZ0M/tf3.jpg)](https://postimg.cc/V0Pqf587)
+
+
+4. **User Goal 4:** Borrar especialista
+
+Como estudiante quiero realizar un una queja o reclamo, para hacer saber que el especialista no cumple las expectativas necesarias.
+ 
+**Task Flow**
+   
+[![tf4.jpg](https://i.postimg.cc/0NjMjd6x/tf4.jpg)](https://postimg.cc/hJFP3mb3)
+
+**Wireflow**
+
+[![tf4.jpg](https://i.postimg.cc/vmbhNKSh/tf4.jpg)](https://postimg.cc/mPp7cm41)
+
+
+5. **User Goal 5:** Registro de nuevo estudiante
+  
+Como estudiante quiero registrarme en la plataforma de EduFocus, para acceder al amplio catálogo de especialistas.
+
+**Task Flow**
+
+[![tf5.jpg](https://i.postimg.cc/yx4kLMLY/tf5.jpg)](https://postimg.cc/R6dSFDrj)
+
+**Wireflow**         
+
+[![tf5.jpg](https://i.postimg.cc/2S4TTYT3/tf5.jpg)](https://postimg.cc/HrkQsfqC)
+
+
+6. **User Goal 6:** Buscar estudiantes por filtro
+
+Como especialista quiero buscar a los estudiantes que han reservado cita conmigo, para tener mejor organizado mis horarios y  sesiones.
+
+**Task Flow**
+
+    
+ [![tf6.jpg](https://i.postimg.cc/0N46wMmS/tf6.jpg)](https://postimg.cc/HJQsGL6W)
+
+
+**Wireflow**
+            
+[![tf6.jpg](https://i.postimg.cc/wMZF4TSR/tf6.jpg)](https://postimg.cc/jn6zLKqR)
+
+7. **User Goal 7:** Registro de nuevo seguimiento
+
+Como estudiante quiero tener un seguimiento de mis actividades encargadas por el especialista, para tener una mejor comprensión y adaptación de lo tratado en las sesiones.
+
+**Task Flow**
+   
+[![tf7.jpg](https://i.postimg.cc/FRJYgrgB/tf7.jpg)](https://postimg.cc/k6qM7dHQ)
+
+**Wireflow**
+
+[![tf7.jpg](https://i.postimg.cc/VL0KrnCq/tf7.jpg)](https://postimg.cc/D8FrRW50)
+
+
+8. **User Goal 8:** Visualizar progreso de seguimiento
+
+Como estudiante quiero  visualizar mi progreso de las actividades de seguimiento, para tener un mejor entendimiento de mis avances.
+
+**Task Flow**
+
+[![tf8.jpg](https://i.postimg.cc/kMKV255V/tf8.jpg)](https://postimg.cc/0r553PDx)
+
+
+**Wireflow**
+
+[![tf8.jpg](https://i.postimg.cc/htFp9vLH/tf8.jpg)](https://postimg.cc/WhnGV2fn)
+
+
+9.  **User Goal 9:** Eliminar cuenta
+
+Como estudiante o especialista quiero eliminar mi cuenta para dejar de usar los servicios de EduFocus.
+
+**Task Flow**
+
+[![tf9.jpg](https://i.postimg.cc/GhR4G1BX/tf9.jpg)](https://postimg.cc/jC8qYm4f)
+
+**Wireflow**
+
+[![tf9.jpg](https://i.postimg.cc/xCdR0zQb/tf9.jpg)](https://postimg.cc/XZTFLXpV)
+
+
+10.   **User Goal 10:** Eliminar sesión 
+   
+Como estudiante quiero eliminar una sesión agendada, porque decidí elegir a otro especialista de mi preferencia.
+
+**Task Flow**
+    
+[![10.jpg](https://i.postimg.cc/Prb8RqsG/10.jpg)](https://postimg.cc/5600Hb2p)
+    
+**Wireflow**
+             
+[![tf10.jpg](https://i.postimg.cc/LsDDKVcp/tf10.jpg)](https://postimg.cc/677nCC6j)             
+            
+
+11.   **User Goal 11:** Crear nueva 
+sesión
+
+Como estudiante quiero crear una nueva sesión, para empezar con las asesorías entre pares.
+
+**Task Flow**
+     
+[![tf5.jpg](https://i.postimg.cc/yx4kLMLY/tf5.jpg)](https://postimg.cc/R6dSFDrj)
+      
+**Wireflow**
+      
+[![tf5.jpg](https://i.postimg.cc/2S4TTYT3/tf5.jpg)](https://postimg.cc/HrkQsfqC)
+      
+
+12.    **User Goal 12:** Modificar sesión
+
+Como estudiante quiero modificar una sesión agendada, para cambiar la fecha y hora de acuerdo  con mi disponibilidad y la  del especialista.
+
+**Task Flow**
+
+[![tf12.jpg](https://i.postimg.cc/SxNj17f8/tf12.jpg)](https://postimg.cc/gnQYnh5k)
+
+**Wireflow**
+
+[![tf12.jpg](https://i.postimg.cc/mD6ShgZp/tf12.jpg)](https://postimg.cc/r0x4Pcr5)
+
+
+13.   **User Goal 13:** Buscar sesiones por filtro
+
+Como estudiante quiero buscar mis sesiones  agendadas, para tener un panorama general de mis asesorías.
+
+**Task Flow**
+
+  [![tf13.jpg](https://i.postimg.cc/wTk7kbLg/tf13.jpg)](https://postimg.cc/hffDDs25)
+
+
+**Wireflow**
+
+[![tf13.jpg](https://i.postimg.cc/Hnc9M1VY/tf13.jpg)](https://postimg.cc/8fGv83R9)
 
 <br><br>
 
-##### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+#### 4.4.3. Web Applications Mock-ups.
 
-Los archivos .feature descritos en Gherkin son una parte fundamental de las metodologías de desarrollo de software basadas en el comportamiento, como Behavior-Driven Development (BDD). En este caso, sirve para comunicar y automatizar las especificaciones que se tienen en las historias de usuario. Además, para el Sprint 1 se abordaron las historias de usuario relacionadas a la EPIC-07 de la Landing Page.
-
-**Link del repositorio de los Acceptance Test:** https://github.com/TechNest2023/Acceptance-Test.git
-
-[![gherkin-github.png](https://i.postimg.cc/FzwgPD7V/gherkin-github.png)](https://postimg.cc/JHck033s)
+<div align="center"> En esta ventana los usuarios iniciarán sesión para poder ingresar a nuestra web application. <a  href = "https://postimg.cc/8jxBzymK">
+<img  src="https://i.postimg.cc/wjjWFZyp/inicio-sesion.jpg"  alt="Inicio de sesion"  width="700"  height="400"/></a></div>
 
 <br>
 
-[![gherkin-github-2.png](https://i.postimg.cc/gjxHqfk0/gherkin-github-2.png)](https://postimg.cc/rRL4qZ46)
+<div align="center"> Esta ventana es la del formulario de registro, nuestros usuarios podrán registrarse como especialistas o estudiantes. <a  href = "https://postimg.cc/PNxmzG6V">
+<img  src="https://i.postimg.cc/44vBGspG/registro.jpg"  alt="Registro"  width="700"  height="400"/></a></div>
 
-A continuación, se presenta las pruebas de funcionalidad que presenta la Landing Page, respecto a los archivos .feature realizados en el lenguaje Gherkin para los criterios de aceptación que se deben cumplir.
 
 <br>
 
-| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
-|----------------|------------|---------------|--------------------|-------------------------|-------------------------|
-|[Acceptance-Test](https://github.com/TechNest2023/Acceptance-Test) |Main |2c871f3e6c1d73b42161eb59704ab9620d5e33e0 |feat |added sprint 1 .feature files - Landing Page |Sep 11
-
-<br><br>
-
-- Se muestra las pruebas de la funcionalidad de Beneficios de EduFocus:
-[![2.png](https://i.postimg.cc/TwrgfgYT/2.png)](https://postimg.cc/ftRJv39P)
+<div align="center"> Esta es la ventana de inicio para los que se registraron como estudiantes, se muestra la diversidad de especialistas que tiene la plataforma. <a  href = "https://postimg.cc/vxcfQ9gw">
+<img  src="https://i.postimg.cc/3NZBFF3N/inicio-estudiante.jpg"  alt="Ventana de inicio"  width="700"  height="400"/></a></div>
 
 <br>
 
-[![5.png](https://i.postimg.cc/sDnSjVyG/5.png)](https://postimg.cc/zVg3pYyq)
+<div align="center">  Esta es la ventana para crear una sesión con alguno de los especialistas según la disponibilidad de los mismos. <a  href = "https://postimg.cc/mcsYQtq7">
+<img  src="https://i.postimg.cc/q7t1HKxD/Agendar-sesion.jpg"  alt="Agendar Sesion"  width="700"  height="400"/></a></div>
 
-<br><br>
-
-##### 5.2.1.5. Execution Evidence for Sprint Review
-
-En esta fase, nuestro equipo ha elaborado diseños minuciosos para la Landing Page. Hemos creado wireframes que establecen la estructura y la disposición de los elementos esenciales. Posteriormente, hemos desarrollado mockups que visualizan la apariencia y el estilo de la página. Estos mockups se han transformado en prototipos interactivos que permiten a los usuarios explorar la navegación y la funcionalidad prevista.
-
-En cuanto al equipo de desarrollo, ha trabajado de manera efectiva en la programación de la Landing Page. Hemos empleado lenguajes de programación como HTML, CSS y JavaScript para convertir los diseños en una experiencia interactiva, además, se pudo integrar el framework de Angular para su desarrollo. 
-
-[![Vide-presentacion.png](https://i.postimg.cc/pX6DR2Yc/Vide-presentacion.png)](https://postimg.cc/JGjyQCFj)
-
-Video de presentación del Landing Page: https://youtu.be/nbXIblJgpkU 
-
-<br><br>
-
-##### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-
-La documentación de productos de software, como la Landing Page, se basa en archivos Gherkin escritos en lenguaje Cucumber. Estos archivos siguen una estructura clara que describe los criterios de aceptación del software mediante escenarios de prueba legibles. La estructura incluye encabezados que describen características, seguidos de escenarios que detallan el comportamiento esperado del software en situaciones específicas. Estos archivos facilitan la comprensión, colaboración y automatización de pruebas, garantizando que el software cumpla con los estándares requeridos.
-
-Repositorio de la documentación de los Acceptance Test: https://github.com/TechNest2023/Acceptance-Test.git
-
-[![testing.png](https://i.postimg.cc/yN4fRDk7/testing.png)](https://postimg.cc/Snd7FN6P)
 
 <br>
 
-Features de las User Stories del Sprint 1:
+<div align="center">  Esta es la ventana en la que se muestran todas las sesiones pendientes con los diversos especialistas. <a  href = "https://postimg.cc/cKBQTdy2">
+<img  src="https://i.postimg.cc/tgL2qgrq/lista-sesiones-agendadas.jpg"  alt="Lista de Sesiones Agendadas"  width="700"  height="400"/></a></div>
 
-[![features.png](https://i.postimg.cc/ncWSHRxj/features.png)](https://postimg.cc/D8qP6c8n)
+  
+<br>
+
+<div align="center">  Esta es la ventana en la que se muestran todas las sesiones pendientes con los diversos especialistas. <a  href = "https://postimg.cc/Z07x1YBh">
+<img  src="https://i.postimg.cc/SNq1YJmj/chat-estudiante.jpg"  alt="Chat del estudiante"  width="700"  height="400"/></a></div>
+   
+<br>
+
+<div align="center">  Esta es la ventana en la que se muestran todas las sesiones pendientes con los diversos especialistas. <a  href = "https://postimg.cc/gxRyXvMY">
+<img  src="https://i.postimg.cc/sgHTLm7Z/encio-mensajes-estudiante.jpg"  alt="Envío de mensajes al estudiante"  width="700"  height="400"/></a></div>
+    
+<br>
+
+<div align="center"> Esta es la ventana en la que el estudiante subirá las actividades asignadas por los diferentes especialistas con los que tiene una sesión programada. <a  href = "https://postimg.cc/JGs5mwZH">
+<img  src="https://i.postimg.cc/8PHKRNC4/actividades-estudiante.jpg"  alt="Actividades del estudiante"  width="700"  height="400"/></a></div>
+
 
 <br>
 
-Gherkin de la Lading Page:
+<div align="center"> En esta ventana se muestra el perfil del especialista y las actividades encargadas para mí. <a  href = "https://postimg.cc/TL2n4BTw">
+<img  src="https://i.postimg.cc/9MZ1rjSG/perfil-especialista-desde-Alumno.jpg"  alt="Perfil del especialista, vista desde el perfil del alumno"  width="700"  height="400"/></a></div>
 
-[![specific-Feature.png](https://i.postimg.cc/3xDSWXrL/specific-Feature.png)](https://postimg.cc/mPBN5FHM)
-
-
-<br><br>
-
-##### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-
-En el transcurso de este Sprint, se ha realizado un proceso de Deployment con enfoque en la creación de cuentas y configuración de recursos en Netlify, nuestro proveedor de alojamiento web. Este despliegue se centra específicamente en nuestra Landing Page, que es uno de los productos dentro de nuestro proyecto. 
-
-Durante este proceso, se llevaron a cabo actividades clave, como la creación de una cuenta en Netlify y la configuración de recursos necesarios para alojar nuestra Landing Page de manera eficiente. Además, se trabajó en la integración y automatización de las tareas de Deployment para garantizar una ejecución fluida. 
-
-**Asociación del repositorio de Github con Netlify:**
-
-[![netlify1.png](https://i.postimg.cc/gjfxkXKZ/netlify1.png)](https://postimg.cc/WqwN54CN)
 
 <br>
 
-**Proceso de Despliegue del Landing Page:**
+<div align="center"> En esta ventana  se muestra las calificaciones otorgadas por los especialistas respecto a las actividades asignadas.<a  href = "https://postimg.cc/1nWDhMzK">
+<img  src="https://i.postimg.cc/902b9n5s/progreso.jpg"  alt="Progreso"  width="700"  height="400"/></a></div>
 
-[![netlify2.png](https://i.postimg.cc/j5Sw8r5L/netlify2.png)](https://postimg.cc/wtnjvZDp)
-
-<br>
-
-**Proceso de construcción y despliegue:**
-[![netlify3.png](https://i.postimg.cc/435Hb3XD/netlify3.png)](https://postimg.cc/kV257q6s)
 
 <br>
 
-[![netlify4.png](https://i.postimg.cc/nzSsgwjT/netlify4.png)](https://postimg.cc/KkLvgf5g)
+<div align="center"> En esta ventana se muestra el chat personal abierto desde la perspectiva del especialistas. <a  href = "https://postimg.cc/vxDy37Tj">
+<img  src="https://i.postimg.cc/mkyrZ8sb/chat-mensajes.jpg"  alt="Chat de mensajería" width="700"  height="400"/></a></div>
+
 
 <br>
 
-**Finalización del despliegue:**
-
-[![netlify5.png](https://i.postimg.cc/Zn99SF6m/netlify5.png)](https://postimg.cc/zHrDwhd2)
+<div align="center"> En esta ventana se muestran todos los chats con los diferentes alumnos que tienen programada una sesión con el especialista desde la perspectiva del mismo..<a  href = "https://postimg.cc/TyXRfWNL">
+<img  src="https://i.postimg.cc/8C7sdRhH/chat.jpg"  alt="Chats" width="700"  height="400"/></a></div>
 
 <br>
 
-Landing Page Desplegada en : https://edufocus-landingpage.netlify.app 
+<div align="center"> 
+En esta ventana se muestra como los especialistas pueden definir su horario disponible para los estudiantes.<a  href = "https://postimg.cc/VrfmbP8z">
+<img  src="https://i.postimg.cc/26v6MC9L/estableces-horarios.jpg"  alt="Horarios" width="700"  height="400"/></a></div>
 
-[![landing-page-deploy.png](https://i.postimg.cc/TwfSFtMy/landing-page-deploy.png)](https://postimg.cc/TyNCWqPG)
+
+<br>
+
+<div align="center"> 
+En esta sección se muestra el perfil del estudiante desde la perspectiva del especialista, el cual puede dejarle actividades personalizadas.<a  href ="https://postimg.cc/K4sx4Wsy"><img src="https://i.postimg.cc/FshRC5y1/peril-estudiante.jpg"  alt="Perfil del estudiante, desde la vista del especialista." width="700"  height="400"/></a></div>
 
 
 <br><br>
 
-##### 5.2.1.8. Team Collaboration Insights during Sprint.
+<div align="center"> 
+En esta ventana se muestra todas las sesiones programadas por los alumnos desde la perspectiva del especialista.<a  href = "https://postimg.cc/zbx5C2zK">
+<img  src="https://i.postimg.cc/fyNLh112/sesiones-programadas.jpg"  alt="Sesiones programadas." width="700"  height="400"/></a></div>
+  
+<br><br>
 
-**Ramas:**
-[![branches.png](https://i.postimg.cc/DwdWMnZM/branches.png)](https://postimg.cc/mPk2cx7Y)
 
-**Insights:**
-[![insight1.png](https://i.postimg.cc/YqMQHZ7L/insight1.png)](https://postimg.cc/JtYs3TGR)
+#### 4.4.4. Web Applications User Flow Diagrams.
 
-**GitFlow**
-[![insight2.png](https://i.postimg.cc/SNdCNdQT/insight2.png)](https://postimg.cc/fJ3J8x9m)
+<a  href = "https://postimg.cc/K1ymPM7G"><img  src="https://i.postimg.cc/K814y7RM/primero.jpg"  alt="User Flow 1"  width="700"  height="250" /></a>
 
-<br><br><br>
+<a  href = "https://postimg.cc/vcnQxzV2"><img  src="https://i.postimg.cc/bNCdMVNP/segundo.jpg"  alt="User Flow 2"  width="700"  height="250" /></a>
+  
+<a  href = "https://postimg.cc/JtvrhgGB"><img  src="https://i.postimg.cc/X77ps6Wx/tercero.jpg"  alt="User Flow 3"  width="700"  height="250" /></a>
 
-## Conclusiones
+<a  href = "https://postimg.cc/Yjh2MkqH"><img  src="https://i.postimg.cc/zDkywXsV/cuarto.jpg"  alt="User Flow 4"  width="700"  height="250" /></a>
 
-**TB1:**
 
-- Las entrevistas con Alexandra, Nancy y Nadir ofrecen diferentes perspectivas sobre la importancia de EduFocus, una plataforma que une estudiantes con especialistas en educación y psicología. 
+<br><br>
 
-- Para este análisis, recopilamos datos cualitativos a través de entrevistas estructuradas, categorizándolas por roles profesionales y segmentos de mercado. Esta metodología proporciona una base sólida para comprender las diversas necesidades y desafíos de los clientes.
 
-- Es esencial destacar que la metodología Lean UX, respaldada por herramientas como el Lean UX Canvas, Lean UX Hypothesis Statement y Lean UX Assumptions, ha sido crucial para abordar la problemática que EduFocus busca resolver. Estas herramientas han facilitado la identificación de desafíos clave, la definición de hipótesis y la generación de soluciones orientadas al usuario. Su incorporación en la estrategia de EduFocus garantiza que la plataforma sea ágil y competitiva en un mercado en constante cambio..
+### 4.5. Web Applications Prototyping.
 
-- Se logro implementar a un 70% la Landing Page, pero ese espera que para los siguientes Sprints este  este apartado funcionando al 100%.
+ **Web Application para estudiantes**
 
-## Bibliografía
+<div align="center"><a  href = "https://postimg.cc/8jxBzymK"><img  src="https://i.postimg.cc/wjjWFZyp/inicio-sesion.jpg"  alt="Inicio de Sesion"  width="700"  height="350" /></a></div>
 
-Andrade, I., Facio, S., Quiroz, A., Alemán, L., Flores, M., & Rosales, M.. (2018). Actitud, hábitos de estudio y rendimiento académico: Abordaje desde la teoría de la acción razonada.  _Enfermería universitaria_,  _15_(4), 342-351.  [https://doi.org/10.22201/eneo.23958421e.2018.4.533](https://doi.org/10.22201/eneo.23958421e.2018.4.533)
+ ### [Prototipo para estudiantes: Figma](https://www.figma.com/proto/1wuLrsXCa0nid5h7kKGR0v/Dise%C3%B1os-de-Open-Source?page-id=171%3A1077&type=design&node-id=171-4040&viewport=1940%2C1959%2C0.34&t=vntF6vDSgXzPK0eR-1&scaling=scale-down&starting-point-node-id=171%3A4040&mode=design)
+  
+ **Web Application para especialistas**
+<div align="center"><a  href = "https://postimg.cc/8jxBzymK"><img  src="https://i.postimg.cc/wjjWFZyp/inicio-sesion.jpg"  alt="Inicio de Sesion"  width="700"  height="350" /></a></div>
 
-González, R. (2019). Relación entre hábitos de estudio y rendimiento académico. Revista Guatemalteca de Educación Superior, 2(1), 22-27. DOI: https://doi.org/10.46954/revistages.v2i1.22
+ ### [Prototipo para especialistas: Figma](https://www.figma.com/proto/1wuLrsXCa0nid5h7kKGR0v/Dise%C3%B1os-de-Open-Source?page-id=171%3A3160&type=design&node-id=202-6686&viewport=874%2C347%2C0.16&t=mHXHZWFUPy9bfVar-1&scaling=scale-down&starting-point-node-id=202%3A6686&mode=design)
+</div>
 
-Sinchigalo, R., Guzmán, B., & Bonilla, D. (2022). Bienestar emocional y rendimiento académico en estudiantes universitarios: relación bidimensional y su impacto en las estrategias de apoyo. Journal of Science and Research. 1-25. (ISSN: 2528-8083). https://doi.org/10.5281/zenodo.8008096
+### 4.6. Domain-Driven Software Architecture.
 
-## Anexos
+#### 4.6.1. Software Architecture Context Diagram.
 
-|Sección  |Características del video  |Sobre el contenido |Integración y entrega |
-|--|--|--|--|
-|Needfinding Interviews  |Cantidad de videos: 1<br>Nomenclatura: upc-pre-202302-si729-SW54-TechNest-needfinding-sprint-1<br>Formato: .mp4 <br>Duración:  |En las entrevistas se refleja la importancia de tener plataformas de ayuda que permitan al estudiante y al tutor tener un ambiente seguro, en el cual el estudiante supere sus dificultades en relación al aspecto académico, con herramientas que le ofrecen los especialistas y los especialistas imparten su conocimiento y ayuda a sus estudiantes de manera fácil. |https://rb.gy/lqew0 |
+**Diagrama de contexto:** 
+
+<div align="center"><a  href = "https://postimg.cc/4H6CCMZ7"><img  src="https://i.postimg.cc/kGZ7S3pc/Context-Diagram.png"  alt="Inicio de Sesion"  width="500"  height="350" /></a></div>
+
+**Structurizr:** https://structurizr.com/share/85900/74bdb77f-2638-4291-bbb1-070fb54fc8ca 
+
+<br><br>
+
+### 4.6.2. Software Architecture Container Diagrams.
+**Diagrama  de contenedores:** 
+
+<div align="center"><a  href = "https://postimg.cc/GHj0qZq6"><img  src="https://i.postimg.cc/vHJQHy98/Container-Diagram.png"  alt="Inicio de Sesion"  width="500"  height="350" /></a></div>
+
+**Structurizr:** https://structurizr.com/share/85900/74bdb77f-2638-4291-bbb1-070fb54fc8ca
+
+### 4.6.3. Software Architecture Components Diagrams.
+Diagrama de componentes:  [![Components-Diagram.png](https://i.postimg.cc/nVwFgBhD/Components-Diagram.png)](https://postimg.cc/pyzMn98W) 
+
+**Structurizr:** https://structurizr.com/share/85900/74bdb77f-2638-4291-bbb1-070fb54fc8ca
+
+<br><br>
+
+### 4.7. Software Object-Oriented Design.
+#### 4.7.1. Class Diagrams.
+
+**Diagrama de clases:** [![class-Diagram.png](https://i.postimg.cc/mDLZfS9Q/class-Diagram.png)](https://postimg.cc/XZP69dQJ)
+
+**Lucichart:** https://lucid.app/documents/view/1adbb063-2568-4323-b6c5-0e4ae964cf57
+
+<br><br>
+
+#### 4.7.2. Class Dictionary.
+
+|**N°**|**Entidad**|**Nombre de atributos**|**Definición**|
+| :- | :- | :- | :- |
+|1|Student|id, usename, email, password, confirmaccount|segmento objetivo de estudiante, que busca expertos en educación y psicología en la plataforma.|
+|2|Specialist|id, usename, email, password, confirmaccount|segmento objetivo de especialista, que busca estudiante para ofrecer sus servicios de ayuda académica.|
+|3|Reserve|id, dateat|Funcionalidad en la cual los estudiantes registran una reserva con un especialista.|
+|4|Review|id, comment, score|Funcionalidad para que los estudiantes puedan dejar sus comentarios acerca de los especialistas.|
+|5|Subscription|Interface|Es una interfaz que da la funcionalidad de escoger los tipos de suscripciones en la plataforma para los estudiantes|
+|6|ActivitiesProgress |id, assigment, score, feedback|Es la funcionalidad que se da cuando un estudiante quiere poner a pruba o quiere realizar actividades para implementar lo aprendido con los especialistas. |
+
+
+<br><br>
+
+### 4.8. Database Design.
+
+#### 4.8.1. Database Diagram.
+Diagrama de base de datos: [![database-design.png](https://i.postimg.cc/LsB4bWJ9/database-design.png)](https://postimg.cc/HJnCJB0R)  
+
+**Vertabelo:** https://my.vertabelo.com/public-model-view/144AAGF5Pz7hnFFZNvf4MVC9kqwGJmvrMwx8DqQ7Zq889Bo4gpbV9EFq1bsjympf?
+‌
+<br><br>
