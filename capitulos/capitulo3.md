@@ -1,3 +1,11 @@
+## Tabla de contenido
+
+- [**Capítulo III: Requirements Specification**](#capítulo-iii-requirements-specification)
+	- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+	- [3.2. User Stories](#32-user-stories)
+	- [3.3. Impact Mapping](#32-user-stories)
+	- [3.4. Product Backlog](#34-product-backlog)
+
 ## CAPÍTULO III: REQUIREMENTS SPECIFICATION
 
 ### 3.1. To-Be Scenario Mapping.
@@ -10,7 +18,7 @@
   
 [![To-Be-Especialista.jpg](https://i.postimg.cc/HxSwWMzV/To-Be-Especialista.jpg)](https://postimg.cc/G8y8qHZC)
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
 
 ### 3.2. User Stories.
 
@@ -24,7 +32,7 @@
 |EP06 |Gestión de sesiones sincrónicas|
 |EP07 |Diseño de Landing Page  |
 
-<br><br><br><br>
+<br>
 
 |**Epic / Story ID**|**Título**| **Título**|**Criterios de Aceptación** |**Relacionado con (Epic ID)**|
 |--|--|--|--|--|
@@ -56,7 +64,7 @@
 |US-26 |Precios o planes de suscripción |Como visitante del segmento estudiante o especialista quiero visualizar los planes de suscripción, para poder ver si se ajusta a mi economía. |**Escenario**: Usuario visualiza los tipos de planes que tiene EduFocus<br><br> **Dado que** el usuario se encuentra en la pantalla de inicio <br>**Cuando** se desplace hacia la sección “Planes”<br> **Entonces** visualizará los planes disponibles que tiene EduFocus |EP07  | 
 |US-27 |Página reponsive |Como visitante del segmento estudiante o especialista, quiero que la página web se adapte a diferentes dispositivos para poder visualizar a la información desde mi celular o computadora. |**Escenario 1:** El visitante visualiza la Landing Page de EduFocus desde una computadora.<br><br> **Dado que** el usuario se ingresa a la página web de EduFocus<br> **Cuando** navegue por la página <br>**Entonces** visualizará todos los contenidos adaptados a su tamaño de pantalla.<br><br><br>**Escenario 2:** El visitante visualiza la Landing Page de EduFocus desde un celular.<br><br> **Dado que** el usuario se ingresa a la página web de EduFocus<br> **Cuando** navegue por la página<br> **Entonces** visualizará todos los contenidos adaptados a su tamaño de pantalla. |EP07  | 
    
-   <br><br><br><br><br>
+   <br><br>
    
 ### 3.3. Impact Mapping.
 
