@@ -1,65 +1,200 @@
+## Tabla de contenido
+
+- [**Capítulo V: Product Implementation, Validation & Deployment**](#capítulo-v-product-implementation-validation--deployment)
+	- [5.1. Software Configuration Management.](#51-software-configuration-management)
+		- [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
+		- [5.1.2. Source Code Management.](#512-source-code-management)
+		- [5.1.3. Source Code Style Guide & Conventions.](#513-source-code-style-guide--conventions)
+		- [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
+	- [5.2. Landing Page, Services & Applications Implementation.](#52-landing-page-services--applications-implementation)
+		- [5.2.1. Sprint 1](#521-sprint-1)
+			- [5.2.1.1 Sprint Planning 1](#5211-sprint-planning-1)
+			- [5.2.1.2. Sprint Backlog 1.](#5212-sprint-backlog-1)
+			- [5.2.1.3. Development Evidence for Sprint Review.](#5213-development-evidence-for-sprint-review)
+			- [5.2.1.4. Testing Suite Evidence for Sprint Review.](#5214-testing-suite-evidence-for-sprint-review)
+			- [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
+			- [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
+			- [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
+			- [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+	- [Conclusiones](#conclusiones)
+		- [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
+	- [Bibliografía](#bibliografía)
+	- [Anexos](#anexos)
+
+<br>
+
 ## CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 
 ### 5.1. Software Configuration Management.
 
 #### 5.1.1. Software Development Environment Configuration.
 
-**Repositorios en Github del proyecto:**
+**1. Project Management**
 
-- Documentación: https://github.com/TechNest2023/Informe-de-Trabajo.git
-- Landing Page: https://github.com/TechNest2023/Landing-Page.github.io.git
+- Repositorio en Github: https://github.com/orgs/TechNest2023/repositories 	
 
-La configuración del ambiente de desarrollo usará las siguientes herramientas de software:
+**2. Requirements Management**
 
-**Requirement Management**
-Para ver todo el tema de el manejo de los requisitos capturados por nuestras historias de usuario e ingresados al product backlog se usará Trello.
+- Trello: 
 
--  **Trello:** https://trello.com
+	Es una herramienta de gestión de proyectos basada en tableros visuales. Permite organizar tareas en tarjetas y listas, asignar responsabilidades, establecer fechas límite y colaborar en tiempo real. Con funciones como arrastrar y soltar, comentarios y etiquetas, Trello facilita la organización y seguimiento del progreso de los proyectos. Además, se integra con otras herramientas y ofrece una vista clara del estado de las tareas.
 
-**Product UX/UI Design:**
-Se utilizará esta herramienta de diseño de prototipos y  mock-ups para nuestra Landing Page y Web Application, esto nos permite tener una mejor visión de como debería ser el resultado final que necesitamos.
+	Trello: https://trello.com/es/tour 
 
-- Figma: https://www.figma.com
+**3. Product UX/UI Design**
 
-**Software Development:**
+- UXPressia
 
-• Herramientas permitidas:
+	Es una herramienta en línea que permite a los usuarios desarrollar diversas actividades ofreciendo distintos diseños con métodos para investigaciones de clientes. Por ello, se utilizó UXpressia para el desarrollo de User Person, Emphaty Map y Journey Map porque nos facilita los diseños y la obtención de tu trabajo en diferentes tipos de archivos como formato PDF o PNG de alta resolución e imprimirlos sin esfuerzo.
+	
+   UXPressia: Uxpressia.com
 
-Landing Page: 
-Para el desarrollo de la Landing Page se hará uso de 3 tecnología más usadas en el mundo del desarrollo web que son el lenguaje de programación JavaScript, el lenguaje de etiquetas HTML y el lenguaje de estilos CSS.  De manera opcional se tratará de implementar con la estructura del framework Angular.
--  JavaScript: https://developer.mozilla.org/es/docs/Web/JavaScript 
-- HTML: https://developer.mozilla.org/es/docs/Web/HTML
-- CSS: https://developer.mozilla.org/es/docs/Web/CSS 
 
-**Software Documentation:**
-Para poder tener un API RESTFull o un servicio web de nuestro proyecto, usaremos Swagger para tener un mejor visualización y captura de los servicios que se realizaran internamente en el proyecto.
+- Figma
 
--  Swagger https://swagger.io/docs/
+	Es una herramienta de diseño de interfaces como colores, imágenes, formas, entre otros que nos permite diseñar y crear nuestra aplicación ofreciendo diversos modelos de celulares Iphone, Android con respecto a distintas generaciones. Además, se utilizará para la elaboración de nuestro prototipo brindándonos la opción de elaborar nuestro proyecto con la simulación para el usuario.
+
+Figma: https://www.figma.com/files/recent?fuid=1229486195528071108
+
+**4. Software Development**
+
+- HTML
+
+	El lenguaje para el desarrollo de plataformas web HTML define la estructura de su contenido. HTML consta de un conjunto de elementos que utiliza para incluir diferentes piezas de contenido para que se vean o se comporten de cierta manera. Las diversas etiquetas incrustadas pueden convertir una palabra o imagen en un hipervínculo a otro sitio web, poner palabras en cursiva, aumentar, reducir fuentes, entre otros. Además, HTML (Hypertext Markup Language) – Lenguajes de Marcas de Hipertextos no es lenguaje de programación.
+
+	HTML: https://developer.mozilla.org/es/docs/Web/HTML
+
+- CSS
+
+	Este lenguaje se utiliza para ordenar las pautas de diseño de páginas web y presentar el contenido de la página de una manera atractiva. Así, HTML se utiliza para estructurar el contenido del sitio web, mientras que CSS se utiliza para estructurar la presentación. Cascading Stylesheets (CSS) – Hojas de filo en cascada
+	
+	CSS:  https://developer.mozilla.org/es/docs/Web/CSS  
+           
+- JavaScript
+
+	JavaScript es un lenguaje de programación fundamental en el desarrollo web. Proporciona interactividad y dinamismo a las páginas, permitiendo la creación de experiencias de usuario más atractivas y funcionales. Sus beneficios incluyen la capacidad de validar formularios en tiempo real, cargar contenido de manera asíncrona sin recargar la página completa (Ajax), y crear aplicaciones web interactivas y altamente responsivas. 
+
+	JS: https://developer.mozilla.org/es/docs/Web/JavaScript 
+
+- Github: GitHub es un servicio web y en la nube que ayuda a los desarrolladores a almacenar y administrar su código para llevar el control de cambios de versiones Git. El uso del Github es para almacenar cada uno de los integrantes sus tareas asignadas y así tener mejor control y organización del trabajo
+
+	Github:  https://github.com/
+
+**5. Software Testing**
+
+- Lenguaje Gherkin
+
+	Es un lenguaje interpretado como un código. En este lenguaje, podemos agregar historias de usuario a nuestro programa con sus respectivas partes: función, escenario, dado, cuándo, and (opcionalmente), entonces. Esto se puede hacer en cualquier idioma, pero el idioma más común es el inglés. Este lenguaje se utiliza para implementar nuestras historias de usuario.
+
+	Calatrava, S. G. (2021, octubre 13). Qué es Gherkin: cómo usarlo y cuáles son sus elementos. Profile Software Services. https://profile.es/blog/que-es-gherkin/
+
+**6. Software Documentation**
+
+- **Swagger**
+
+	Swagger es una herramienta de código abierto que simplifica la documentación y prueba de APIs. Proporciona una forma estructurada y fácil de describir APIs, lo que facilita su comprensión y uso por parte de desarrolladores y equipos de trabajo. Swagger también permite la generación automática de documentación interactiva, facilitando la exploración y prueba de endpoints de API. 
+
+	Swagger https://swagger.io/docs/
+
+
 
 
 #### 5.1.2. Source Code Management.
 
-Para una mejor organización del proyecto de software de TechNest se usará lo siguiente:
+A continuación, presentaremos la gestión del código fuente que planeamos realizar para este proyecto. Está gestión nos permitirá realizar el seguimiento y control de los múltiples cambios y modificaciones que se realice cualquier integrante del equipo, a lo largo de la vida útil del proyecto. Además, cabe destacar que para este proyecto se creará un repositorio en GitHub, donde se realizará el control de versiones.
 
-**Repositorios:**
+Repositorio para el Landing Page: https://github.com/TechNest2023/Landing-Page.git
 
-EduFocus Landing Page: https://github.com/TechNest2023/Landing-Page.git
+Repositorio para las pruebas de Aceptación: https://github.com/TechNest2023/Acceptance-Test.git
 
-EduFocus Report: https://github.com/TechNest2023/Informe-de-Trabajo
+**Implementación de GitFlow**:
+
+En primer lugar, para este proyecto se implementará GitFlow como Workflow de control de versiones.  Este es un modelo alternativo de creación de ramas en Git en el cual se utilizan ramas principales y ramas de apoyo. Es por ello que para nuestro GitFlow usaremos las siguientes ramas:
+
+- **Ramas Principales:**
+
+	- Rama Master: 
+
+		Esta rama se encarga de contener el código fuente que está listo para producción, el cual vendría a ser una nueva versión de nuestro proyecto.
+
+	- Rama Develop:
+
+		Esta rama se encarga de contener el código fuente de los últimos cambios de desarrollo realizados antes de lanzar la próxima versión de nuestro proyecto
+
+[![gitflow.jpg](https://i.postimg.cc/d1KkHzhr/gitflow.jpg)](https://postimg.cc/zL0G32SG)
+
+***Nota:*** Organización de ramas con Git Flow
+
+<br>
+
+**Ramas de apoyo:**
+
+Estas ramas siempre tienen un tiempo de vida limitado, debido a que una vez se termine con esta, pasará a fusionarse en cualquiera de las ramas principales, dependiendo del tipo de rama que se use, y posteriormente será eliminada. Teniendo en cuenta esto, las ramas de apoyo que utilizaremos para este proyecto son los siguientes:
+
+- Rama Feature:
+
+	Este tipo de rama surgen de la rama principal Develop y se utiliza para desarrollar nuevas funciones del proyecto. Una vez culminado la función detallada en esta rama, se deberá fusionar con la rama principal Develop para luego ser eliminada.
+
+- Rama Release:
+
+	Este tipo de rama surge de la rama principal Develop y se utiliza para preparar una nueva versión de producción. Una vez instanciada esta rama, ya no se podrán agregar nuevas funciones, puesto a que en esta rama solo se realizarán tareas orientadas a la publicación, como solución de errores, generación de documentación, etc. Además, una vez culminado con esta rama, deberá fusionarse tanto en la rama Máster, como en la rama Develop.
+
+- Rama Hotfix
+
+	Esta rama surge de la rama principal Máster y se utilizan para corregir rápidamente los problemas y errores que se presentaron en el código fuente publicado en la rama Master. Una vez se haya terminado de trabajar con la rama Hotfix, se deberá fusionar con las ramas Máster y Develop. 
+
+<div align="center"><a  href = "https://postimg.cc/jWbDDkWp"><img  src="https://i.postimg.cc/5tHLkhf2/gitflow2.png"  alt="Gitflow"  width="500"  height="800" /></a></div>
+
+<div align="center"> Nota: Git Workflow Diagram </div>
+
+<br>
+
+Para nombrar las ramas de Feature, Release y Hotfix en nuestro proyecto, seguiremos las convenciones del Semantic Versioning Specification (SemVer). Este sistema de numeración de versiones consta de tres partes: MAJOR.MINOR.PATCH (X.Y.Z), donde cada una representa la versión principal, la versión secundaria y la versión del parche, respectivamente. Comenzaremos con una versión 0.yz en GitFlow hasta que definamos la API pública con la que trabajaremos, momento en el que cambiaremos a la versión 1.0.0. A partir de aquí, seguiremos estas reglas para incrementar las versiones:
+
+- Versión del Parche (Z): Se incrementará si se realizan correcciones de errores compatibles con versiones anteriores.
+- Versión secundaria (Y): Se incrementará si se introduce una nueva funcionalidad compatible con versiones anteriores en la API pública o si se realizan cambios en el código privado, como la obsolescencia de funciones.
+- Versión Principal (X): Se incrementará si se introducen cambios incompatibles con las versiones anteriores en la API pública.
+
+Siguiendo esta estructura de versiones, nombraremos las ramas de la siguiente manera:
+
+- Rama Feature: feature-vX.Y.Z (donde X.Y.Z representa la versión semántica).
+Ejemplo: feature-v1.0.3
+
+- Rama Release: release-vX.Y.Z (donde X.Y.Z representa la versión semántica).
+Ejemplo: release-v1.2.1
+
+- Rama Hotfix: hotfix-vX.Y.Z (donde X.Y.Z representa la versión semántica).
+Ejemplo: hotfix-v1.1.5
+
+En cuanto a los Conventional Commits, estos son una forma de especificar de manera más explícita los cambios realizados en los commits. Seguiremos la siguiente estructura para escribirlos:
+
+```
+<type> [opcional scope]: <description>
+[optional body]
+[optional footer(s)]
+```
+
+Donde:
+
+- `<type>` representa el tipo de commit, como Feat (nueva funcionalidad), Fix (corrección de errores), Test (adición de pruebas), Docs (modificaciones en la documentación) y Perf (mejoras de rendimiento).
+- `[opcional scope]` es opcional y se utiliza para proporcionar contexto adicional al commit.
+- `<description>` es una breve descripción de los cambios realizados, escrita en minúsculas y en imperativo.
+- `[optional body]` es un campo opcional donde se puede agregar información adicional en párrafos separados por saltos de línea.
+- `[optional footer(s)]` es un campo opcional para informar sobre cambios importantes.
+
+Este enfoque de Conventional Commits nos ayudará a mantener un historial de commits explícito y comprensible en nuestro proyecto.
 
 
-**Gitflow:**
-- Las ramas que se usarán serán las recomendadas por gitflow como la rama **main** para las funcionalidades en estado para producción.
-- Luego, se tiene la rama **develop** donde se encontrará las funcionalidades antes de ser  lanzadas a producción, es decir, en ambiente de testeos.
-- La rama **features** tendrá las funcionalidades atómicas que cada integrante aportará en el desarrollo del proyecto.
-- Finalmente, se tendrá la rama **realease** para testear las funcionalidades antes de combinarla con la rama principal **main**.
+
 
 #### 5.1.3. Source Code Style Guide & Conventions.
 
 Utilizaremos la guía de estilos y convenciones de codificación en el lenguaje de Java, JavaScript, HTML, CSS y frameworks como Angular.
 
 Adicionalmente, el equipo de desarrollo utilizará las siguientes herramientas de desarrollo:
+
 <br>
+
 **IDE:**
 - IntelliJ Idea Ultimate: https://www.jetbrains.com/idea/
 - WebStorm ([https://www.jetbrains.com/eses/webstorm/download/#section=windows](https://www.jetbrains.com/eses/webstorm/download/#section=windows) )
@@ -70,47 +205,52 @@ Adicionalmente, el equipo de desarrollo utilizará las siguientes herramientas d
 - CSS ([https://developer.mozilla.org/es/docs/Web/CSS](https://developer.mozilla.org/es/docs/Web/CSS) )
 - HTML ([https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/HTML) )
 - NodeJS. ([https://nodejs.org/es/download/](https://nodejs.org/es/download/) )
+
 <br>
+
 **Frameworks:**
 - Angular: https://angular.io
-<br>
-**Diseño UI/UX:**
 
+**Diseño UI/UX:**
 -  Figma ([https://www.figma.com/best-practices/guide-to-developerhandoff/components-styles-and-documentation/](https://www.figma.com/best-practices/guide-to-developerhandoff/components-styles-and-documentation/) )
-<br>
+
 **Herramienta ágil**
-Trello: https://trello.com
+- Trello: https://trello.com
 
 #### 5.1.4. Software Deployment Configuration.
 
-Para el despliegue del Landing Page del Proyecto utilizaremos GitHub Pages, el cual es un servicio que nos brinda GitHub para publicar sitios web estáticos desde un repositorio.
+Para el despliegue de los componentes de nuestro proyecto, hemos seleccionado herramientas específicas que nos permiten gestionar eficazmente el control de versiones y llevar a cabo el despliegue de manera fluida.
 
-Es por ello que primero hemos creado un repositorio donde se subirán las diversas versiones que realicemos en el proyecto
+**Control de Versiones: Git y GitHub**
 
-Además, cabe destacar que para el desarrollo del Landing Page se utilizarán las siguientes herramientas:
+Utilizaremos Git como nuestro sistema de control de versiones principal. Git es una herramienta esencial que nos permitirá rastrear y gestionar todos los cambios realizados en nuestro proyecto, lo que incluye las modificaciones en el código fuente, la documentación y más. Cada cambio será registrado en un historial, lo que facilita la colaboración y el seguimiento de la evolución del proyecto.
 
-- HTML: Este es un lenguaje de etiqueta, el cual nos permitirá estructurar el Landing Page
+GitHub será nuestra plataforma de alojamiento de código, donde almacenaremos y compartiremos nuestro repositorio de código con el equipo. Esto proporciona una colaboración en tiempo real, la capacidad de revisar y aprobar cambios, y una integración perfecta con otras herramientas.
 
-- CSS:  Este es un lenguaje de diseño, el cual nos ayudará a dejar el Landing Page más presentable y atractivo para los usuarios.
+<div align="center"><a  href = "https://postimg.cc/w35dXXxd"><img  src="https://i.postimg.cc/FF8sQp21/Github.jpg"  alt="Github"  width="600"  height="300" /></a></div>
 
-De igual manera, el despliegue del Landing Page se utilizarán las siguientes herramientas:
-- Git: Es un sistema de control de versiones el cual registrará los cambios que se realizan en el proyecto mediante un historial para luego subirlo al repositorio en el GitHub.
 
-[![git.png](https://i.postimg.cc/7PW71jv6/git.png)](https://postimg.cc/bd1spCwc)
+**Despliegue de la Landing Page: Netlify**
 
-- GitHub:  Esta es una plataforma que nos permitirá alojar el código de nuestro proyecto para que cualquier integrante del equipo pueda acceder a este y se pueda trabajar de forma colaborativa.
+Para el despliegue de nuestra Landing Page, hemos elegido Netlify, que se destaca en ofrecer soluciones avanzadas de automatización y alojamiento web, especialmente diseñadas para empresas. Esta plataforma permite a los usuarios configurar sus sitios web de manera instantánea y sencilla. Aquellas empresas que cuentan con una cuenta en Netlify pueden comenzar a alojar sus sitios web en esta plataforma de manera eficaz. Además, Netlify ofrece la posibilidad a los usuarios de alojar sus sitios web de forma intuitiva, ya sea mediante la simple acción de arrastrar y soltar componentes desde sus propias computadoras hacia su aplicación web, o incluso importando sus repositorios directamente desde Git.
 
-[![github.png](https://i.postimg.cc/yxtZV3h9/github.png)](https://postimg.cc/BP56p6VQ)
+<div align="center"><a  href = "https://postimg.cc/bSPfXJTM"><img  src="https://i.postimg.cc/BbLSKP1q/netlify.jpg"  alt="Netlify"  width="600"  height="300" /></a></div>
 
-- GitFlow: Es el flujo de trabajo que se utilizará en Git para agregar nuevas funcionalidades, corregir errores y preparar el código Fuente para producción de nuestro Landing Page.
 
-[![gitflow.png](https://i.postimg.cc/wTRNwFHk/gitflow.png)](https://postimg.cc/ZCZ0R8W9)
+**Despliegue de la Web App: Firebase**
 
-- GitHub Pages: Es un servicio que nos brinda GitHub para publicar nuestro Landing Page a partir del Repositorio creado.
+Para la implementación de nuestra Web App, hemos optado por Firebase, quees una plataforma ampliamente utilizada para el despliegue de aplicaciones web y móviles. Ofrece una solución integral que simplifica el proceso de implementación de aplicaciones en línea. Con Firebase, los desarrolladores pueden aprovechar servicios de alojamiento web confiables y escalables. Permite cargar y alojar fácilmente aplicaciones web, proporcionando una infraestructura de alojamiento segura y de alto rendimiento. 
 
-[![githubpages.jpg](https://i.postimg.cc/QCH7GJ7h/githubpages.jpg)](https://postimg.cc/vxwT59XN)
+<div align="center"><a  href = "https://postimg.cc/m1SfTspr"><img  src="https://i.postimg.cc/T1zRq2rn/firebase.png"  alt="Firebase"  width="600"  height="300" /></a></div>
+
+**GitFlow: Método de Desarrollo**
+
+Para gestionar nuestro flujo de trabajo de desarrollo, seguiremos la metodología GitFlow. Este enfoque establece reglas claras para agregar nuevas características, solucionar problemas y preparar el código fuente para su lanzamiento. Nos ayuda a mantener una estructura organizada del repositorio y garantiza que todos los cambios se gestionen de manera coherente antes de implementarlos.
+
+<div align="center"><a  href = "https://postimg.cc/vgfwS9Wf"><img  src="https://i.postimg.cc/cH51CBC9/gitflow3.png"  alt="Gitflow"  width="600"  height="300" /></a></div>
 
 <br><br>
+
 ### 5.2. Landing Page, Services & Applications Implementation.
 #### 5.2.1. Sprint 1
 ##### 5.2.1.1. Sprint Planning 1.
@@ -152,13 +292,18 @@ De igual manera, el despliegue del Landing Page se utilizarán las siguientes he
 
 A lo largo del primer sprint, nuestro equipo ha logrado avances significativos en la implementación de los componentes clave de nuestra solución. Durante este período, nos hemos concentrado en llevar a cabo investigaciones de experiencia de usuario (UX Research), elaborar el diseño y los prototipos de la Landing Page, además de abordar la programación de la solución en su forma estática.
 
+Vista general del código:
+
 [![coding.png](https://i.postimg.cc/4xZkBTjy/coding.png)](https://postimg.cc/Wh9H1xNc)
+
+
 
 <br>
 
 | **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
 |----------------|------------|---------------|--------------------|-------------------------|-------------------------|
-| | | | | |
+|Landing-Page |Main |56b7ab53ee59ef948a979fa354d32e18a144c1a5 |Feat |Landing Page Update | Sep 7
+|Landing-Page |Main |1b342a79d5cc4be3128efc420f4a48cd5537934a |Feat |Update to deploy | Sep 18
 
 <br><br>
 
@@ -183,6 +328,7 @@ A continuación, se presenta las pruebas de funcionalidad que presenta la Landin
 |[Acceptance-Test](https://github.com/TechNest2023/Acceptance-Test) |Main |2c871f3e6c1d73b42161eb59704ab9620d5e33e0 |feat |added sprint 1 .feature files - Landing Page |Sep 11
 
 <br><br>
+
 - Se muestra las pruebas de la funcionalidad de Beneficios de EduFocus:
 [![2.png](https://i.postimg.cc/TwrgfgYT/2.png)](https://postimg.cc/ftRJv39P)
 
@@ -204,11 +350,66 @@ Video de presentación del Landing Page: https://youtu.be/nbXIblJgpkU
 
 <br><br>
 
-##### ~~5.2.1.6. Services Documentation Evidence for Sprint Review.~~
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+La documentación de productos de software, como la Landing Page, se basa en archivos Gherkin escritos en lenguaje Cucumber. Estos archivos siguen una estructura clara que describe los criterios de aceptación del software mediante escenarios de prueba legibles. La estructura incluye encabezados que describen características, seguidos de escenarios que detallan el comportamiento esperado del software en situaciones específicas. Estos archivos facilitan la comprensión, colaboración y automatización de pruebas, garantizando que el software cumpla con los estándares requeridos.
+
+Repositorio de la documentación de los Acceptance Test: https://github.com/TechNest2023/Acceptance-Test.git
+
+[![testing.png](https://i.postimg.cc/yN4fRDk7/testing.png)](https://postimg.cc/Snd7FN6P)
+
+<br>
+
+Features de las User Stories del Sprint 1:
+
+[![features.png](https://i.postimg.cc/ncWSHRxj/features.png)](https://postimg.cc/D8qP6c8n)
+
+<br>
+
+Gherkin de la Lading Page:
+
+[![specific-Feature.png](https://i.postimg.cc/3xDSWXrL/specific-Feature.png)](https://postimg.cc/mPBN5FHM)
+
 
 <br><br>
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+En el transcurso de este Sprint, se ha realizado un proceso de Deployment con enfoque en la creación de cuentas y configuración de recursos en Netlify, nuestro proveedor de alojamiento web. Este despliegue se centra específicamente en nuestra Landing Page, que es uno de los productos dentro de nuestro proyecto. 
+
+Durante este proceso, se llevaron a cabo actividades clave, como la creación de una cuenta en Netlify y la configuración de recursos necesarios para alojar nuestra Landing Page de manera eficiente. Además, se trabajó en la integración y automatización de las tareas de Deployment para garantizar una ejecución fluida. 
+
+**Asociación del repositorio de Github con Netlify:**
+
+[![netlify1.png](https://i.postimg.cc/gjfxkXKZ/netlify1.png)](https://postimg.cc/WqwN54CN)
+
+<br>
+
+**Proceso de Despliegue del Landing Page:**
+
+[![netlify2.png](https://i.postimg.cc/j5Sw8r5L/netlify2.png)](https://postimg.cc/wtnjvZDp)
+
+<br>
+
+**Proceso de construcción y despliegue:**
+[![netlify3.png](https://i.postimg.cc/435Hb3XD/netlify3.png)](https://postimg.cc/kV257q6s)
+
+<br>
+
+[![netlify4.png](https://i.postimg.cc/nzSsgwjT/netlify4.png)](https://postimg.cc/KkLvgf5g)
+
+<br>
+
+**Finalización del despliegue:**
+
+[![netlify5.png](https://i.postimg.cc/Zn99SF6m/netlify5.png)](https://postimg.cc/zHrDwhd2)
+
+<br>
+
+Landing Page Desplegada en : https://edufocus-landingpage.netlify.app 
+
+[![landing-page-deploy.png](https://i.postimg.cc/TwfSFtMy/landing-page-deploy.png)](https://postimg.cc/TyNCWqPG)
+
 
 <br><br>
 
@@ -224,7 +425,10 @@ Video de presentación del Landing Page: https://youtu.be/nbXIblJgpkU
 [![insight2.png](https://i.postimg.cc/SNdCNdQT/insight2.png)](https://postimg.cc/fJ3J8x9m)
 
 <br><br><br>
+
 ## Conclusiones
+
+**TB1:**
 
 - Las entrevistas con Alexandra, Nancy y Nadir ofrecen diferentes perspectivas sobre la importancia de EduFocus, una plataforma que une estudiantes con especialistas en educación y psicología. 
 
