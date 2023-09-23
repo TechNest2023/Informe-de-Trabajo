@@ -1,3 +1,36 @@
+## Tabla de contenido
+
+- [**Capítulo IV: Product Design**](#capitulo-iv-product-design)
+	- [4.1. Style Guidelines.](#41-style-guidelines)
+		- [4.1.1. General Style Guidelines.](#411-general-style-guidelines) 
+		- [4.1.2. Web Style Guidelines.](#412-web-style-guidelines) 
+	- [4.2. Information Architecture.](#42-information-architecture)
+		- [4.2.1. Organization Systems.](#421-organization-systems) 
+		- [4.2.2. Labeling Systems.](#422-labeling-systems) 
+		- [4.2.3. SEO Tags and Meta Tags.](#423-seo-tags-and-meta-tags)  
+		- [4.2.4. Searching Systems.](#424-searching-systems)  
+		- [4.2.5. Navigation Systems.](#425-navigation-systems)   
+	- [4.3. Landing Page UI Design.](#43-landing-page-ui-design)   
+		- [4.3.1. Landing Page Wireframe.](#431-landing-page-wireframe)  
+		- [4.3.2. Landing Page Mock-up.](#432-landing-page-mock-up)   
+	- [4.4. Web Applications UX/UI Design.](#44-web-applications-uxui-design)   
+		- [4.4.1. Web Applications Wireframes.](#441-web-applications-wireframes)  
+		- [4.4.2. Web Applications Wireflow Diagrams.](#442-web-applications-wireflow-diagrams)  
+		- [4.4.3. Web Applications Mock-ups.](#443-web-applications-mock-ups)  
+		- [4.4.4. Web Applications User Flow Diagrams.](#444-web-applications-user-flow-diagrams)  
+	- [4.5. Web Applications Prototyping.](#45-web-applications-prototyping)   
+	- [4.6. Domain-Driven Software Architecture.](#46-domain-driven-software-architecture)   
+		- [4.6.1. Software Architecture Context Diagram.](#461-software-architecture-context-diagram)   
+		- [4.6.2. Software Architecture Container Diagrams.](#462-software-architecture-container-diagrams)    
+		- [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)    
+	- [4.7. Software Object-Oriented Design.](#47-software-object-oriented-design)   
+		- [4.7.1. Class Diagrams.](#471-class-diagrams)   
+		- [4.7.2. Class Dictionary.](#472-class-dictionary)  
+	- [4.8. Database Design.](#48-database-design)  
+		- [4.8.1. Database Diagram.](#481-database-diagram)  
+
+<br>
+
 ## CAPITULO IV: PRODUCT DESIGN
 
 ### 4.1. Style Guidelines.
@@ -162,7 +195,7 @@ Los "Navigation Systems" (Sistemas de Navegación) se refieren a las estrategias
 
 <div align="center"><a  href = "https://postimg.cc/Wt7dxdx9"><img  src="https://i.postimg.cc/T2znLm0X/landing-mockup-movil.jpg"  alt="Landing Page Mock-Up Mobile"/></a></div>
 
-<br><br><br><br>
+<br><br>
 
 ### 4.4. Web Applications UX/UI Design.
 #### 4.4.1. Web Applications Wireframes.
@@ -248,7 +281,7 @@ Los "Navigation Systems" (Sistemas de Navegación) se refieren a las estrategias
 **Sesiones Agendadas**
 <div align="center"><a  href = "https://postimg.cc/rdxQGGzy"><img  src="https://i.postimg.cc/5tkTVnVz/sesiones-Agendadas.jpg"  alt="Wireframe Sesiones Agendadas del Especialista" width="700"  height="350"/></a></div>
  
-<br><br><br><br><br><br><br>
+<br><br>
  
 #### 4.4.2. Web Applications Wireflow Diagrams.
 En esta sección se mostrarán los wireflow de nuestra web application, para ello elaboraremos los steps y los Task Flows para casa User Goal.
@@ -427,7 +460,7 @@ Como estudiante quiero buscar mis sesiones  agendadas, para tener un panorama ge
 
 <br><br>
 
-#### 4.4.2. Web Applications Mock-ups.
+#### 4.4.3. Web Applications Mock-ups.
 
 <div align="center"> En esta ventana los usuarios iniciarán sesión para poder ingresar a nuestra web application. <a  href = "https://postimg.cc/8jxBzymK">
 <img  src="https://i.postimg.cc/wjjWFZyp/inicio-sesion.jpg"  alt="Inicio de sesion"  width="700"  height="400"/></a></div>
@@ -507,7 +540,7 @@ En esta ventana se muestra como los especialistas pueden definir su horario disp
 En esta sección se muestra el perfil del estudiante desde la perspectiva del especialista, el cual puede dejarle actividades personalizadas.<a  href ="https://postimg.cc/K4sx4Wsy"><img src="https://i.postimg.cc/FshRC5y1/peril-estudiante.jpg"  alt="Perfil del estudiante, desde la vista del especialista." width="700"  height="400"/></a></div>
 
 
-<br><br><br><br><br><br>
+<br><br>
 
 <div align="center"> 
 En esta ventana se muestra todas las sesiones programadas por los alumnos desde la perspectiva del especialista.<a  href = "https://postimg.cc/zbx5C2zK">
@@ -516,7 +549,7 @@ En esta ventana se muestra todas las sesiones programadas por los alumnos desde 
 <br><br>
 
 
-#### 4.4.3. Web Applications User Flow Diagrams.
+#### 4.4.4. Web Applications User Flow Diagrams.
 
 <a  href = "https://postimg.cc/K1ymPM7G"><img  src="https://i.postimg.cc/K814y7RM/primero.jpg"  alt="User Flow 1"  width="700"  height="250" /></a>
 
@@ -527,7 +560,7 @@ En esta ventana se muestra todas las sesiones programadas por los alumnos desde 
 <a  href = "https://postimg.cc/Yjh2MkqH"><img  src="https://i.postimg.cc/zDkywXsV/cuarto.jpg"  alt="User Flow 4"  width="700"  height="250" /></a>
 
 
-<br><br><br><br><br><br>
+<br><br>
 
 
 ### 4.5. Web Applications Prototyping.
@@ -543,6 +576,7 @@ En esta ventana se muestra todas las sesiones programadas por los alumnos desde 
 
  ### [Prototipo para especialistas: Figma](https://www.figma.com/proto/1wuLrsXCa0nid5h7kKGR0v/Dise%C3%B1os-de-Open-Source?page-id=171%3A3160&type=design&node-id=202-6686&viewport=874%2C347%2C0.16&t=mHXHZWFUPy9bfVar-1&scaling=scale-down&starting-point-node-id=202%3A6686&mode=design)
 </div>
+
 ### 4.6. Domain-Driven Software Architecture.
 
 #### 4.6.1. Software Architecture Context Diagram.
@@ -553,7 +587,7 @@ En esta ventana se muestra todas las sesiones programadas por los alumnos desde 
 
 **Structurizr:** https://structurizr.com/share/85900/74bdb77f-2638-4291-bbb1-070fb54fc8ca 
 
-<br><br><br><br><br>
+<br><br>
 
 ### 4.6.2. Software Architecture Container Diagrams.
 **Diagrama  de contenedores:** 
@@ -576,7 +610,7 @@ Diagrama de componentes:  [![Components-Diagram.png](https://i.postimg.cc/nVwFgB
 
 **Lucichart:** https://lucid.app/documents/view/1adbb063-2568-4323-b6c5-0e4ae964cf57
 
-<br><br><br><br><br><br><br>
+<br><br>
 
 #### 4.7.2. Class Dictionary.
 
@@ -590,7 +624,7 @@ Diagrama de componentes:  [![Components-Diagram.png](https://i.postimg.cc/nVwFgB
 |6|ActivitiesProgress |id, assigment, score, feedback|Es la funcionalidad que se da cuando un estudiante quiere poner a pruba o quiere realizar actividades para implementar lo aprendido con los especialistas. |
 
 
-<br><br><br><br><br><br><br><br>
+<br><br>
 
 ### 4.8. Database Design.
 
@@ -598,3 +632,5 @@ Diagrama de componentes:  [![Components-Diagram.png](https://i.postimg.cc/nVwFgB
 Diagrama de base de datos: [![database-design.png](https://i.postimg.cc/LsB4bWJ9/database-design.png)](https://postimg.cc/HJnCJB0R)  
 
 **Vertabelo:** https://my.vertabelo.com/public-model-view/144AAGF5Pz7hnFFZNvf4MVC9kqwGJmvrMwx8DqQ7Zq889Bo4gpbV9EFq1bsjympf?
+‌
+<br><br>
