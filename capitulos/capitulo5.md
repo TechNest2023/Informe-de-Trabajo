@@ -16,6 +16,15 @@
 			- [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
 			- [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
 			- [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
+		- [5.2.2. Sprint 2](#522-sprint-2)
+			- [5.2.2.1 Sprint Planning 1](#5221-sprint-planning-2)
+			- [5.2.2.2. Sprint Backlog 1.](#5222-sprint-backlog-2)
+			- [5.2.2.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
+			- [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
+			- [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
+			- [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
+			- [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
+			- [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
 	- [Conclusiones](#conclusiones)
 		- [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
 	- [Bibliografía](#bibliografía)
@@ -282,9 +291,9 @@ Para gestionar nuestro flujo de trabajo de desarrollo, seguiremos la metodologí
 |--|--|--|--|--|--|--|--|
 | US-23 | Idioma de la web | LD01 |Cambiar de idioma español a inglés | Como visitante del segmento estudiante o especialista quiero poder cambiar el idioma de la web, para ajustar la web a mis preferencias de idioma. | 3 h|Gray Hidalgo, Alejandro Eduardo | In-Process|
 | US-24 | Visualización de la llamada a la acción | LD02 |Visualizar la opción de contacto con los desarrolladores |Como visitante del segmento estudiante o especialista quiero visualizar un botón de contacto, para poder conectarme con el equipo de EduFocus. | 3 h|Gray Hidalgo, Alejandro Eduardo | Done|
-| US-25 | Beneficios de EduFocus | LD03 |Verificar los beneficios de EduFocus |Como visitante del segmento estudiante o especialista quiero acceder a una descripción de los beneficios de la aplicación, para tener un panorama de los aportes que puede dejar EduFocus en mí. | 3 h|Gray Hidalgo, Alejandro Eduardo | Done|
-| US-26 | Precios o planes de suscripción | LD04 |Visualizar los planes de suscripción y precios de cada uno  |Como visitante del segmento estudiante o especialista quiero visualizar los planes de suscripción, para poder ver si se ajusta a mi economía. | 3 h|Gray Hidalgo, Alejandro Eduardo | In-Process|
-| US-27 | Página reponsive | LD05 |Verificar adaptabilidad de la web en diferentes tamaños de pantalla  |Como visitante del segmento estudiante o especialista, quiero que la página web se adapte a diferentes dispositivos para poder visualizar a la información desde mi celular o computadora. | 3 h|Gray Hidalgo, Alejandro Eduardo | In-Process|
+| US-25 | Beneficios de EduFocus | LD03 |Verificar los beneficios de EduFocus |Como visitante del segmento estudiante o especialista quiero acceder a una descripción de los beneficios de la aplicación, para tener un panorama de los aportes que puede dejar EduFocus en mí. | 3 h|Moreno Rosales, Claudio Jesús | Done|
+| US-26 | Precios o planes de suscripción | LD04 |Visualizar los planes de suscripción y precios de cada uno  |Como visitante del segmento estudiante o especialista quiero visualizar los planes de suscripción, para poder ver si se ajusta a mi economía. | 3 h|Herrera Del Pino, Josehp Piero | Done|
+| US-27 | Página reponsive | LD05 |Verificar adaptabilidad de la web en diferentes tamaños de pantalla  |Como visitante del segmento estudiante o especialista, quiero que la página web se adapte a diferentes dispositivos para poder visualizar a la información desde mi celular o computadora. | 3 h|Portales Ortiz, Diego Alejandro | Done|
 
 <br><br>
 
@@ -426,6 +435,133 @@ Landing Page Desplegada en : https://edufocus-landingpage.netlify.app
 
 <br><br><br>
 
+
+### 5.2.2. Sprint 2 
+
+En el marco del segundo Sprint de nuestro proyecto, estamos enfocados en la corrección y mejora de las actividades relacionadas con el proceso de Needfinding, centrándonos en aspectos clave como los User Persona, Mapas As-Is, Mapas To-Be, Impact Map y User Journey Map. Reconociendo la importancia de estos elementos en la comprensión de las necesidades y expectativas de nuestros usuarios, hemos decidido realizar ajustes significativos para garantizar su precisión y utilidad. Además, durante este Sprint, nos embarcaremos en la mejora continua de nuestro Landing Page, con el objetivo de perfeccionar su apariencia y funcionalidad. Esta acción nos acercará aún más a su despliegue exitoso. 
+
+Paralelamente, avanzaremos en la creación de la primera versión de nuestra Frontend Web Application. A medida que avanzamos, también nos aseguraremos de mantener todos nuestros documentos y productos de software actualizados, garantizando así que reflejen con precisión el estado actual de nuestro proyecto y cumplan con los estándares de calidad esperados. 
+
+[![sprins.png](https://i.postimg.cc/hGzYFt0N/sprins.png)](https://postimg.cc/QBDm1swq)
+
+<br><br>
+
+### 5.2.2.1 Sprint Planning 2
+
+| **Sprint #** | Sprint 2 |
+| --- | --- |
+| **Sprint Planning Background** |
+| Date | 2023-09-21 |
+| Time | 5:00 PM |
+| Location | Google Meet |
+| Prepared By | Claudio Jesús Moreno Rosales|
+| Attendees (to planning meeting) | Gray Hidalgo, Alejandro Eduardo/Herrera del Pino, Josehp Piero/Portales Ortiz, Diego Alejandro |
+| Sprint 2 Review Summary | **Equipo de desarrollo:** El equipo asignó las nuevas tareas a realizar para corregir correctamente las observaciones del sprint 1. <br>**Landing Page:** Se estableció los aspectos del Landing Page que se van a Mejorar para este segundo sprint | |
+| Sprint 2 Retrospective Summary | **Oportunidades de mejora:** Se vio que hay que mejorar un poco en la comunicación del equipo para ir de manera más ágil cuando van haciendo cambios en el repositorio de github o van subiendo avances de tareas y si hay contratiempos avisar con anticipación para evitar errores después. |
+| **Sprint Goal & User Stories** ||
+| Sprint 2 Goal | **Objetivos:** <br><br> **Programación:** Mejorar el aspecto y la legibilidad del código para la Landing Page. Además, realizar el primer avance del Frontend Web Application. <br> Métrica: Corrección exitosa del 100% del código.<br><br>**Despliegue:** Desplegar la solución estática del Landing Page en el Hosting de Netlify y desplegar el Frontend Web Application en Firebase.  |
+| Sprint 2 Velocity | 15 |
+| Sum of Story Points | 11  |
+
+<br><br>
+
+### 5.2.2.2. Sprint Backlog 2
+
+| **Sprint #** | Sprint 2 |
+| --- | --- |
+| User Story | Work-Item/ Task |
+
+| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (hours)** | **Assigned To** | **Status**|
+|--|--|--|--|--|--|--|--|
+| US-01 | Registro de nuevos especialistas | WA01 |Registrar especialistas | Como especialista quiero registrarme en la plataforma de EduFocus, para poder brindar mis servicios a los alumnos. | 4 h | Gray Hidalgo, Alejandro Eduardo | Done|
+| US-05 | Registro de nuevo estudiante | WA05 |Registrar estudiantes |Como estudiante quiero registrarme en la plataforma de EduFocus, para acceder al amplio catálogo de especialistas. | 4 h| Moreno Rosales, Claudio Jesús | Done|
+| US-19 | Crear nueva sesión | WA19 |Crear una nueva sesión con un especialista (realizar reserva) |Como estudiante quiero crear una nueva sesión, para empezar con las asesorías entre pares| 5 h| Herrera Del Pino, Josehp Piero| Done|
+| US-23 | Idioma de la web | WA23 | Mejorar la accesibilidad en cuanto a los idiomas.  |Como visitante del segmento estudiante o especialista quiero poder cambiar el idioma de la web, para ajustar la web a mis preferencias de idioma. | 3 h| Portales Ortiz, Diego Alejandro | Done|
+
+
+<br><br>
+
+### 5.2.2.3. Development Evidence for Sprint Review
+
+Para realizar las correcciones de la Landing Page se repartieron diversas actividades a  cada integrante pueda colaborar de manera satisfactoria y desplegar  el primer producto. 
+
+Repositorio Landing Page:  https://github.com/TechNest2023/Landing-Page.git
+Despliegue de Landing Page: https://edufocus-landingpage.netlify.app 
+
+Para la primera versión del desarrollo de la Web APP se establecieron tareas específicas, la cual se reflejan mediante los siguientes commits realizados en el siguiente repositorio: https://github.com/TechNest2023/Frontend-Web-Application.git
+
+<br>
+
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
+|----------------|------------|---------------|--------------------|-------------------------|-------------------------|
+|Landing-Page |Main |56b7ab53ee59ef948a979fa354d32e18a144c1a5 |Feat |Landing Page Update | Sep 7
+|Landing-Page |Main |1b342a79d5cc4be3128efc420f4a48cd5537934a |Feat |Update to deploy | Sep 18
+
+<br><br>
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+Los archivos .feature en Gherkin en esta occasion abarcan las User Stories 1, 5, 19 y 23. En este caso, sirve para verificar que las funcionalidades estén en la Web Application.
+
+**Link del repositorio de los Acceptance Test:** https://github.com/TechNest2023/Acceptance-Test.git
+
+A continuación, se presenta las pruebas de funcionalidad que presenta la Landing Page y la Web Application, respecto a los archivos .feature realizados en el lenguaje Gherkin para los criterios de aceptación que se deben cumplir.
+
+<br>
+
+[![Gherkin1.png](https://i.postimg.cc/dVBDgsxJ/Gherkin1.png)](https://postimg.cc/w116mpzr)
+
+<br>
+
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
+|----------------|------------|---------------|--------------------|-------------------------|-------------------------|
+|[Acceptance-Test](https://github.com/TechNest2023/Acceptance-Test) |Main |05a55f508ad38d1be442de6f3afccb9429ae4434 |feat |The functionalities of the first version of the web application |Sep 23
+
+<br><br>
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+
+En este Sprint se ha logrado cumplir con las correcciones y mejoras a la Landing Page y brindar un primer avance del Web Application despegados en Netlify y Firebase.
+
+-   Video Presentación de la Web App desplegada:
+
+<br><br>
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Se realizó la creación de los archivos Gherkin con extension .feature. Este se abarca las User Stories que descritas en el Sprint Backlog 2 que es el alcance definido por el equipo.
+
+Repositorio de los Gherkin Features: https://github.com/TechNest2023/Acceptance-Test.git
+
+<br>
+
+ [![gherkin2.png](https://i.postimg.cc/HLkjgqqX/gherkin2.png)](https://postimg.cc/pm3PQ6XL)
+
+<br>
+
+**Features de las User Stories del Sprint 2:**
+
+[![gherkin3.png](https://i.postimg.cc/W1jh9FS9/gherkin3.png)](https://postimg.cc/Tp7d1Pzm)
+
+<br>
+
+**Gherkin del Frontend Web Application:**
+
+[![gherkin4.png](https://i.postimg.cc/SNtywg6t/gherkin4.png)](https://postimg.cc/8jMQvBnh)
+
+<br><br>
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+FIREBASE
+
+<br><br>
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+
+<br><br>
+
 ## Conclusiones
 
 **TB1:**
@@ -438,6 +574,12 @@ Landing Page Desplegada en : https://edufocus-landingpage.netlify.app
 
 - Se logro implementar a un 70% la Landing Page, pero ese espera que para los siguientes Sprints este  este apartado funcionando al 100%.
 
+**TP:**
+
+- En este segundo Sprint, nuestra atención se ha centrado en la mejora de actividades cruciales relacionadas con el proceso de Needfinding. Hemos trabajado en la revisión y ajuste de elementos esenciales como User Persona, Mapas As-Is, Mapas To-Be, Impact Map y User Journey Map, reconociendo su valor en la comprensión de las necesidades de los usuarios.
+
+- hemos dedicado esfuerzos para optimizar nuestro Landing Page, acercándonos cada vez más a su despliegue exitoso. Paralelamente, avanzamos en la creación de la primera versión de nuestra Frontend Web Application, asegurándonos de mantener nuestros documentos y productos actualizados para cumplir con los estándares de calidad esperados. Este Sprint representa un paso importante hacia nuestro objetivo final.
+
 ## Bibliografía
 
 Andrade, I., Facio, S., Quiroz, A., Alemán, L., Flores, M., & Rosales, M.. (2018). Actitud, hábitos de estudio y rendimiento académico: Abordaje desde la teoría de la acción razonada.  _Enfermería universitaria_,  _15_(4), 342-351.  [https://doi.org/10.22201/eneo.23958421e.2018.4.533](https://doi.org/10.22201/eneo.23958421e.2018.4.533)
@@ -448,6 +590,42 @@ Sinchigalo, R., Guzmán, B., & Bonilla, D. (2022). Bienestar emocional y rendimi
 
 ## Anexos
 
+- ### Anexo A: Video presentaciones de entregables
+
+<div align="center"> Video presentación del primer entregable: </div>
+
+<div align="center"><a  href = "https://postimg.cc/3WgQ4Fq2"><img  src="https://i.postimg.cc/QNz8z6kY/portada.jpg"  alt="TB1"  width="600"  height="350" /></a></div>
+
+<div align="center">  URL:  <a  href="https://youtu.be/YBDS9CG0y3c"> https://youtu.be/YBDS9CG0y3c </a></div> 
+
+<div align="center"> Duración: 21:26 minutos </div>
+
+---
+
+- ### Anexo B: Diseños Mock-up
+
+<div align="center"> Diseño de Landing Page: </div>
+
+<div align="center"><a  href = "https://postimg.cc/NLz483rX"><img  src="https://i.postimg.cc/xT04QYf6/Mock-Up-Landing.png"  alt="MockUp"  width="600"  height="350" /></a></div>
+
+<div align="center">  URL:  <a  href="https://www.figma.com/proto/1wuLrsXCa0nid5h7kKGR0v/Dise%C3%B1os-de-Open-Source?page-id=1%3A2&type=design&node-id=27-938&viewport=358%2C602%2C0.14&t=kWuba402O20Pr4hB-1&scaling=scale-down-width"> https://bitly.ws/VvN3 </a></div> 
+
+---
+- ### Anexo C:  Deploy de los productos software de EduFocus
+
+<div align="center"> Landing Page Desplegada: </div>
+
+<div align="center"><a  href = "https://postimg.cc/TyNCWqPG"><img  src="https://i.postimg.cc/TwfSFtMy/landing-page-deploy.png"  alt="Deploy Landing Page"  width="600"  height="350" /></a></div>
+
+<div align="center">  URL:  <a  href="https://edufocus-landingpage.netlify.app "> Edufocus Landing Page</a></div> 
+
+<br><br>
+
+---
+### Anexo D: Indicaciones para secciones que incluyen Videos
+
 |Sección  |Características del video  |Sobre el contenido |Integración y entrega |
 |--|--|--|--|
 |Needfinding Interviews  |Cantidad de videos: 1<br>Nomenclatura: upc-pre-202302-si729-SW54-TechNest-needfinding-sprint-1<br>Formato: .mp4 <br>Duración:  |En las entrevistas se refleja la importancia de tener plataformas de ayuda que permitan al estudiante y al tutor tener un ambiente seguro, en el cual el estudiante supere sus dificultades en relación al aspecto académico, con herramientas que le ofrecen los especialistas y los especialistas imparten su conocimiento y ayuda a sus estudiantes de manera fácil. |https://rb.gy/lqew0 |
+
+---
