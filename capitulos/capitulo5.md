@@ -29,7 +29,7 @@
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
-	- [Anexo D: Indicaciones para secciones que incluyen Videos](#anexo-d-indicaciones-para-secciones-que-incluyen-videos)
+	- [Anexo E: Indicaciones para secciones que incluyen Videos](#anexo-e-indicaciones-para-secciones-que-incluyen-videos)
 
 <br>
 
@@ -706,7 +706,17 @@ Sinchigalo, R., Guzmán, B., & Bonilla, D. (2022). Bienestar emocional y rendimi
 
 ## Anexos
 
-- ### Anexo A: Video presentaciones de entregables
+- ### Anexo A: Repositorio de Github "TechNest/EduFocus"
+
+<div align="center"> Repositorio de Github: </div>
+
+<div align="center"><a  href = "https://postimg.cc/XXZf34Fr"><img  src="https://i.postimg.cc/y6jvmN8y/presentation.png"  alt="Github TechNest"  width="600"  height="350" /></a></div>
+
+<div align="center">  URL:  <a  href="https://github.com/orgs/TechNest2023/repositories"> https://github.com/orgs/TechNest2023/repositories </a></div> 
+
+---
+
+- ### Anexo B: Video presentaciones de entregables
 
 <div align="center"> Video presentación del primer entregable: </div>
 
@@ -728,7 +738,7 @@ Sinchigalo, R., Guzmán, B., & Bonilla, D. (2022). Bienestar emocional y rendimi
 
 ---
 
-- ### Anexo B: Diseños Mock-up
+- ### Anexo C: Diseños Mock-up
 
 <div align="center"> Diseño de Landing Page: </div>
 
@@ -737,7 +747,7 @@ Sinchigalo, R., Guzmán, B., & Bonilla, D. (2022). Bienestar emocional y rendimi
 <div align="center">  URL:  <a  href="https://www.figma.com/proto/1wuLrsXCa0nid5h7kKGR0v/Dise%C3%B1os-de-Open-Source?page-id=1%3A2&type=design&node-id=27-938&viewport=358%2C602%2C0.14&t=kWuba402O20Pr4hB-1&scaling=scale-down-width"> https://bitly.ws/VvN3 </a></div> 
 
 ---
-- ### Anexo C:  Deploy de los productos software de EduFocus
+- ### Anexo D:  Deploy de los productos software de EduFocus
 
 <div align="center"> Landing Page Desplegada: </div>
 
@@ -764,7 +774,7 @@ Sinchigalo, R., Guzmán, B., & Bonilla, D. (2022). Bienestar emocional y rendimi
 <br><br>
 
 ---
-### Anexo D: Indicaciones para secciones que incluyen Videos
+### Anexo E: Indicaciones para secciones que incluyen Videos
 
 |Sección  |Características del video  |Sobre el contenido |Integración y entrega |
 |--|--|--|--|
