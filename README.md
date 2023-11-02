@@ -35,7 +35,7 @@
 
 <br>
 
-Video Presentación: https://youtu.be/YBDS9CG0y3c 
+Video Presentación TB2: https://youtu.be/YBDS9CG0y3c 
 
 <br>
 
@@ -92,12 +92,13 @@ Para nuestro Sprint 2 el equipo se dividió las temáticas y características qu
 
 TB2: 
 
-Para nuestro Sprint 2 el equipo se dividió las temáticas y características que se debe abordar con respecto a el desarrollo del backend, despliegue de la Web App, entrevistas de validación con los clientes y evaluación de heuriticas
+Para nuestro Sprint 3 el equipo se dividió las temáticas y características que se debe abordar con respecto a el desarrollo del backend, despliegue de la Web App, entrevistas de validación con los clientes y evaluación de heuriticas
 
-[![insight1.png](https://i.postimg.cc/YqMQHZ7L/insight1.png)](https://postimg.cc/JtYs3TGR)
+<div align="center"><a  href = "https://postimg.cc/d7mYYFtg"><img  src="https://i.postimg.cc/QMvxcxLN/insight1.png"  alt="Github"  width="600"  height="450" /></a></div>
 
 **Gitflow**
-[![insight2.png](https://i.postimg.cc/SNdCNdQT/insight2.png)](https://postimg.cc/fJ3J8x9m)
+
+<div align="center"><a  href = "https://postimg.cc/jDfTMPVx"><img  src="https://i.postimg.cc/mgXr2y8H/insight3.png"  alt="Github"  width="600"  height="350" /></a></div>
 
 <br><br>
 

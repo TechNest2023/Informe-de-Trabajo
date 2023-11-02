@@ -47,7 +47,7 @@
 	- [Anexo A: Enlaces de los productos de TechNest en Github](#anexo-a-enlaces-de-los-productos-de-technest-en-github)
 	- [Anexo B:  Deploy de los productos software de EduFocus](#anexo-b--deploy-de-los-productos-software-de-edufocus)
 	- [Anexo C: Video presentaciones de entregables](#anexo-c-video-presentaciones-de-entregables)
-	- [Anexo E: Indicaciones para secciones que incluyen Videos](#anexo-e-indicaciones-para-secciones-que-incluyen-videos)
+	- [Anexo D: Indicaciones para secciones que incluyen Videos](#anexo-d-indicaciones-para-secciones-que-incluyen-videos)
 
 <br>
 
@@ -747,7 +747,7 @@ Para realizar el desarrollo de la Web Services que forma parte del Backend del p
 
 Repositorio del Backend Web Application: https://github.com/TechNest2023/Backend-Web-Application
 
-Despliegue del Backend Web Application en -----: 
+Despliegue del Backend Web Application en: https://focusbackend.azurewebsites.net/ 
 
 | **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
 |----------------|------------|---------------|--------------------|-------------------------|-------------------------|
@@ -931,7 +931,7 @@ aún debemos trabajar para mejorar?
 
 #### 5.3.2. Registro de Entrevistas
 
-Entrevista de validación a estudiante
+Entrevista 1 de validación a estudiante
 
 [![interview.png](https://i.postimg.cc/26K998R1/interview.png)](https://postimg.cc/bD1RsPvP)
 
@@ -978,6 +978,55 @@ La entrevistada expresó que la plataforma le ayudaría a tomar decisiones más 
 manera efectiva? ¿Hay algún aspecto que sientas que necesita mejorar?
 
 La entrevistada sugirió la implementación de calificaciones de especialistas como una posible mejora.
+
+<br><br>
+
+Entrevista 2 de validación a estudiante
+
+[![presentation.png](https://i.postimg.cc/sxRbkbpP/presentation.png)](https://postimg.cc/ZBVf37s0)
+
+***Nota:*** Se presentó a la estudiante la serie de preguntas preparadas previamente por el equipo.
+
+URL: https://youtu.be/VHmhRtTB-9A
+
+Timing: 0:02
+
+Duración: 7
+
+Preguntas realizadas:
+
+1 | ¿Qué aspectos te han llamado la atención o generado interés de la Landing Page?
+
+Los aspectos que han llamado la atención a Nancy de la Landing Page son la manejabilidad dinámica y la facilidad de uso, lo cual es importante para personas como yo que tienden a confundirse en otras páginas.
+
+2 | ¿Qué aspectos te han llamado la atención o generado interés de la Página Web?
+
+En la Página Web, me ha llamado la atención la estética y la forma en que se organizan las herramientas para un acceso más sencillo.
+
+3 | Ahora que has visto el avance del proyecto, ¿qué impresiones tienes sobre la plataforma o 
+servicio? ¿Hay algo en particular que te resulte atractivo o que te genere dudas?
+
+Después de ver el avance del proyecto, tengo una impresión positiva sobre la plataforma. Me resulta atractiva la posibilidad de una mejor comunicación con los asesores y la promesa de mejorar mi rendimiento académico. No tengo dudas particulares en este momento.
+
+4 | ¿Cómo te sientes con la usabilidad y la apariencia general de la plataforma? ¿Hay alguna área 
+específica que te gustaría que mejoremos?
+
+Me siento cómodo con la usabilidad y la apariencia general de la plataforma. La paleta de colores y los iconos utilizados son agradables. Sin embargo, podría mejorarse la capacidad de adjuntar imágenes en los chats.
+
+5 | ¿Después de interactuar con la plataforma crees que podrás notar mejoras en tus hábitos de 
+estudio o bienestar emocional?
+
+Después de interactuar con la plataforma, creo que podré notar mejoras en mis hábitos de estudio y bienestar emocional. La plataforma facilitaría la organización y la superación de la vergüenza al preguntar ciertas cosas.
+
+6 | ¿Cómo consideras que la plataforma puede impactar a tu equilibrio entre la vida académica y 
+personal? ¿Puedes proporcionar ejemplos?
+
+La plataforma podría impactar positivamente en mi equilibrio entre la vida académica y personal, ya que me ayudaría a mejorar mis notas y comprender mejor temas difíciles, como cuando estudio un día antes de un examen y tengo dificultades para entender ciertas cosas.
+
+7 | ¿En qué áreas crees que la plataforma ha abordado tus desafíos académicos y emocionales de 
+manera efectiva? ¿Hay algún aspecto que sientas que necesita mejorar?
+
+Considero que la plataforma aborda efectivamente mis desafíos académicos y emocionales al brindar acceso a asesores y mejorar la comunicación. Sin embargo, podría mejorar permitiendo la opción de adjuntar imágenes en los chats.
 
 <br><br>
 
@@ -1102,6 +1151,11 @@ Es recomendable que en la página de Log In se encuentre un pequeño apartado pa
 
 ### 5.4. Video About-the-Product
 
+[![presentation.png](https://i.postimg.cc/ZnCjDcQP/presentation.png)](https://postimg.cc/XB6wrw4X)
+
+Enlace del video About The Product: https://youtu.be/NpUaD0LW2lM
+
+<br>
 
 ### 5.5. Video About-the-Team
 
@@ -1165,11 +1219,12 @@ Sinchigalo, R., Guzmán, B., & Bonilla, D. (2022). Bienestar emocional y rendimi
 
 - Video presentación del TB1: https://youtu.be/YBDS9CG0y3c | Duración: 21:26 minutos
 - Video presentación del trabajo parcial: https://youtu.be/RSnlNzyDcg4 | Duración: 13:54 minutos
-- Video presentación del TB2: | Duración: 0:0 minutos
+- Video presentación del TB2:  | Duración: 0:0 minutos
+- Video presentación del About The Product: | https://youtu.be/NpUaD0LW2lM | Duración: 4:00 minutos
 
 ---
 
-### Anexo E: Indicaciones para secciones que incluyen Videos
+### Anexo D: Indicaciones para secciones que incluyen Videos
 
 |Sección  |Características del video  |Sobre el contenido |Integración y entrega |
 |--|--|--|--|
