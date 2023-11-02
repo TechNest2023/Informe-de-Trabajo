@@ -1240,7 +1240,7 @@ Sinchigalo, R., Guzmán, B., & Bonilla, D. (2022). Bienestar emocional y rendimi
 
 - Video presentación del TB1: https://youtu.be/YBDS9CG0y3c | Duración: 21:26 minutos
 - Video presentación del trabajo parcial: https://youtu.be/RSnlNzyDcg4 | Duración: 13:54 minutos
-- Video presentación del TB2:  | Duración: 0:0 minutos
+- Video presentación del TB2: https://youtu.be/2FRxcQWCuh0 | Duración: 0:0 minutos
 - Video presentación del About The Product: | https://youtu.be/NpUaD0LW2lM | Duración: 4:00 minutos
 - Video presentaicón del About The Team: https://youtu.be/VSomdCy0KF8 | Duración: 5:00 minutos
 ---
