@@ -1,34 +1,35 @@
 ## Tabla de contenido
 
-- [**Capítulo V: Product Implementation, Validation & Deployment**](#capítulo-v-product-implementation-validation--deployment)
+- [Tabla de contenido](#tabla-de-contenido)
+- [CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION \& DEPLOYMENT](#capítulo-v-product-implementation-validation--deployment)
 	- [5.1. Software Configuration Management.](#51-software-configuration-management)
 		- [5.1.1. Software Development Environment Configuration.](#511-software-development-environment-configuration)
 		- [5.1.2. Source Code Management.](#512-source-code-management)
-		- [5.1.3. Source Code Style Guide & Conventions.](#513-source-code-style-guide--conventions)
+		- [5.1.3. Source Code Style Guide \& Conventions.](#513-source-code-style-guide--conventions)
 		- [5.1.4. Software Deployment Configuration.](#514-software-deployment-configuration)
-	- [5.2. Landing Page, Services & Applications Implementation.](#52-landing-page-services--applications-implementation)
+	- [5.2. Landing Page, Services \& Applications Implementation.](#52-landing-page-services--applications-implementation)
 		- [5.2.1. Sprint 1](#521-sprint-1)
-			- [5.2.1.1 Sprint Planning 1](#5211-sprint-planning-1)
+			- [5.2.1.1. Sprint Planning 1.](#5211-sprint-planning-1)
 			- [5.2.1.2. Sprint Backlog 1.](#5212-sprint-backlog-1)
 			- [5.2.1.3. Development Evidence for Sprint Review.](#5213-development-evidence-for-sprint-review)
 			- [5.2.1.4. Testing Suite Evidence for Sprint Review.](#5214-testing-suite-evidence-for-sprint-review)
-			- [5.2.1.5. Execution Evidence for Sprint Review.](#5215-execution-evidence-for-sprint-review)
+			- [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
 			- [5.2.1.6. Services Documentation Evidence for Sprint Review.](#5216-services-documentation-evidence-for-sprint-review)
 			- [5.2.1.7. Software Deployment Evidence for Sprint Review.](#5217-software-deployment-evidence-for-sprint-review)
 			- [5.2.1.8. Team Collaboration Insights during Sprint.](#5218-team-collaboration-insights-during-sprint)
 		- [5.2.2. Sprint 2](#522-sprint-2)
 			- [5.2.2.1 Sprint Planning 2](#5221-sprint-planning-2)
-			- [5.2.2.2. Sprint Backlog 2.](#5222-sprint-backlog-2)
-			- [5.2.2.3. Development Evidence for Sprint Review.](#5223-development-evidence-for-sprint-review)
-			- [5.2.2.4. Testing Suite Evidence for Sprint Review.](#5224-testing-suite-evidence-for-sprint-review)
-			- [5.2.2.5. Execution Evidence for Sprint Review.](#5225-execution-evidence-for-sprint-review)
-			- [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
-			- [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
-			- [5.2.2.8. Team Collaboration Insights during Sprint.](#5228-team-collaboration-insights-during-sprint)
-	- [Conclusiones](#conclusiones)
-		- [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
-	- [Bibliografía](#bibliografía)
-	- [Anexos](#anexos)
+			- [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+			- [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+			- [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+			- [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+			- [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+			- [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+			- [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+- [Conclusiones](#conclusiones)
+- [Bibliografía](#bibliografía)
+- [Anexos](#anexos)
+	- [Anexo D: Indicaciones para secciones que incluyen Videos](#anexo-d-indicaciones-para-secciones-que-incluyen-videos)
 
 <br>
 
@@ -436,7 +437,7 @@ Landing Page Desplegada en : https://edufocus-landingpage.netlify.app
 <br><br><br>
 
 
-### 5.2.2. Sprint 2 
+#### 5.2.2. Sprint 2 
 
 En el marco del segundo Sprint de nuestro proyecto, estamos enfocados en la corrección y mejora de las actividades relacionadas con el proceso de Needfinding, centrándonos en aspectos clave como los User Persona, Mapas As-Is, Mapas To-Be, Impact Map y User Journey Map. Reconociendo la importancia de estos elementos en la comprensión de las necesidades y expectativas de nuestros usuarios, hemos decidido realizar ajustes significativos para garantizar su precisión y utilidad. Además, durante este Sprint, nos embarcaremos en la mejora continua de nuestro Landing Page, con el objetivo de perfeccionar su apariencia y funcionalidad. Esta acción nos acercará aún más a su despliegue exitoso. 
 
@@ -446,7 +447,7 @@ Paralelamente, avanzaremos en la creación de la primera versión de nuestra Fro
 
 <br><br>
 
-### 5.2.2.1 Sprint Planning 2
+##### 5.2.2.1 Sprint Planning 2
 
 | **Sprint #** | Sprint 2 |
 | --- | --- |
@@ -465,7 +466,7 @@ Paralelamente, avanzaremos en la creación de la primera versión de nuestra Fro
 
 <br><br>
 
-### 5.2.2.2. Sprint Backlog 2
+##### 5.2.2.2. Sprint Backlog 2
 
 | **Sprint #** | Sprint 2 |
 | --- | --- |
@@ -481,25 +482,70 @@ Paralelamente, avanzaremos en la creación de la primera versión de nuestra Fro
 
 <br><br>
 
-### 5.2.2.3. Development Evidence for Sprint Review
+##### 5.2.2.3. Development Evidence for Sprint Review
 
 Para realizar las correcciones de la Landing Page se repartieron diversas actividades a  cada integrante pueda colaborar de manera satisfactoria y desplegar  el primer producto. 
 
-Repositorio Landing Page:  https://github.com/TechNest2023/Landing-Page.git
-Despliegue de Landing Page: https://edufocus-landingpage.netlify.app 
+Repositorio del Frontend Web Application:  https://github.com/TechNest2023/Frontend-Web-Application.git
+
+Despliegue del Frontend Web Application en Firebase: https://edufocus-app.web.app
 
 Para la primera versión del desarrollo de la Web APP se establecieron tareas específicas, la cual se reflejan mediante los siguientes commits realizados en el siguiente repositorio: https://github.com/TechNest2023/Frontend-Web-Application.git
 
+- Secciones implementadas:
+
+**Log In:** 
+
+<div align="center"><a  href = "https://postimg.cc/34jnHzLc"><img  src="https://i.postimg.cc/RFy8wBw4/edu1.png"  alt="Firebase"  width="550"  height="260" /></a></div>
+
 <br>
 
-| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
-|----------------|------------|---------------|--------------------|-------------------------|-------------------------|
-|Landing-Page |Main |56b7ab53ee59ef948a979fa354d32e18a144c1a5 |Feat |Landing Page Update | Sep 7
-|Landing-Page |Main |1b342a79d5cc4be3128efc420f4a48cd5537934a |Feat |Update to deploy | Sep 18
+**Register:** 
+
+<div align="center"><a  href = "https://postimg.cc/NLJRrgrx"><img  src="https://i.postimg.cc/VL1gpvf2/edu2.png"  alt="Firebase"  width="550"  height="260" /></a></div>
+
+<br>
+
+**Home:** 
+
+<div align="center"><a  href = "https://postimg.cc/SXBWRV2b"><img  src="https://i.postimg.cc/tTTDrM9J/edu3.png"  alt="Firebase"  width="550"  height="260" /></a></div>
+
+<br>
+
+**Chats:** 
+
+<div align="center"><a  href = "https://postimg.cc/jnNPyffn"><img  src="https://i.postimg.cc/2y9GRF8G/edu4.png"  alt="Firebase"  width="550"  height="260" /></a></div>
+
+
+<br>
+
+**Activities:** 
+
+<div align="center"><a  href = "https://postimg.cc/3yJXzWsz"><img  src="https://i.postimg.cc/jjyMw7Zq/edu5.png"  alt="Firebase"  width="550"  height="260" /></a></div>
 
 <br><br>
 
-### 5.2.2.4. Testing Suite Evidence for Sprint Review
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
+|----------------|------------|---------------|--------------------|-------------------------|-------------------------|
+|Frontend-Web-Application |Main |6d5a4162de654fbc5f6d7f4fc3712a086b10a718 |Feat | Added the user registration component | Sep 25
+|Frontend-Web-Application |Main |935dfcdb7c4795fb8ceee422eebe279d48becfe4 |Feat | The appearance of the registration form was improved| Sep 25
+|Frontend-Web-Application |Main |61b19dc024125bc2200435e92041061fc1dff554 |Feat | The web toolbar was added | Sep 25
+|Frontend-Web-Application |Main |fa198c4bba2090945ff54eb024a3df2de2f5ec8f |Feat | The home component was added | Sep 25
+|Frontend-Web-Application |Main |6bb5d315786c7b6f18dc958c9026faca0597505f |Feat | Sidebar component added | Sep 25
+|Frontend-Web-Application |Main |a56fa97d8e56937bc16ad2f3ef9d37789c0fec84 |Feat | The transition between components was improved | Sep 25
+|Frontend-Web-Application |Main |fb5570a998b89ecf29f633e1d92ca312e3aa53a3 |Fix | the routes were fixed | Sep 25
+|Frontend-Web-Application |Main |d37901f23f130a774a010015c197e8f5241cc6c7 |Feat | Chat | Sep 26
+|Frontend-Web-Application |Main |1d1a68ec125bc6b2e97fdab7b1dc606f90d0bbe5 |Feat | Update chat | Sep 26
+|Frontend-Web-Application |Main |d4b333b477fc5f546a2d2d01adf3e11d97e79137 |Feat | The folder structure was improved and the Fake API was made | Sep 26
+|Frontend-Web-Application |Main |8108a06fcef600ee7022e838540d1ffab4f337d9 |Feat |  'Chats' adapted to the new structure | Sep 26
+|Frontend-Web-Application |Main |7905dec1365775f87840ce78e0392472774ba8bb |Feat | Activities section added | Sep 26
+|Frontend-Web-Application |Main |1806c8a28d01a5d4ae9dea32b933900a41c88a66 |Fix | Sidenav | Sep 26
+|Frontend-Web-Application |Main |c766a5bbdafbdf47782e8a017eda113e4ec17a6a |Fix | Scroll activities | Sep 26
+|Frontend-Web-Application |Main |959302620759f6ef8ea0b76f885d7291de9856b3 |Fix | Activity titles | Sep 26
+
+<br><br>
+
+##### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
 Los archivos .feature en Gherkin en esta occasion abarcan las User Stories 1, 5, 19 y 23. En este caso, sirve para verificar que las funcionalidades estén en la Web Application.
 
@@ -519,15 +565,17 @@ A continuación, se presenta las pruebas de funcionalidad que presenta la Landin
 
 <br><br>
 
-### 5.2.2.5. Execution Evidence for Sprint Review
+##### 5.2.2.5. Execution Evidence for Sprint Review
 
 En este Sprint se ha logrado cumplir con las correcciones y mejoras a la Landing Page y brindar un primer avance del Web Application despegados en Netlify y Firebase.
 
--   Video Presentación de la Web App desplegada:
+-   Video Presentación de la Web App desplegada: https://youtu.be/RSnlNzyDcg4
+
+[![presentation.png](https://i.postimg.cc/fyjCF2MF/presentation.png)](https://postimg.cc/rRs5R90C)
 
 <br><br>
 
-### 5.2.2.6. Services Documentation Evidence for Sprint Review
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 Se realizó la creación de los archivos Gherkin con extension .feature. Este se abarca las User Stories que descritas en el Sprint Backlog 2 que es el alcance definido por el equipo.
 
@@ -551,13 +599,81 @@ Repositorio de los Gherkin Features: https://github.com/TechNest2023/Acceptance-
 
 <br><br>
 
-### 5.2.2.7. Software Deployment Evidence for Sprint Review
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-FIREBASE
+Durante el Sprint 2, nuestro enfoque principal ha sido el despliegue exitoso del Frontend Web Application. Para lograrlo, hemos optado por utilizar Firebase Hosting debido a su configuración sencilla y eficiente. 
+
+Hemos logrado implementar con éxito una serie de características clave en EduFocus. Esto incluye la capacidad de inicio de sesión y registro de usuarios, una versión inicial de la página de inicio, la integración de una API simulada utilizando Json Server, y la creación de las secciones de chat y actividades. Estas funcionalidades proporcionarán una base sólida para nuestro proyecto y permitirán a los usuarios interactuar de manera significativa con la plataforma.
+
+**Configuración en Firebase:** 
+
+- Primero creamos el proyecto en Firebase.
+
+<div align="center"><a  href = "https://postimg.cc/c6mbTQ0Z"><img  src="https://i.postimg.cc/m2fWLwnc/2.png"  alt="Firebase"  width="500"  height="300" /></a></div>
+
+<br>
+
+- Luego, presionamos en la opción para el host de una web.
+
+<div align="center"><a  href = "https://postimg.cc/sQJw6rFK"><img  src="https://i.postimg.cc/gJCQ0zg9/1.png"  alt="Firebase"  width="550"  height="260" /></a></div>
+
+<br>
+
+<div align="center"><a  href = "https://postimg.cc/v1FhGBb3"><img  src="https://i.postimg.cc/R0qDQ685/3.png"  alt="Firebase"  width="550"  height="260" /></a></div>
+
+<br>
+
+- Registramos nuestro proyecto, para ello le damos un nombre.
+
+<div align="center"><a  href = "https://postimg.cc/ygKLyNGk"><img  src="https://i.postimg.cc/Pxp0hpzz/4.png"  alt="Firebase"  width="500"  height="400" /></a></div>
+
+<br>
+
+- Una vez registrado nuestro proyecto, seguimos las instrucciones que nos menciona la configuración de Firebase.
+
+<div align="center"><a  href = "https://postimg.cc/GThz65dR"><img  src="https://i.postimg.cc/J0jgDfFs/5.png"  alt="Firebase"  width="500"  height="400" /></a></div>
+
+<br>
+
+<div align="center"><a  href = "https://postimg.cc/ft7gGddc"><img  src="https://i.postimg.cc/0QhRJd2B/6.png"  alt="Firebase"  width="500"  height="250" /></a></div>
+
+<br>
+
+<div align="center"><a  href = "https://postimg.cc/DWLCGGB9"><img  src="https://i.postimg.cc/W4fxQ6r1/7.png"  alt="Firebase"  width="500"  height="400" /></a></div>
+
+<br>
+
+- Con los pasos realizados correctamente en el IDE de WebStorm seguimos las indicaciones y generamos el archivo "dist".
+
+<br>
+
+<div align="center"><a  href = "https://postimg.cc/dLn9pyQY"><img  src="https://i.postimg.cc/W1cfDGQh/configuracion.png"  alt="Firebase"  width="600"  height="350" /></a></div>
+
+<br>
+
+- Finalmente, desplegamos la solución.
+
+<br>
+
+<div align="center"><a  href = "https://postimg.cc/6yB0M0Xc"><img  src="https://i.postimg.cc/KvMHvqp6/deploy.png"  alt="Firebase"  width="600"  height="350" /></a></div>
 
 <br><br>
 
-### 5.2.2.8. Team Collaboration Insights during Sprint
+##### 5.2.2.8. Team Collaboration Insights during Sprint
+
+- Commits:
+
+<div align="center"><a  href = "https://postimg.cc/64Kd1d8C"><img  src="https://i.postimg.cc/gjXNjsdt/insights1.png"  alt="Firebase"  width="600"  height="350" /></a></div>
+
+<br>
+
+- Contribuciones:
+
+<div align="center"><a  href = "https://postimg.cc/H8tQGVMR"><img  src="https://i.postimg.cc/vTJXVnZY/insights2.png"  alt="Firebase"  width="600"  height="350" /></a></div>
+
+- Gitflow:
+
+<div align="center"><a  href = "https://postimg.cc/8FqdL8DK"><img  src="https://i.postimg.cc/tTgrQycj/gitflow2.png"  alt="Firebase"  width="600"  height="350" /></a></div>
 
 
 <br><br>
@@ -602,6 +718,16 @@ Sinchigalo, R., Guzmán, B., & Bonilla, D. (2022). Bienestar emocional y rendimi
 
 ---
 
+<div align="center"> Video presentación del trabajo parcial: </div>
+
+<div align="center"><a  href = "https://postimg.cc/9RYDpgqH"><img  src="https://i.postimg.cc/QtRcjR8C/presentation.png"  alt="TP1"  width="600"  height="350" /></a></div>
+
+<div align="center">  URL:  <a  href="https://youtu.be/RSnlNzyDcg4"> https://youtu.be/RSnlNzyDcg4 </a></div> 
+
+<div align="center"> Duración: 13:54 minutos </div>
+
+---
+
 - ### Anexo B: Diseños Mock-up
 
 <div align="center"> Diseño de Landing Page: </div>
@@ -615,9 +741,25 @@ Sinchigalo, R., Guzmán, B., & Bonilla, D. (2022). Bienestar emocional y rendimi
 
 <div align="center"> Landing Page Desplegada: </div>
 
-<div align="center"><a  href = "https://postimg.cc/TyNCWqPG"><img  src="https://i.postimg.cc/TwfSFtMy/landing-page-deploy.png"  alt="Deploy Landing Page"  width="600"  height="350" /></a></div>
+<div align="center"><a  href = "https://postimg.cc/56GD07Yg"><img  src="https://i.postimg.cc/2S8Y0gCs/presentation.png"  alt="Deploy Landing Page"  width="600"  height="350" /></a></div>
 
 <div align="center">  URL:  <a  href="https://edufocus-landingpage.netlify.app "> Edufocus Landing Page</a></div> 
+
+<br>
+
+<div align="center"> Frontend Web Application Desplegada: </div>
+
+<div align="center"><a  href = "https://postimg.cc/34jnHzLc"><img  src="https://i.postimg.cc/RFy8wBw4/edu1.png"  alt="Deploy Web App"  width="600"  height="350" /></a></div>
+
+<div align="center">  URL:  <a  href="https://edufocus-app.web.app"> Edufocus Web Application</a></div> 
+
+<br>
+
+<div align="center"> API Fake Desplegada: </div>
+
+<div align="center"><a  href = "https://postimg.cc/y3x7DDQq"><img  src="https://i.postimg.cc/C5H56DbK/apifake.png"  alt="Deploy Api"  width="600"  height="350" /></a></div>
+
+<div align="center">  URL:  <a  href="https://test-api-olive-five.vercel.app/specialists"> Edufocus API Fake</a></div> 
 
 <br><br>
 
