@@ -29,6 +29,10 @@
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
+	- [Anexo A: Repositorio de Github "TechNest/EduFocus"](#anexo-a-repositorio-de-github-technestedufocus)
+	- [Anexo B: Video presentaciones de entregables](#anexo-b-video-presentaciones-de-entregables)
+	- [Anexo C: Diseños Mock-up](#anexo-c-diseños-mock-up)
+	- [Anexo D:  Deploy de los productos software de EduFocus](#anexo-d--deploy-de-los-productos-software-de-edufocus)
 	- [Anexo E: Indicaciones para secciones que incluyen Videos](#anexo-e-indicaciones-para-secciones-que-incluyen-videos)
 
 <br>
@@ -706,7 +710,7 @@ Sinchigalo, R., Guzmán, B., & Bonilla, D. (2022). Bienestar emocional y rendimi
 
 ## Anexos
 
-- ### Anexo A: Repositorio de Github "TechNest/EduFocus"
+### Anexo A: Repositorio de Github "TechNest/EduFocus"
 
 <div align="center"> Repositorio de Github: </div>
 
@@ -716,7 +720,7 @@ Sinchigalo, R., Guzmán, B., & Bonilla, D. (2022). Bienestar emocional y rendimi
 
 ---
 
-- ### Anexo B: Video presentaciones de entregables
+### Anexo B: Video presentaciones de entregables
 
 <div align="center"> Video presentación del primer entregable: </div>
 
@@ -738,7 +742,7 @@ Sinchigalo, R., Guzmán, B., & Bonilla, D. (2022). Bienestar emocional y rendimi
 
 ---
 
-- ### Anexo C: Diseños Mock-up
+### Anexo C: Diseños Mock-up
 
 <div align="center"> Diseño de Landing Page: </div>
 
@@ -747,7 +751,8 @@ Sinchigalo, R., Guzmán, B., & Bonilla, D. (2022). Bienestar emocional y rendimi
 <div align="center">  URL:  <a  href="https://www.figma.com/proto/1wuLrsXCa0nid5h7kKGR0v/Dise%C3%B1os-de-Open-Source?page-id=1%3A2&type=design&node-id=27-938&viewport=358%2C602%2C0.14&t=kWuba402O20Pr4hB-1&scaling=scale-down-width"> https://bitly.ws/VvN3 </a></div> 
 
 ---
-- ### Anexo D:  Deploy de los productos software de EduFocus
+
+### Anexo D:  Deploy de los productos software de EduFocus
 
 <div align="center"> Landing Page Desplegada: </div>
 
