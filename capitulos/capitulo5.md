@@ -1160,6 +1160,10 @@ Enlace del video About The Product: https://youtu.be/NpUaD0LW2lM
 ### 5.5. Video About-the-Team
 
 
+[![presentation.png](https://i.postimg.cc/zXCtkTkM/presentation.png)](https://postimg.cc/TpPJdLFq)
+
+Video presentaicón del About The Team: https://youtu.be/m6VloiEXs0w
+
 ## Conclusiones
 
 **TB1:**
@@ -1221,7 +1225,7 @@ Sinchigalo, R., Guzmán, B., & Bonilla, D. (2022). Bienestar emocional y rendimi
 - Video presentación del trabajo parcial: https://youtu.be/RSnlNzyDcg4 | Duración: 13:54 minutos
 - Video presentación del TB2:  | Duración: 0:0 minutos
 - Video presentación del About The Product: | https://youtu.be/NpUaD0LW2lM | Duración: 4:00 minutos
-
+- Video presentaicón del About The Team: https://youtu.be/VSomdCy0KF8 | Duración: 5:00 minutos
 ---
 
 ### Anexo D: Indicaciones para secciones que incluyen Videos
