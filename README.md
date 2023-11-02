@@ -17,7 +17,7 @@
 
 **Profesor:** Hugo Allan Mori Paiva
 
-### **TB1**
+### **TB2**
 
 **Startup:** TechNest
 
@@ -35,11 +35,11 @@
 
 <br>
 
-Video Presentación: https://youtu.be/YBDS9CG0y3c 
+Video presentación del TB2: https://youtu.be/2FRxcQWCuh0
 
 <br>
 
-**Mes y Año:** Agosto - 2023
+**Mes y Año:** Noviembre - 2023
 
 </div>
 
@@ -53,6 +53,12 @@ Video Presentación: https://youtu.be/YBDS9CG0y3c
 |1.2| 01/09/2023 |Herrera del Pino, Josehp Piero | Capítulo IV: Product Design|
 |1.3 |05/09/2023 |Herrera del Pino, Josehp Piero |Completado de las secciones Web Applications User Flow Diagrams y Web Applications Prototyping.|
 |1.4 |06/09/2023 |Gray Hidalgo, Alejandro Eduardo |- Capítulo V: Product Implementation, Validation & Deployment. <br>- Implementación del Landing Page. |
+|2.0|23/09/2023 |Moreno Rosales, Claudio Jesús |- Mejora del Capítulo V: Product Implementation, Validation & Deployment.|
+|2.1|24/09/2023 |Moreno Rosales, Claudio Jesús |- Implementación deL Frontend Web Application.|
+|2.2|25/09/2023 |Herrera del Pino, Josehp Piero |- Correción de errores de la Frontend Web Application.|
+|3.0| 30/10/2023 |Herrera del Pino, Josehp Piero | Capítulo V: Product Backlog|
+|3.1| 30/10/2023 |Moreno Rosales, Claudio Jesús | Capítulo V: Sprint Planning<br>-Development Evidence<br>Testing Suite Evidence|
+|3.2| 31/10/2023 |Portales Ortiz, Diego Alejandro | Conclusiones|
 <br><br>
 
 
@@ -60,6 +66,7 @@ Video Presentación: https://youtu.be/YBDS9CG0y3c
 
 - Repositorio del proyecto EduFocus: https://github.com/orgs/TechNest2023/repositories
 - Landing Page Desplegada: https://edufocus-landingpage.netlify.app 
+- Web Application Desplegada: https://edufocus-app.web.app/
 
 TB1: 
 
@@ -69,6 +76,29 @@ Para nuestro Sprint 1 el equipo se dividió las temáticas y características qu
 
 **Gitflow**
 [![insight2.png](https://i.postimg.cc/SNdCNdQT/insight2.png)](https://postimg.cc/fJ3J8x9m)
+
+<br>
+
+TP:
+
+Para nuestro Sprint 2 el equipo se dividió las temáticas y características que se debe abordar con respecto a la implementación del Frontend Web Application.
+
+[![insights1.png](https://i.postimg.cc/gjXNjsdt/insights1.png)](https://postimg.cc/64Kd1d8C)
+
+**Gitflow**
+
+[![gitflow2.png](https://i.postimg.cc/tTgrQycj/gitflow2.png)](https://postimg.cc/8FqdL8DK)
+
+
+TB2: 
+
+Para nuestro Sprint 3 el equipo se dividió las temáticas y características que se debe abordar con respecto a el desarrollo del backend, despliegue de la Web App, entrevistas de validación con los clientes y evaluación de heuriticas
+
+<div align="center"><a  href = "https://postimg.cc/d7mYYFtg"><img  src="https://i.postimg.cc/QMvxcxLN/insight1.png"  alt="Github"  width="600"  height="450" /></a></div>
+
+**Gitflow**
+
+<div align="center"><a  href = "https://postimg.cc/jDfTMPVx"><img  src="https://i.postimg.cc/mgXr2y8H/insight3.png"  alt="Github"  width="600"  height="350" /></a></div>
 
 <br><br>
 
@@ -160,6 +190,15 @@ Para nuestro Sprint 1 el equipo se dividió las temáticas y características qu
 			- [5.2.2.6. Services Documentation Evidence for Sprint Review.](capitulos/capitulo5.md#5226-services-documentation-evidence-for-sprint-review)
 			- [5.2.2.7. Software Deployment Evidence for Sprint Review.](capitulos/capitulo5.md#5227-software-deployment-evidence-for-sprint-review)
 			- [5.2.2.8. Team Collaboration Insights during Sprint.](capitulos/capitulo5.md#5228-team-collaboration-insights-during-sprint)
+		- [5.2.3. Sprint 3](capitulos/capitulo5.md#523-sprint-3)
+			- [5.2.3.1 Sprint Planning 3](capitulos/capitulo5.md#5231-sprint-planning-3)
+			- [5.2.3.2. Sprint Backlog 3.](capitulos/capitulo5.md#5232-sprint-backlog-3)
+			- [5.2.3.3. Development Evidence for Sprint Review.](capitulos/capitulo5.md#5233-development-evidence-for-sprint-review)
+			- [5.2.3.4. Testing Suite Evidence for Sprint Review.](capitulos/capitulo5.md#5234-testing-suite-evidence-for-sprint-review)
+			- [5.2.3.5. Execution Evidence for Sprint Review.](capitulos/capitulo5.md#5235-execution-evidence-for-sprint-review)
+			- [5.2.3.6. Services Documentation Evidence for Sprint Review.](capitulos/capitulo5.md#5236-services-documentation-evidence-for-sprint-review)
+			- [5.2.3.7. Software Deployment Evidence for Sprint Review.](capitulos/capitulo5.md#5237-software-deployment-evidence-for-sprint-review)
+			- [5.2.3.8. Team Collaboration Insights during Sprint.](capitulos/capitulo5.md#5238-team-collaboration-insights-during-sprint) 
 	- [Conclusiones](capitulos/capitulo5.md#conclusiones)
 		- [Conclusiones y Recomendaciones](capitulos/capitulo5.md#conclusiones-y-recomendaciones)
 	- [Bibliografía](capitulos/capitulo5.md#bibliografía)
@@ -175,7 +214,6 @@ El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - S
 
 | Criterio Específico | Acciones Realizadas | Conclusiones                                      |
 | ------------------- | ------------------- | ------------------------------------------------- |
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|Moreno Rosales, Claudio Jesús<br><br> **TB1:** En el transcurso del proyecto se ha tenido que realizar una comunicación efectiva con los segmentos objetivo e interesados del proyecto, para obtener la mayor cantidad de requisitos y necesidades posibles, esto ayuda a construir un mejor diseño de proyecto ágil.| **TB1:** Para el primer sprint se ha realizado actividades que requieren de las habilidades comunicativas para la captura de los requisitos del proyecto y la realización del UX Research.
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. |Moreno Rosales, Claudio Jesús <br><br>**TB1:** Después de haber recolectado la información necesaria sobre nuestro público objetivo, interesados y haber realizado las entrevistas e investigaciones, se tradujo toda la información en arquetipos Persona y User Stories. |**TB1:** El proyecto se ha documentado de manera ágil por medio de entregables, a través de Github usando Gitflow, esto a permitido que se presente la información y resultados de manera organizada. 
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Herrera del Pino, Josehp Piero<br><br> **TB1:** Durante el trancurso del proyecto se ha tenido que entrevistar a nuestros segmentos objetivos para recolectar las historias de usuario para poder crear una aplicación web que se adapte a sus necesidades <br><br>**TP1:** Durante el desarrollo de la aplicación web se tuvo que consultar a diversas fuentes para poder cumplir con un diseño fiel al deseño previo en figma |  **TB1:** Se requirió de habilidades de diseño UX/UI para un mejor diseño de la plataforma EduFocus. <br><br>**TP1:** Para que todo el sistema tenga un diseño uniforme en cuanto a colores, tipos de letra,etc se debe seguir el diseño establecido en la fase de diseño de producto   | 
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. |Herrera del Pino, Josehp Piero <br><br>**TB1:** Después de conocer las preferencias de nuestros segmentos objetivos se procedió a diseñar la aplicación web y la landing page <br><br>**TP1:** Toda la investigación se convirtió en líneas de código ayudandos a plasmar una aplicación web fiel al diseño principal  |**TB1:** El proyecto se ha documentado de manera ágil por medio de entregables, a través de Github usando Gitflow, esto a permitido que se presente la información y resultados de manera organizada.<br><br>**TP1:** Comunicarse con el equipo durante la fase de desarrollo es primordial así ya tengas el diseño establecido porque puede que se estén saltando alguna fase por ahí 
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|Moreno Rosales, Claudio Jesús<br><br> **TB1:** En el transcurso del proyecto se ha tenido que realizar una comunicación efectiva con los segmentos objetivo e interesados del proyecto, para obtener la mayor cantidad de requisitos y necesidades posibles, esto ayuda a construir un mejor diseño de proyecto ágil.<br> **TP1:** Se logro establecer ideas para desarrollar la web application y lograr el despliegue.<br> **TB2:** Se ha logrado realizar una satatisfactoria comuniación del proyecto con el cliente que fue nuestro público objetivo a través de las entrevistas de validación.<br><br> Herrera del Pino, Josehp Piero<br><br> **TB1:** Durante el trancurso del proyecto se ha tenido que entrevistar a nuestros segmentos objetivos para recolectar las historias de usuario para poder crear una aplicación web que se adapte a sus necesidades.<br> **TP1:** Durante el desarrollo de la aplicación web se tuvo que consultar a diversas fuentes para poder cumplir con un diseño fiel al deseño previo en figma. | **TB1:** Para el primer sprint se ha realizado actividades que requieren de las habilidades comunicativas para la captura de los requisitos del proyecto y la realización del UX Research.<br> **TP1:** Para el Sprint 2 se ha logrado realizar dividir las tareas en equipo para lograr realizar la web application y deplegarla.<br> **TB2:** Se ha logrado desarrollar a un avance el Backend del proyecto, se ha realizado las entrevistas de validación con el que el cliente o nuestro público objetivo a interactuado para verificar si satisface sus necesidades.|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. |Moreno Rosales, Claudio Jesús <br><br>**TB1:** Después de haber recolectado la información necesaria sobre nuestro público objetivo, interesados y haber realizado las entrevistas e investigaciones, se tradujo toda la información en arquetipos Persona y User Stories.<br> **TP1:** En el desarrollo de la web aplication se logró documentar los pasos y etapas que tuvo las funcionalidades en este sprint 2.<br> **TB2:** Se ha realizado toda la documetanción tanto del proyecto para la parte del Backend como la documentación del trabajo en equipo por medio de los commit y un avance de como será el despliegue del backend.<br><br> Herrera del Pino, Josehp Piero <br><br> **TB1:** Después de conocer las preferencias de nuestros segmentos objetivos se procedió a diseñar la aplicación web y la landing page<br> **TP1:** Toda la investigación se convirtió en líneas de código ayudandos a plasmar una aplicación web fiel al diseño principal | **TB1:** El proyecto se ha documentado de manera ágil por medio de entregables, a través de Github usando Gitflow, esto a permitido que se presente la información y resultados de manera organizada.<br> **TP:** En este Sprint 2 el equipo realizó toda la documentación necesaria de los avances y correcciones de la web application.<br>**TB2:** Se realizo la documentación del Backend, se documentaron las entrevistas de validación y se documentaron las heuristicas de validación para su posterior mejora.
+
