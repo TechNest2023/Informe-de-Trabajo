@@ -1005,15 +1005,15 @@ Con esto puedes poner tu nombre y tu correo para que podamos mandarte el boletí
 
 Luego vas a Mis Asesores o My Advice, tenemos un desplegable, donde tenemos el apartado de Chat, donde puedes hablar directamente con ellos como con Paola Shau. Puedes mandar mensajes directos como si fuera DM y esperas a que te responda obviamente. Tenemos el apartado de actividades donde también pueden dejarte tareas para que mejores tu rendimiento o para que directamente programes actividades con ellos, y así como en el Blackboard te quedan intentos, subes tu solución y hay material de estudio en donde dice “Enlace a la actividad”, y bueno básicamente eso es lo que podemos ofrecer por ahora. Pronto podremos cambiar el idioma entre español/ inglés, soporte técnico y redes sociales. Es básicamente lo que ofrecemos por ahora. Y ahora me gustaría hacer unas preguntas respecto a lo que acabas de observar.
 
-Primero, ¿Qué aspectos te han llamado la atención o generado interés de la Landing Page?
+1 | Primero, ¿Qué aspectos te han llamado la atención o generado interés de la Landing Page?
 
 - Bueno, primero lo que me llamó la atención fue el hecho que se veía con respecto a la manejabilidad que se nota que es bastante dinámico y también bastante sencillo de usar a diferencia de otras páginas que he llegado a ver, sobre todo para personas como yo que se llegan a confundir bastante con respecto a cómo manejar esto.
 
-- Bien y, ¿Qué aspectos te han llamado la atención o generado interés de la Página Web?
+2 | Bien y, ¿Qué aspectos te han llamado la atención o generado interés de la Página Web?
 
 - Podría decir más que nada con respecto a la estética y la manera de organizar las herramientas para un mejor acceso.
 
-- Bien. Y bueno, ahora que has visto el avance del proyecto, ¿qué impresiones tienes sobre la plataforma o servicio? ¿Hay algo en particular que te resulte atractivo o que te genere dudas?
+3 | Bien. Y bueno, ahora que has visto el avance del proyecto, ¿qué impresiones tienes sobre la plataforma o servicio? ¿Hay algo en particular que te resulte atractivo o que te genere dudas?
 
 - Bueno, con este avance se ve que va a ser una página bastante interesante la verdad. Con respecto pues, como ya mencione anteriormente, para poder tener una mejor comunicación con los asesores y así. La verdad espero bastante de ella, ayudaría demasiado. Y si me pregunta con respecto a que podría mejorarse, aunque ya dijo ya que se implementaría después, el hecho de que tal vez tuviera acceso a más idiomas, debido a que el español y el inglés, bueno no son los únicos idiomas.
 
@@ -1023,21 +1023,21 @@ Primero, ¿Qué aspectos te han llamado la atención o generado interés de la L
 
 - Interesante.
 
-¿Cómo te sientes con la usabilidad y la apariencia general de la plataforma? ¿Hay alguna área específica que te gustaría que mejoremos?
+4 | ¿Cómo te sientes con la usabilidad y la apariencia general de la plataforma? ¿Hay alguna área específica que te gustaría que mejoremos?
 
 - A ver, con respecto a la manejabilidad se ve bastante bien como dije antes, se ve bastante dinámico y bastante sencillo de manejar. Con respecto a lo otro me gusta bastante la paleta de colores por así decirlo que se usó, es bastante suave y no te puede llegar a confundir, al igual que los pequeños íconos que puede tener, son bastante adorables. Y alguna parte que tenga que resaltar o bueno mejorar. Bueno, quitando el hecho del lenguaje, tal vez podría ser un poco el tema de los chats, porque creo que a veces uno no solamente quiere mandar mensajes, sino tal vez adjuntar una imagen o algo por el estilo.
 
 - Lo tendríamos en cuenta, es una buena mejora.
 
-¿Después de interactuar con la plataforma crees que podrás notar mejoras en tus hábitos de estudio o bienestar emocional?
+5 | ¿Después de interactuar con la plataforma crees que podrás notar mejoras en tus hábitos de estudio o bienestar emocional?
 
 - Yo creo que sí, ayudaría bastante con respecto a darte una organización, también para las personas que a veces les da cierta vergüenza preguntar ciertas cosas. Creo que la ayuda de un asesor los ayudaría bastante, y yo me incluyo entre esas personas.
 
-- ¿Cómo consideras que la plataforma puede impactar a tu equilibrio entre la vida académica y personal? ¿Puedes proporcionar ejemplos?
+6 | ¿Cómo consideras que la plataforma puede impactar a tu equilibrio entre la vida académica y personal? ¿Puedes proporcionar ejemplos?
 
 - Podría decir el hecho que, ya de por si me ayudaría a subir mis notas debido a que entendería un poco más temas que a veces no pueda llegar a captar y que me dé vergüenza preguntar. Y como ejemplo podría ser el hecho a veces de cuando uno estudia un día anterior a la prueba y se ve con la dificultad de ciertas cosas que no terminó de entender bien.
 
-- ¿En qué áreas crees que la plataforma ha abordado tus desafíos académicos y emocionales de manera efectiva? ¿Hay algún aspecto que sientas que necesita mejorar?
+7 | ¿En qué áreas crees que la plataforma ha abordado tus desafíos académicos y emocionales de manera efectiva? ¿Hay algún aspecto que sientas que necesita mejorar?
 
 - Bueno, como dije, si esto me ayuda a subir mis notas, de verdad haría que me sienta más conforme con respecto a mi rendimiento, y pues siento que no me sentiría ansiosa con respecto al hecho de estudiar o me estresaría demasiado, y eso sería un gran alivio tanto físico como emocional para mí.
 
