@@ -883,14 +883,227 @@ Configuración en Microsoft Azure:
 
 ##### 5.2.3.8. Team Collaboration Insights during Sprint
 
+- Commits:
 
+<div align="center"><a  href = "https://postimg.cc/d7mYYFtg"><img  src="https://i.postimg.cc/QMvxcxLN/insight1.png"  alt="Github"  width="600"  height="450" /></a></div>
+
+
+- Contribuciones:
+
+<div align="center"><a  href = "https://postimg.cc/FfQ48zmj"><img  src="https://i.postimg.cc/zfyGLHcP/insight2.png"  alt="Github"  width="600"  height="350" /></a></div>
+
+- Gitflow:
+
+<div align="center"><a  href = "https://postimg.cc/jDfTMPVx"><img  src="https://i.postimg.cc/mgXr2y8H/insight3.png"  alt="Github"  width="600"  height="350" /></a></div>
+
+
+<br><br>
 
 ### 5.3. Validation Interviews
+
 #### 5.3.1. Diseño de Entrevistas
+
+**Segmento objetivo: Estudiantes**
+
+- ¿Qué aspectos te han llamado la atención o generado interés de la Landing Page?
+- ¿Qué aspectos te han llamado la atención o generado interés de la Página Web?
+- Ahora que has visto el avance del proyecto, ¿qué impresiones tienes sobre la plataforma o 
+servicio? ¿Hay algo en particular que te resulte atractivo o que te genere dudas?
+- ¿Cómo te sientes con la usabilidad y la apariencia general de la plataforma? ¿Hay alguna área 
+específica que te gustaría que mejoremos?
+- ¿Después de interactuar con la plataforma crees que podrás notar mejoras en tus hábitos de 
+estudio o bienestar emocional?
+- ¿Cómo consideras que la plataforma puede impactar a tu equilibrio entre la vida académica y 
+personal? ¿Puedes proporcionar ejemplos?
+- ¿En qué áreas crees que la plataforma ha abordado tus desafíos académicos y emocionales de 
+manera efectiva? ¿Hay algún aspecto que sientas que necesita mejorar?
+
+**Segmento objetivo: Especialistas**
+
+- ¿Cuáles han sido tus impresiones iniciales luego de ver nuestra Landing Page y la Página Web?
+- ¿Qué herramientas o enfoques has encontrado más efectivos para interactuar con los 
+estudiantes y brindarle apoyo a distancia?
+- ¿Cómo consideras que tus habilidades y conocimientos han sido beneficiosos para ayudar a los 
+estudiantes a superar los desafíos académicos y emocionales?
+- ¿Qué mejoras o características adicionales sugerirías para nuestra plataforma con base en tus 
+experiencias trabajando con los estudiantes?
+- ¿Qué aspectos crees que han sido más exitosos en nuestro enfoque y en qué áreas crees que 
+aún debemos trabajar para mejorar?
+
 #### 5.3.2. Registro de Entrevistas
+
+Entrevista de validación a estudiante
+
+[![interview.png](https://i.postimg.cc/26K998R1/interview.png)](https://postimg.cc/bD1RsPvP)
+
+***Nota:*** Se presentó a la estudiante la serie de preguntas preparadas previamente por el equipo.
+
+URL: https://youtu.be/KFfr_il1OnE
+
+Timing: 0:08
+
+Duración: 20
+
+Preguntas realizadas:
+
+1 | ¿Qué aspectos te han llamado la atención o generado interés de la Landing Page?
+
+Alexandra mencionó que le llamó la atención la propuesta interesante de la plataforma, la presentación clara de los beneficios y servicios en la landing page, así como la información resumida y las palabras clave que describen el propósito de la plataforma.
+
+2 | ¿Qué aspectos te han llamado la atención o generado interés de la Página Web?
+
+Alexandra destacó que le interesó la presentación de perfiles de los especialistas con información relevante, la posibilidad de chatear con ellos y hacer un seguimiento del progreso. Además, encontró la plataforma fácil de usar y consideró que la información estaba clara.
+
+3 | Ahora que has visto el avance del proyecto, ¿qué impresiones tienes sobre la plataforma o 
+servicio? ¿Hay algo en particular que te resulte atractivo o que te genere dudas?
+
+Expresó que le resulta atractiva la propuesta de la plataforma y la información proporcionada en la landing page. No mencionó dudas específicas.
+
+
+4 | ¿Cómo te sientes con la usabilidad y la apariencia general de la plataforma? ¿Hay alguna área 
+específica que te gustaría que mejoremos?
+
+La entrevistada opinó que la usabilidad de la plataforma es buena, pero sugirió mejorar la visibilidad del botón de registro en la página de inicio. 
+
+5 | ¿Después de interactuar con la plataforma crees que podrás notar mejoras en tus hábitos de 
+estudio o bienestar emocional?
+
+La entrevistada no proporcionó una respuesta clara a esta pregunta.
+
+6 | ¿Cómo consideras que la plataforma puede impactar a tu equilibrio entre la vida académica y 
+personal? ¿Puedes proporcionar ejemplos?
+
+La entrevistada expresó que la plataforma le ayudaría a tomar decisiones más certeras al elegir a los especialistas, lo que podría impactar positivamente en su vida académica.
+
+7 | ¿En qué áreas crees que la plataforma ha abordado tus desafíos académicos y emocionales de 
+manera efectiva? ¿Hay algún aspecto que sientas que necesita mejorar?
+
+La entrevistada sugirió la implementación de calificaciones de especialistas como una posible mejora.
+
+<br><br>
+
 #### 5.3.3. Evaluaciones según heurísticas
 
+UX Heuristics & Principles Evaluation
+Usability – Inclusive Design – Information Architecture
+
+**CARRERA :** Ingeniería de Software
+
+**CURSO :** Desarrollo de Aplicaciones Open Source
+
+**SECCIÓN :** SW54
+
+**PROFESORES :** Hugo Allan Mori Paiva
+
+**AUDITOR :** TechNest
+
+**CLIENTE(S) :** Gray Hidalgo, Alejandro Eduardo/Herrera del Pino, Josehp Piero/Portales Ortiz, Diego Alejandro/Moreno Rosales, Claudio Jesús 
+
+---
+
+SITE o APP A EVALUAR:
+
+EduFocus
+
+TAREAS A EVALUAR:
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un usuario nuevo
+2. Inicio de Sesión
+3. Visualización de especialistas
+4. Funcionamiento de Chats
+5. Funcionamiento de Actividades
+6. Cerrar sesión
+7. Redirección a la Web App  desde la Landing Page
+
+<br>
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Filtrar especialistas
+2. Reservar sesión con un especialista
+3. Calendario de sesiones de asesoría
+4. Monitoreo del progreso del estudiante
+5. Seguridad de la información
+
+<br>
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|Nivel  |Descripción |
+|--|--|
+|1|Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+
+<br>
+
+**TABLA RESUMEN:**
+
+|#|Problema |Escala de severidad| Heurística /Principio violado|
+|--|--|--|--|
+|1|No se visualiza con claridad los botones de inicio de sesion y registro que se encuentra en el footer de la Landing Page| 1 | Information Architecture: Is it findable?
+|2|El nombre "Home" en la página de inicio no es muy descriptivo.|1 | Information Architecture: Is it clear?
+|3|No hay forma de regresar a la Landing Page o a la información de la Web.|1 | Information Architecture: Is it usable?
+
+<br>
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1:** No se visualiza con claridad los botones de inicio de sesion y registro que se encuentra en el footer de la Landing Page
+
+**Severidad:** 1
+
+**Heurística violada:** Information Architecture: Is it findable?
+
+**Problema:**
+El usuario al final del recorrido de la Landing Page quiso ingresar a la web para ver las funcionalidades, pero no percibió al final en el footer estaban los botones para ser redirigido a esas opciones, por lo que, tuvo que subir hasta el inicio de la Landing Page y darle click al botón "Acceder".
+
+[![footer.png](https://i.postimg.cc/6qLf6Tvb/footer.png)](https://postimg.cc/rRsrQVg5)
+
+**Recomendación:**
+Es recomendable hacer de un color más calido el footer para que se vea con claridad las opciones que existen y aumentar de tamaño o resaltar las opciones de iniciar sesión y registrarse.
+
+---
+
+**PROBLEMA #2:** El nombre "Home" en la página de inicio no es muy descriptivo.
+
+**Severidad:** 1
+
+**Heurística violada:** Information Architecture: Is it clear?
+
+**Problema:**
+El usuario después de haber recorrido un par de veces por la Web App, se sintió confundida, ya que, al inicio en "Home" como se le mostraba los especialistas, pensaba que había esa opción para ir de nuevo allí, por lo que, no le pareció tan claro que diga "Home".
+
+[![home.png](https://i.postimg.cc/QNpbJYyg/home.png)](https://postimg.cc/dDVrq6vD)
+
+**Recomendación:**
+Es recomendable cambiar el nombre de "Home" por un nombre más descriptivo que haga referencia a lo que se ve exactamente en esa parte como el nombre de "Especialistas" en lugar de "Home".
+
+---
+
+**PROBLEMA #3:** No hay forma de regresar a la Landing Page o a la información de la Web.
+
+**Severidad:** 1
+
+**Heurística violada:** Information Architecture: Is it usable?
+
+**Problema:**
+El usuario después de haber visto toda las funcionalidades de la Web App, en algún momento quiso regresar a ver los detalles de la Web, es decir, regresar a la Landing Page para verificar o visualizar a detalle la descripción del Software, pero no pudo hacerlo.
+
+[![edu1.png](https://i.postimg.cc/RFy8wBw4/edu1.png)](https://postimg.cc/34jnHzLc)
+
+**Recomendación:**
+Es recomendable que en la página de Log In se encuentre un pequeño apartado para redirigr a los usuarios de vuelt a conocer los beneficios y la descripción en general de la Web App.
+
+<br><br>
+
 ### 5.4. Video About-the-Product
+
+
 ### 5.5. Video About-the-Team
 
 
@@ -914,6 +1127,11 @@ Configuración en Microsoft Azure:
 
 
 **TB2:**
+
+- En el Sprint 3, hemos alcanzado importantes hitos al avanzar en la implementación del Backend de la plataforma, aprovechando las capacidades de Java y Spring Boot. Paralelamente, hemos continuado perfeccionando la interfaz del FrontEnd para garantizar una experiencia de usuario sobresaliente. 
+
+- Las entrevistas de validación realizadas nos han permitido corroborar que estamos en el camino correcto para satisfacer las necesidades de nuestros clientes, lo que fortalece nuestra visión de ofrecer soluciones tecnológicas que mejoren la experiencia académica de los estudiantes.
+
 
 ## Bibliografía
 
