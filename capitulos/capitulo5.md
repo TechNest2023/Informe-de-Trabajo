@@ -1179,7 +1179,7 @@ Enlace del video About The Product: https://youtu.be/NpUaD0LW2lM
 
 [![presentation.png](https://i.postimg.cc/zXCtkTkM/presentation.png)](https://postimg.cc/TpPJdLFq)
 
-Video presentaicón del About The Team: https://youtu.be/m6VloiEXs0w
+Video presentaicón del About The Team: https://youtu.be/VSomdCy0KF8
 
 ## Conclusiones
 
