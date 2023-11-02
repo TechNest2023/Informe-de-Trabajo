@@ -44,10 +44,9 @@
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
-	- [Anexo A: Repositorio de Github "TechNest/EduFocus"](#anexo-a-repositorio-de-github-technestedufocus)
-	- [Anexo B: Video presentaciones de entregables](#anexo-b-video-presentaciones-de-entregables)
-	- [Anexo C: Diseños Mock-up](#anexo-c-diseños-mock-up)
-	- [Anexo D:  Deploy de los productos software de EduFocus](#anexo-d--deploy-de-los-productos-software-de-edufocus)
+	- [Anexo A: Enlaces de los productos de TechNest en Github](#anexo-a-enlaces-de-los-productos-de-technest-en-github)
+	- [Anexo B:  Deploy de los productos software de EduFocus](#anexo-b--deploy-de-los-productos-software-de-edufocus)
+	- [Anexo C: Video presentaciones de entregables](#anexo-c-video-presentaciones-de-entregables)
 	- [Anexo E: Indicaciones para secciones que incluyen Videos](#anexo-e-indicaciones-para-secciones-que-incluyen-videos)
 
 <br>
@@ -861,7 +860,7 @@ Configuración en Microsoft Azure:
 
 <br>
 
-- En este caso logro desplegar sin problemas y nos muestra esta pantalla al acceder al enlace público: focusbackend.azurewebsites.net
+- En este caso logro desplegar sin problemas y nos muestra esta pantalla al acceder al enlace público: https://focusbackend.azurewebsites.net/
 
 [![8.png](https://i.postimg.cc/DzJGfnMK/8.png)](https://postimg.cc/1gSXJhSW)
 
@@ -1143,85 +1142,33 @@ Sinchigalo, R., Guzmán, B., & Bonilla, D. (2022). Bienestar emocional y rendimi
 
 ## Anexos
 
-### Anexo A: Repositorio de Github "TechNest/EduFocus"
+### Anexo A: Enlaces de los productos de TechNest en Github
 
-<div align="center"> Repositorio de Github: </div>
-
-<div align="center"><a  href = "https://postimg.cc/XXZf34Fr"><img  src="https://i.postimg.cc/y6jvmN8y/presentation.png"  alt="Github TechNest"  width="600"  height="350" /></a></div>
-
-<div align="center">  URL:  <a  href="https://github.com/orgs/TechNest2023/repositories"> https://github.com/orgs/TechNest2023/repositories </a></div> 
-
----
-
-### Anexo B: Video presentaciones de entregables
-
-<div align="center"> Video presentación del TB1: </div>
-
-<div align="center"><a  href = "https://postimg.cc/3WgQ4Fq2"><img  src="https://i.postimg.cc/QNz8z6kY/portada.jpg"  alt="TB1"  width="600"  height="350" /></a></div>
-
-<div align="center">  URL:  <a  href="https://youtu.be/YBDS9CG0y3c"> https://youtu.be/YBDS9CG0y3c </a></div> 
-
-<div align="center"> Duración: 21:26 minutos </div>
+- Informe del proyecto EduFocus: https://github.com/TechNest2023/Informe-de-Trabajo
+- Código del Frontend: https://github.com/TechNest2023/Frontend-Web-Application
+- Código del Backend: https://github.com/TechNest2023/Backend-Web-Application 
+- Código del Landing Page: https://github.com/TechNest2023/Landing-Page
+- Repositorio general de Github: https://github.com/orgs/TechNest2023/repositories
 
 ---
 
-<div align="center"> Video presentación del trabajo parcial: </div>
+### Anexo B:  Deploy de los productos software de EduFocus
 
-<div align="center"><a  href = "https://postimg.cc/9RYDpgqH"><img  src="https://i.postimg.cc/QtRcjR8C/presentation.png"  alt="TP1"  width="600"  height="350" /></a></div>
-
-<div align="center">  URL:  <a  href="https://youtu.be/RSnlNzyDcg4"> https://youtu.be/RSnlNzyDcg4 </a></div> 
-
-<div align="center"> Duración: 13:54 minutos </div>
-
----
-
-<div align="center"> Video presentación del TB2: </div>
-
-<div align="center"><a  href = ""><img  src=""  alt="TB2"  width="600"  height="350" /></a></div>
-
-<div align="center">  URL:  <a  href=""> </a></div> 
-
-<div align="center"> Duración: 0:0 minutos </div>
+- Landing Page Desplegada: https://edufocus-landingpage.netlify.app
+- Frontend Web Application Desplegada: https://edufocus-app.web.app
+- Backend Web Application Desplegada: https://focusbackend.azurewebsites.net/
+- API Fake Desplegada: https://test-api-olive-five.vercel.app/specialists
 
 ---
 
-### Anexo C: Diseños Mock-up
+### Anexo C: Video presentaciones de entregables
 
-<div align="center"> Diseño de Landing Page: </div>
-
-<div align="center"><a  href = "https://postimg.cc/NLz483rX"><img  src="https://i.postimg.cc/xT04QYf6/Mock-Up-Landing.png"  alt="MockUp"  width="600"  height="350" /></a></div>
-
-<div align="center">  URL:  <a  href="https://www.figma.com/proto/1wuLrsXCa0nid5h7kKGR0v/Dise%C3%B1os-de-Open-Source?page-id=1%3A2&type=design&node-id=27-938&viewport=358%2C602%2C0.14&t=kWuba402O20Pr4hB-1&scaling=scale-down-width"> https://bitly.ws/VvN3 </a></div> 
+- Video presentación del TB1: https://youtu.be/YBDS9CG0y3c | Duración: 21:26 minutos
+- Video presentación del trabajo parcial: https://youtu.be/RSnlNzyDcg4 | Duración: 13:54 minutos
+- Video presentación del TB2: | Duración: 0:0 minutos
 
 ---
 
-### Anexo D:  Deploy de los productos software de EduFocus
-
-<div align="center"> Landing Page Desplegada: </div>
-
-<div align="center"><a  href = "https://postimg.cc/56GD07Yg"><img  src="https://i.postimg.cc/2S8Y0gCs/presentation.png"  alt="Deploy Landing Page"  width="600"  height="350" /></a></div>
-
-<div align="center">  URL:  <a  href="https://edufocus-landingpage.netlify.app "> Edufocus Landing Page</a></div> 
-
-<br>
-
-<div align="center"> Frontend Web Application Desplegada: </div>
-
-<div align="center"><a  href = "https://postimg.cc/34jnHzLc"><img  src="https://i.postimg.cc/RFy8wBw4/edu1.png"  alt="Deploy Web App"  width="600"  height="350" /></a></div>
-
-<div align="center">  URL:  <a  href="https://edufocus-app.web.app"> Edufocus Web Application</a></div> 
-
-<br>
-
-<div align="center"> API Fake Desplegada: </div>
-
-<div align="center"><a  href = "https://postimg.cc/y3x7DDQq"><img  src="https://i.postimg.cc/C5H56DbK/apifake.png"  alt="Deploy Api"  width="600"  height="350" /></a></div>
-
-<div align="center">  URL:  <a  href="https://test-api-olive-five.vercel.app/specialists"> Edufocus API Fake</a></div> 
-
-<br><br>
-
----
 ### Anexo E: Indicaciones para secciones que incluyen Videos
 
 |Sección  |Características del video  |Sobre el contenido |Integración y entrega |
