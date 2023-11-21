@@ -1420,6 +1420,8 @@ Video presentaicón del About The Team: https://youtu.be/VSomdCy0KF8
 - La mejora del frontend es un paso importante para mejorar la experiencia del usuario. Al optimizar la interfaz de usuario, se promueve una navegación más intuitiva y atractiva, lo que puede aumentar la participación y la retención de usuarios en la plataforma. 
 
 - El progreso en la seguridad web es igualmente relevante. La atención dedicada a este aspecto es fundamental para garantizar la protección de los datos sensibles de los usuarios y la integridad de la plataforma en general. La implementación de mejoras en la seguridad web refuerza y resalta el la privacidad y protección de la información.
+  
+- El equipo ha alcanzado hitos clave en el último sprint al completar el desarrollo técnico del backend y mejorar visualmente el frontend de la plataforma web. Estos avances fortalecen la base del sistema, ofreciendo una plataforma más sólida para la interacción entre estudiantes y especialistas. La optimización del frontend mejora la experiencia del usuario, mientras que el progreso en seguridad web refuerza la privacidad y protección de la información. En conjunto, estos logros contribuyen a una plataforma más eficiente y segura para facilitar la conexión entre usuarios.
 
 
 ## Bibliografía
