@@ -35,6 +35,15 @@
 			- [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
 			- [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
 			- [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+		- [5.2.4. Sprint 4](#524-sprint-4)
+			- [5.2.4.1 Sprint Planning 4](#5241-sprint-planning-4)
+			- [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+			- [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+			- [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+			- [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+			- [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+			- [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+			- [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
 	- [5.3. Validation Interviews](#53-validation-interviews)
 		- [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
 		- [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -898,6 +907,204 @@ Configuración en Microsoft Azure:
 
 <br><br>
 
+
+#### 5.2.4. Sprint 4
+
+En el Sprint 4, hemos logrado un avance significativo en el desarrollo del Backend del proyecto, empleando tecnologías como Java y Spring Boot. También hemos centrado nuestros esfuerzos en mejorar continuamente el FrontEnd del proyecto para ofrecer una experiencia de usuario óptima. El desarrollo se ha visto avance para la seguridad web.
+
+<br><br>
+
+##### 5.2.4.1 Sprint Planning 4
+
+| **Sprint #** | Sprint 4 |
+| --- | --- |
+| **Sprint Planning Background** |
+| Date | 2023-11-13 |
+| Time | 6:30 PM |
+| Location | Google Meet |
+| Prepared By | Claudio Jesús Moreno Rosales|
+| Attendees (to planning meeting) | Gray Hidalgo, Alejandro Eduardo/Herrera del Pino, Josehp Piero/Portales Ortiz, Diego Alejandro |
+| Sprint 4 Review Summary | **Equipo de desarrollo:** El equipo asignó las nuevas tareas a realizar para corregir correctamente las observaciones del trabajo parcial y desarrollar el Backend del proyecto. <br>**Landing Page:** Se estableció los aspectos del Landing Page que se van a Mejorar para este cuarto sprint | |
+| Sprint 4 Retrospective Summary | **Oportunidades de mejora:** Se vio que hay que mejorar un poco en la la manera de hacer los cambios en el repositorio de github.|
+| **Sprint Goal & User Stories** ||
+| Sprint 4 Goal | **Objetivos:** <br><br> **Programación:** Desarrollar la parte del Backend con Java y el Framework de Spring Boot usando el enfoque Model-View-Controller y base de datos MySQL<br><br>**Despliegue:** Desplegar el Backend y tener la version mejorada del Landing Page deplegada.  |
+| Sprint 4 Velocity | 20 |
+| Sum of Story Points | 18  |
+
+<br><br>
+
+##### 5.2.4.2. Sprint Backlog 4
+
+| **Sprint #** | Sprint 4 |
+| --- | --- |
+| User Story | Work-Item/ Task |
+
+| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (hours)** | **Assigned To** | **Status**|
+|--|--|--|--|--|--|--|--|
+| US-02 | Carga de Especialistas | BE02 |Cargar lista de especialistas | Como estudiante quiero ver una lista de especialistas disponibles en la página de inicio, para encontrar un especialista adecuado para mis necesidades | 4 h | Moreno Rosales, Claudio Jesús |In Process|
+| US-03 | Reserva de Sesión de Asesoría | BE03 |Reserva de Sesión |Como estudiante poder reservar una sesión de asesoría con un especialista, para obtener asesoría y orientación personalizada. | 4 h| Herrera Del Pino, Josehp Piero | Done|
+| US-04 | Realizar filtro de especialistas | BE04 |Realizar búsqueda de un especialista específico |Como estudiante quiero poder buscar un especialista para mis sesiones de asesoría| 5 h| Moreno Rosales, Claudio Jesús| Done|
+| US-06 | Acceso a Perfil de Usuario | BE06| Ver perfil de usuario registrado.  |Como estudiante quiero poder acceder a mi perfil en la plataforma, para ver mi información de perfil. | 3 h| Herrera Del Pino, Josehp Piero |Done|
+| US-07 | Cargar información del perfil de usuario | BE07| Cargar la información de los datos del usuario.  |Como estudiante quiero al inicio se cargue mis datos que habia registrado en la plataforma. | 3 h| Herrera Del Pino, Josehp Piero |Done|
+| US-08| Cierre de Sesión | BE08| Cerrar la sesión iniciada por el usuario.  |Como estudiante quiero poder cerrar sesión en la plataforma, para salir de mi cuenta y proteger mi privacidad. | 3 h| Moreno Rosales, Claudio Jesús|Done|
+| US-09| Inicio de Sesión | BE09| Realizar el LogIn en la Web.  |Como estudiante quiero  ingresar mi correo y contraseña en la página de inicio, para acceder a la plataforma. | 3 h| Moreno Rosales, Claudio Jesús|Done|
+| US-10| Redirección al Landing Page | BE10| Realizar la redirección al Landing Page  |Como estudiante quiero  poder desde la el Login volver al Landing Page del producto, para ver más información sobre su equipo. | 1 h| Moreno Rosales, Claudio Jesús|Done|
+| US-011 | Guardar los datos del usuario registrado | BE011| Persistir los datos ingresado en el formulario del producto.  |Como estudiante quiero que mis datos de registro del formulario se guarden para luego poder iniciar sesion. | 3 h| Herrera Del Pino, Josehp Piero |Done|
+
+<br><br>
+
+##### 5.2.4.3. Development Evidence for Sprint Review
+
+Para realizar el desarrollo de la Web Services que forma parte del Backend del proyecto se repartieron diversas actividades a cada integrante pueda colaborar de manera satisfactoria y desplegar el Backend.
+
+Repositorio del Backend Web Application: https://github.com/TechNest2023/Backend-Web-Application
+
+Despliegue del Backend Web Application en: https://focusbackend.azurewebsites.net/ 
+
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
+|----------------|------------|---------------|--------------------|-------------------------|-------------------------|
+|Backend-Web-Application |Main |4c7453c6651982dd1419c5b45e77725b8deaa0d6 |Feat | Start Project | Oct 25
+|Backend-Web-Application |Focus |608845c16f001ab77e7577622ec74aec00129a4e |Feat | Updates | Oct 27
+|Backend-Web-Application |Focus |029b8a9f131747afee1e81d0288a67c309c9be0b |Feat | Updates| Oct 27
+|Backend-Web-Application |Focus |d7021480cce0ed65cdada8e6379b669bcc53f088 |Feat | Updates | Oct 28
+|Backend-Web-Application |Focus |3844e0b9c1092c6395e2a05f8b5d529e4e5957d6 |Feat | Updates | Oct 29
+|Backend-Web-Application |Focus |4cb4bf423a6c78813c4a6f356fe8ada916602365 |Feat | Updates | Oct 31
+
+<br><br>
+
+
+##### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+Los archivos .feature en Gherkin en esta occasion abarcan las User Stories 2, 3, 4, 6, 7, 8 y 9. En este caso, sirve para verificar que las implemetaciones que se tiene hasta el momento por parte del desarrollo en el Backend con Java y Spring Boot.
+
+**Link del repositorio de los Acceptance Test:** https://github.com/TechNest2023/Acceptance-Test.git
+
+A continuación, se presenta las pruebas que debe realizar el Backend que posteriormente presentará el Frontend de la Web Application, respecto a los archivos .feature realizados en el lenguaje Gherkin para los criterios de aceptación que se deben cumplir.
+
+<br>
+
+[![Gherkin-Github.png](https://i.postimg.cc/NM0kdR07/Gherkin-Github.png)](https://postimg.cc/sBtWXQ7v)
+
+<br>
+
+<br>
+
+[![Gherkin-Backend.png](https://i.postimg.cc/9MNtKzR3/Gherkin-Backend.png)](https://postimg.cc/PpYw8XQK)
+
+<br>
+
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Commited on (Date)** |
+|----------------|------------|---------------|--------------------|-------------------------|-------------------------|
+|[Acceptance-Test](https://github.com/TechNest2023/Acceptance-Test) |Main |7b27f70a392607b47d7865fe5bec9f9361fa8420|feat |user stories for the backend |Nov 01
+
+##### 5.2.4.5. Execution Evidence for Sprint Review
+
+En este Sprint se ha logrado realizar un avance del Backend del proyecto y brindar un primer avance del despliegue en Microsoft Azure.
+
+[![microsoft-azure.jpg](https://i.postimg.cc/PrBctzy3/microsoft-azure.jpg)](https://postimg.cc/9rY1b9vZ)
+
+Azure es una nube pública de pago por uso que te permite compilar, implementar y administrar rápidamente aplicaciones en una red global de datacenters (centros de datos) de Microsoft.
+
+[![8.png](https://i.postimg.cc/DzJGfnMK/8.png)](https://postimg.cc/1gSXJhSW)
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Se realizó la creación de los archivos Gherkin con extension .feature. Este se abarca las User Stories que descritas en el Sprint Backlog 3 que es el alcance definido por el equipo.
+
+Repositorio de los Gherkin Features: https://github.com/TechNest2023/Acceptance-Test.git
+
+Features de las User Stories del Sprint 4
+
+[![gherkin-details.png](https://i.postimg.cc/d15CB6DJ/gherkin-details.png)](https://postimg.cc/vg6D8WWK)
+
+<br>
+
+Gherkin del Backend Web Application:
+
+[![gherkin-details2.png](https://i.postimg.cc/cHxYw2xD/gherkin-details2.png)](https://postimg.cc/4K0mT8ht)
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 4, nuestro enfoque principal ha sido el despliegue exitoso del Backend Web Application. Para
+lograrlo, hemos optado por utilizar Microsoft Azure debido a su gran variedad de herramientas y facilidad en despliegue de soluciones de software. Hemos logrado desarrollar con éxito una serie de avances clave en EduFocus. Esto incluye tener el manejo de entidades como el de Student, Specialist y Reserve. Además, se desarrollaron varios aspectos relacionados a la funcionalidad de la web con los Activities, etc. Estas funcionalidades proporcionarán una base sólida para nuestro proyecto y permitirán a los usuarios interactuar de manera significativa con la plataforma cuando se integre el FrontEnd y el Backend.
+
+Configuración en Microsoft Azure:
+
+- Primero seleccionamos la opción de "Web APP".
+
+[![9.png](https://i.postimg.cc/Qd1zV9nX/9.png)](https://postimg.cc/SnQdvsh5)
+
+<br>
+
+- Creamos un nuevo "Grupo" y seleccionamos la version de Java con máquina Windows.
+
+[![1.png](https://i.postimg.cc/NjPTw5b4/1.png)](https://postimg.cc/3kmWXrs4)
+
+<br>
+
+- Vinculamos nuestra cuenta de "Github" y elegimos el "Brach" para que el despliegue se realice de forma automática ante cualquier cambio en el código.
+
+[![2.png](https://i.postimg.cc/x1dH7KG8/2.png)](https://postimg.cc/D8t844M3)
+
+<br>
+
+- Dejamos la opción "Público" por defecto
+  
+[![3.png](https://i.postimg.cc/1XcwxBYn/3.png)](https://postimg.cc/Lg5nLtS2)
+
+<br>
+
+- Esperamos a que Azure despliegue la solución de software
+
+[![4.png](https://i.postimg.cc/05ppJ52k/4.png)](https://postimg.cc/DmwW9TXH)
+
+<br>
+
+- Una vez que termine nos mostrará que el despliegue a finalizado y tenemos que ver la respuesta que nos da Azure si se pudo desplegar o no.
+
+[![6.png](https://i.postimg.cc/d0byLpbZ/6.png)](https://postimg.cc/7CN6RsYq)
+
+<br>
+
+- Por defecto, Azure creará un "Action" en el repositorio de Github y es allí donde sabremos si Azure logró desplegar la solución o fallo en el proceso.
+
+[![7.png](https://i.postimg.cc/MKq10kvy/7.png)](https://postimg.cc/nMSsZPKz)
+
+<br>
+
+- En este caso logro desplegar sin problemas y nos muestra esta pantalla al acceder al enlace público: https://focusbackend.azurewebsites.net/
+
+[![8.png](https://i.postimg.cc/DzJGfnMK/8.png)](https://postimg.cc/1gSXJhSW)
+
+
+<br>
+
+- Como se esta utilizando una cuenta de estudiante, hay un límite de cuota al usar, por ende, puede llegar a aparecer el siguiente error: 
+
+[![10.png](https://i.postimg.cc/dt4YFtVH/10.png)](https://postimg.cc/jLw9QTNP)
+
+
+<br><br>
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint
+
+- Commits:
+
+<div align="center"><a  href = "https://postimg.cc/d7mYYFtg"><img  src="https://i.postimg.cc/R0yVKs2d/isights.png"  alt="Github"  width="600"  height="450" /></a></div>
+
+
+- Contribuciones:
+
+<div align="center"><a  href = "https://postimg.cc/FfQ48zmj"><img  src="https://i.postimg.cc/x1sdTTRW/igsith2.png"  alt="Github"  width="600"  height="350" /></a></div>
+
+- Gitflow:
+
+<div align="center"><a  href = "https://postimg.cc/jDfTMPVx"><img  src="https://i.postimg.cc/N05jyqCL/insight3.png"  alt="Github"  width="600"  height="350" /></a></div>
+
+
+<br><br>
+
+
 ### 5.3. Validation Interviews
 
 #### 5.3.1. Diseño de Entrevistas
@@ -1206,6 +1413,14 @@ Video presentaicón del About The Team: https://youtu.be/VSomdCy0KF8
 
 - Las entrevistas de validación realizadas nos han permitido corroborar que estamos en el camino correcto para satisfacer las necesidades de nuestros clientes, lo que fortalece nuestra visión de ofrecer soluciones tecnológicas que mejoren la experiencia académica de los estudiantes.
 
+**TF:**
+
+- En este último Sprint, el equipo ha logrado un avance sustancial al completar tanto el desarrollo del backend como la mejora del frontend de la web. Esta etapa ha sido fundamental, ya que la parte técnica del proyecto se ha consolidado, permitiendo una plataforma más robusta y funcional para conectar a estudiantes y especialistas. La culminación exitosa del backend implica que la base estructural del sistema está completa, ofreciendo un sólido soporte para las interacciones entre usuarios.
+
+- La mejora del frontend es un paso importante para mejorar la experiencia del usuario. Al optimizar la interfaz de usuario, se promueve una navegación más intuitiva y atractiva, lo que puede aumentar la participación y la retención de usuarios en la plataforma. 
+
+- El progreso en la seguridad web es igualmente relevante. La atención dedicada a este aspecto es fundamental para garantizar la protección de los datos sensibles de los usuarios y la integridad de la plataforma en general. La implementación de mejoras en la seguridad web refuerza y resalta el la privacidad y protección de la información.
+
 
 ## Bibliografía
 
@@ -1240,7 +1455,7 @@ Sinchigalo, R., Guzmán, B., & Bonilla, D. (2022). Bienestar emocional y rendimi
 
 - Video presentación del TB1: https://youtu.be/YBDS9CG0y3c | Duración: 21:26 minutos
 - Video presentación del trabajo parcial: https://youtu.be/RSnlNzyDcg4 | Duración: 13:54 minutos
-- Video presentación del TB2: https://youtu.be/2FRxcQWCuh0 | Duración: 0:0 minutos
+- Video presentación del TB2: https://youtu.be/2FRxcQWCuh0 | Duración: 10:15 minutos
 - Video presentación del About The Product: | https://youtu.be/NpUaD0LW2lM | Duración: 4:00 minutos
 - Video presentaicón del About The Team: https://youtu.be/VSomdCy0KF8 | Duración: 5:00 minutos
 ---
