@@ -17,7 +17,7 @@
 
 **Profesor:** Hugo Allan Mori Paiva
 
-### **TB2**
+### **TF**
 
 **Startup:** TechNest
 
@@ -35,9 +35,6 @@
 
 <br>
 
-Video presentación del TB2: https://youtu.be/2FRxcQWCuh0
-
-<br>
 
 **Mes y Año:** Noviembre - 2023
 
@@ -59,6 +56,8 @@ Video presentación del TB2: https://youtu.be/2FRxcQWCuh0
 |3.0| 30/10/2023 |Herrera del Pino, Josehp Piero | Capítulo V: Product Backlog|
 |3.1| 30/10/2023 |Moreno Rosales, Claudio Jesús | Capítulo V: Sprint Planning<br>-Development Evidence<br>Testing Suite Evidence|
 |3.2| 31/10/2023 |Portales Ortiz, Diego Alejandro | Conclusiones|
+|4.0| 19/11/2023 |Moreno Rosales, Claudio Jesús | Web Application Backend|
+|4.1| 19/11/2023 |Herrera del Pino, Josehp Piero | Web Application Backend|
 <br><br>
 
 
