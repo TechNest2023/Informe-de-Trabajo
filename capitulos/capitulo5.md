@@ -1090,16 +1090,16 @@ Configuración en Microsoft Azure:
 
 - Commits:
 
-<div align="center"><a  href = "https://postimg.cc/d7mYYFtg"><img  src="https://i.postimg.cc/R0yVKs2d/isights.png"  alt="Github"  width="600"  height="450" /></a></div>
+[![1-Commits.jpg](https://i.postimg.cc/XNhkvk2x/1-Commits.jpg)](https://postimg.cc/7b32s0rT)
 
 
 - Contribuciones:
 
-<div align="center"><a  href = "https://postimg.cc/FfQ48zmj"><img  src="https://i.postimg.cc/x1sdTTRW/igsith2.png"  alt="Github"  width="600"  height="350" /></a></div>
+[![2-Contribuciones.jpg](https://i.postimg.cc/y87jqYpz/2-Contribuciones.jpg)](https://postimg.cc/7fQ00DyB)
 
 - Gitflow:
 
-<div align="center"><a  href = "https://postimg.cc/jDfTMPVx"><img  src="https://i.postimg.cc/N05jyqCL/insight3.png"  alt="Github"  width="600"  height="350" /></a></div>
+[![3-Gitflow.jpg](https://i.postimg.cc/256x69fc/3-Gitflow.jpg)](https://postimg.cc/75FztVh0)
 
 
 <br><br>
